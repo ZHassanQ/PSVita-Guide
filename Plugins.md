@@ -239,7 +239,7 @@ ur0:tai/staybright.skprx
 
 ## X. All in One
 
-If you want all the suggested plugins you can easily download this **[file.]()** And extract it in the root of your SD Card. Also you will need to copy this code block:
+If you want all the suggested plugins you can easily download these two **[ur0: file]()**, **[ux0: file.]()** And extract it in the root of your SD Card. Also you will need to copy this code block:
 
 ```
 
