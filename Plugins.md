@@ -124,7 +124,7 @@ ur0:tai/BetterTrackPlug.skprx
 
 I would advise you to set up your bubbles in a way that their title ID's will be the same as the corresponding PSP game's title ID instead of the default PSPEMUXXX, this way, they will use the same file that stores the playtime and you won't see the game twice on the list if you launch it both from bubble or directly from adrenaline.
 
-## 4. StayBright
+## 5. StayBright
 
 **[StayBright](https://www.psx-place.com/resources/staybright.1032)** plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
 
