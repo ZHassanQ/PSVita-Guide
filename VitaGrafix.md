@@ -1,13 +1,15 @@
-This MD file is fully copied from **[VitaGrafix Confiurator Repository.[(https://github.com/Kirezar/VitaGrafixConfigurator)
+# **CREDITS**
+
+This MD file is fully copied from **[VitaGrafix Confiurator Repository](https://github.com/Kirezar/VitaGrafixConfigurator)** with some changes.
 
 # ![VitaGrafix Configurator](https://i.imgur.com/hIdE4yQ.png)
 A GUI Configurator for the VitaGrafix plugin
 
-[Download Here](https://github.com/Kirezar/VitaGrafixConfigurator/releases)
+[Download Here](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/VitaGrafix.suprx)
 
 ## Requirements
 
-This app requires the instalation of [VitaGrafix by Electry](https://github.com/Electry/VitaGrafix)
+This app requires the [instalation](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-3-vitagrafix) of [VitaGrafix by Electry](https://github.com/Electry/VitaGrafix)
 
 The configurator is compatible with **VitaGrafix v5.0**+
 
@@ -45,18 +47,3 @@ You'll be greeted by a VitaGrafix Settings screen, which contains the override s
  ## Cautions
  
  Not every option available might be compatible with each game, please refer to the [compatibility table on the VitaGrafix patchlist github page](https://github.com/Electry/VitaGrafixPatchlist#supported-games)
- 
- ## Build
-
- If you want to build it from source yourself, you are free to do so, download https://github.com/Rinnegatamante/lpp-vita and follow the instructions on the readme file.
- 
- ## Known Issues / Possible new features
- 
- As of this version, you aren't able to save individual profiles for different supported regions, I didn't think it was needed, if it is, please request it
- 
- Graphical interface is ugly, I have zero graphics skills
-
- ## Thanks to the following people
-
-* [Electry](https://github.com/Electry) for the VitaGrafix plugin
-* [Rinnegatamante](https://github.com/Rinnegatamante/) for lpp-vita
