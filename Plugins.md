@@ -8,14 +8,15 @@
 
 ### Installation
  
-1. Copy **[ioplus.skprx]()** to `ur0:/tai` folder, add **"ioplus.skprx"** into your `ur0:/config.txt` file under "• KERNEL" section.
-2. Copy **[reVita.skprx]()** to `ur0:/tai` folder, add **"reVita.skprx"** into your `ur0:/config.txt` file under "• KERNEL" section. 
+1. Copy **[ioplus.skprx]()** to `ur0:/tai` folder, add **"ioplus.skprx"** into your `ur0:/config.txt` file under **"• KERNEL"** section.
+2. Copy **[reVita.skprx]()** to `ur0:/tai` folder, add **"reVita.skprx"** into your `ur0:/config.txt` file under **"• KERNEL"** section. 
 - Should be installed before ds34vita/ds4touch in tai config.
-- Optional, to get Gyro support: Copy **[reVitaMotion.suprx]()** to `ur0:/tai` folder, add **"reVitaMotion.suprx"** into your `ur0:/"config.txt"` file under "• MAIN" section.
+- Optional, to get Gyro support: Copy **[reVitaMotion.suprx]()** to `ur0:/tai` folder, add **"reVitaMotion.suprx"** into your `ur0:/"config.txt"` file under **"• MAIN"** section.
 
 ### Installed
 
 ```
+
 • KERNEL
 
 ur0:tai/ioplus.skprx
@@ -25,6 +26,7 @@ ur0:tai/reVita.skprx
 • MAIN
 
 ur0:tai/reVitaMotion.suprx
+
 ```
 
 ### Notes
@@ -38,16 +40,26 @@ ur0:tai/reVitaMotion.suprx
 
 ### Installation
 
-1. Copy **[ds34vita.skprx]()** to `ur0:/tai` folder, add **"ds34vita.skprx"** into your `ur0:/config.txt` file under "• KERNEL" section.
-2. Copy **[ds34motion.skprx]()** to `ux0:/tai` folder, add **"ds34motion.skprx"** into your `ux0:/config.txt` file under "• KERNEL" section.
-3. Copy **[ds34motion.suprx]()** to `ux0:/tai` folder, add **"ds34motion.suprx"** into your `ux0:/config.txt` file under "• TITLEID00" section.
+1. Copy **[ds34vita.skprx]()** to `ur0:/tai` folder, add **"ds34vita.skprx"** into your `ur0:/config.txt` file under **"• KERNEL"** section.
+2. Copy **[ds34motion.skprx]()** to `ux0:/tai` folder, add **"ds34motion.skprx"** into your `ux0:/config.txt` file under **"• KERNEL"** section.
+3. Copy **[ds34motion.suprx]()** to `ux0:/tai` folder, add **"ds34motion.suprx"** into your `ux0:/config.txt` file under **"• TITLEID00"** section.
 
-### Installed
+### Installed (ur0:)
 
 ```
+
 • KERNEL
 
 ur0:tai/ds34vita.skprx
+
+```
+
+### Installed (ux:)
+
+```
+
+• KERNEL
+
 ux0:tai/ds34motion.skprx
 
 
@@ -55,6 +67,7 @@ ux0:tai/ds34motion.skprx
 # Replace it with your game's TITLEID. Or "ALL" to affect all titles.
 
 ux0:tai/ds34motion.suprx
+
 ```
 
 ### Notes (DS34Motion)
