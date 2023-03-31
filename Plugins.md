@@ -237,7 +237,7 @@ ur0:tai/pngshot.suprx
 
 ```
 
-## 🍂 X. All in One
+## X. All in One
 
 If you want all the suggested plugins you can easily download this **[file.]()** And extract it in the root of your SD Card. Also you will need to copy this code block:
 
