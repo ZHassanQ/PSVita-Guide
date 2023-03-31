@@ -9,11 +9,11 @@ This is the **"Plugins.md"** file contains every plugin i suggest and how to ins
 - 🔆 Enhances
   - **[VitaGrafix](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-3-vitagrafix)**
   - **[NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-7-nopowerlimitsvita)**
-- 🎨 Appearance
-  - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-quick-menu-plus)**
 - 🎞️ Media
   - **[TrophyShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-8-trophyshot)**
   - **[PNGShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-9-pngshot)**
+- 🎨 Appearance
+  - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-quick-menu-plus)**
 - 🍂 Miscellaneous
   - **[BetterTrackPlug](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-4-bettertrackplug)**
   - **[StayBright](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-staybright)**
