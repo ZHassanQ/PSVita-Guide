@@ -104,7 +104,7 @@ ux0:tai/VitaGrafix.suprx
 
 ## 4. BetterTrackPlug
 
-**[BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug)** A plugin that keeps track of how long you played your games. (To display your playtime use **[BetterTrackPlug App]()**)
+**[BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug)** a plugin that keeps track of how long you played your games. (To display your playtime use **[BetterTrackPlug App]()**)
 
 ### Installation 
 
@@ -126,7 +126,7 @@ I would advise you to set up your bubbles in a way that their title ID's will be
 
 ## 5. StayBright
 
-**[StayBright](https://www.psx-place.com/resources/staybright.1032)** plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
+**[StayBright](https://www.psx-place.com/resources/staybright.1032)** a plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
 
 ### Installation 
 
@@ -144,4 +144,120 @@ ur0:tai/staybright.skprx
 
 ## 6. Quick Menu Plus
 
-**[Quick Menu Plus]($**
+**[Quick Menu Plus](https://forum.devchroma.nl/index.php/topic,78.html)** merges Quick Power, Quick Volume, and Rapidmenu, as well as adding new features and style enhancements for the Quick Menu.
+
+### Installation
+
+1. Copy **[quickmenuplus.suprx]()** to `ur0:tai` folder, add **"quickmenuplus.suprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+
+### Installed (ur0:)
+
+```
+
+• KERNEL
+
+ur0:tai/quickmenuplus.suprx
+
+```
+
+### Notes
+
+- Download and extract this file in the directory `ur0:/data/quickmenuplus` to configure Quick Menu Plus.
+- **"standbyisrestart.txt"** sets the standby button to function as a restart button. Put in the file **"1"** to enable, or **"0"** to disable. If the file does not exist, the default is enabled on the Vita, and disabled on the PSTV. When this setting is disabled, hold the **"Power Off ・ Restart"** button to restart, and press to power off.
+- **"bgstyle.txt"** sets the background style. Put in the file **"0"** for original, **"1"** for translucent, and **"2"** for black. If the file does not exist, the default is translucent. Black can reduce power consumption for OLED screens. The gradient effect is removed in all styles.
+
+## 7. NoPowerLimitsVita
+
+**[NoPowerLimits](https://github.com/Electry/NoPowerLimitsVita)** a plugin that removes some restrictions like: 77% Brightness limit, Disabled WLAN (network features), & Disabled camera.
+
+### Installation
+
+1. Copy **[NoPowerLimits.skprx]()** to `ur0:tai` folder, add **"NoPowerLimits.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+
+### Installed (ur0:)
+
+```
+
+• KERNEL
+
+ur0:tai/NoPowerLimits.skprx
+
+```
+
+## 8. TrophyShot
+
+**[TrophyShot](https://github.com/FMudanyali/TrophyShot)** plugin that takes a screenshot when you get a trophy.
+
+### Installation
+
+1. Copy **[TrophyShot.suprx]()** to `ur0:tai` folder, add **"TrophyShot.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+
+### Installed (ur0:)
+
+```
+
+• MAIN
+
+ur0:tai/TrophyShot.suprx
+
+```
+
+## 9. PNGShot
+
+**[PngShot](https://github.com/xyzz/pngshot)**  plugin to make screenshots great again. Press PS button + Start to take a screenshot. You can access screenshots with the Photos app, or from `ux0:picture/SCREENSHOT` folder.
+
+### Installation
+
+1. Copy **[pngshot.suprx]()** to `ur0:tai` folder, add **"pngshot.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+
+### Installed (ur0:)
+
+```
+
+• MAIN
+
+ur0:tai/pngshot.suprx
+
+```
+
+## X. All in One
+
+If you want all the suggested plugins you can easily download this **[file.]()** And extract it in the root of your SD Card. Also you will need to copy this code block:
+
+```
+
+• KERNEL
+
+ur0:tai/ioplus.skprx
+ur0:tai/reVita.skprx
+ur0:tai/ds34vita.skprx
+
+• MAIN
+
+ur0:tai/reVitaMotion.suprx
+
+```
+
+And paste it to your `ur0:tai/"config.txt` file. And copy this code block:
+
+```
+
+• KERNEL
+
+ux0:tai/ds34motion.skprx
+
+
+• TITLEID00
+# Replace it with your game's TITLEID. Or "ALL" to affect all titles.
+
+ux0:tai/ds34motion.suprx
+
+• MAIN
+
+• ALL
+
+```
+
+And paste it to your `ux0:tai/"config.txt"` file.
+
+## XI. PSP Plugins (Second Stick & Native Resolution)
