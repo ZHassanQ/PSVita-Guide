@@ -97,10 +97,11 @@ ux0:tai/ds34motion.suprx
 
 ## 🔆 3. VitaGrafix
 
-**[VitaGrafix](https://github.com/Electry/VitaGrafix)** a plugin that allows you to change resolution and FPS cap of PS Vita games. (To get better visuals, higher FPS or longer battery life) Read **["VitaGrafix.md"]()** file to see how to use this plugin.
+**[VitaGrafix](https://github.com/Electry/VitaGrafix)** a plugin that allows you to change resolution and FPS cap of PS Vita games. (To get better visuals, higher FPS or longer battery life) Read **["VitaGrafix.md"](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/VitaGrafix.md)** file to see how to use this plugin.
 
 ### Installation
 
+0. Download this **[file]()** and put it in: `ux0:/data/VitaGrafix/` (If not found create it)
 1. Copy **[ioplus.skprx]()** to `ux0:tai` folder, add **"ioplus.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
 2. Copy **[VitaGrafix.suprx]()** to `ux0:tai` folder, add **"VitaGrafix.suprx"** into your `ux0:tai/"config.txt"` file under **"• ALL"** section.
 
@@ -277,7 +278,7 @@ ux0:tai/ds34motion.suprx
 
 ```
 
-And paste it to your `ux0:tai/"config.txt"` file.
+And paste it to your `ux0:tai/"config.txt"` file. And lastly download this **[file]()** and put it in: `ux0:/data/VitaGrafix/` (If not found create it)
 
 ## XI. PSP Plugins (Second Stick & Enhancements)
 
