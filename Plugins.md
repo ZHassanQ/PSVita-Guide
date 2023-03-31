@@ -1,6 +1,6 @@
 # Plugins
 
-This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#x-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#xi-psp-plugins-second-stick--enhancements)**
+This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#x-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#xi-psp-plugins-second-stick--enhancements)**
 
 🧭 Table of Contents
 - 🗝 Input
@@ -292,7 +292,7 @@ This installation process applies to every PSP plugin. The difference is the plu
 
 1. Copy **[gta_native.prx]()** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/gta_native.prx 1"** into your `ux0:pspemu/seplugins/"game.txt"`
 2. Download and extract this **[remastered file]()** in the root of your SD Card and copy this code block into your: `ux0:pspemu/seplugins/"game.txt`
-3. Copy **[camera_patch_lite.ini]()** & [camera_patch_lite.prx]() to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/camera_patch_lite.prx 1"** into your `ux0:pspemu/seplugins/"game.txt"`
+3. Copy **[camera_patch_lite.ini]()** & **[camera_patch_lite.prx]()** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/camera_patch_lite.prx 1"** into your `ux0:pspemu/seplugins/"game.txt"`
 4. Copy **[ge_patch.prx]()** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/ge_patch 1"** into your `ux0:pspemu/seplugins/"game.txt"`
 
 ### Installed (ux0:pspemu/)
