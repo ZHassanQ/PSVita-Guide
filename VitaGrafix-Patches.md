@@ -104,7 +104,7 @@
 | ![][NOISSUES] | Ys VIII: Lacrimosa of Dana | PCSB01128 <br/> PCSE01103 <br/> PCSG00881 <br/> PCSH00297 | 3x Internal res. <br/> FPS cap | 960x512, 840x476, 720x320 <br/> 30 | |
 
 ## Supported games (patch/)
-These require *patchlist.txt* as well as additional files located in *patch/* folder.
+These require *patchlist.txt* as well as additional files located in *patch/* folder. (If you followed my plugins installation they are already added)
 
 |   | Game          | Title ID(s)   | Supported features | Game defaults | Notes.............. |
 | - | ------------- | ------------- | ------------------ | ------------- | ------------------- |
