@@ -1,19 +1,22 @@
 # Plugins
 
-This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. If you want them all easily go to this **[section]()** (It doesn't contain the PSP plugins) if you want the PSP plugins go to this **[section.]()**
+This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#x-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#xi-psp-plugins-second-stick--native-resolution)**
 
 🧭 Table of Contents
-- 💡 Customization
-  - **[]()**
 - 🎞️ Media
-  - **[]()**
+  - **[TrophyShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-8-trophyshot))**
+  - **[PNGShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-9-pngshot)**
 - 🔆 Enhances
-  - **[]()**
+  - **[VitaGrafix](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-3-vitagrafix)**
+  - **[NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-7-nopowerlimitsvita)**
 - 🎨 Appearance
-  - **[]()**
+  - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-quick-menu-plus)****
 - 🗝 Input
-  - **[]()**
+  - **[ReVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-1-revita)**
+  - **[DS34](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-2-ds34vita--ds34motion)**
 - 🍂 Miscellaneous
+  - **[BetterTrackPlug](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-4-bettertrackplug)**
+  - **[StayBright](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-staybright)**
 
 ## 🗝 1. ReVita
 
