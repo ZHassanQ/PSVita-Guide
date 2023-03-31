@@ -3,17 +3,17 @@
 This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#x-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#xi-psp-plugins-second-stick--native-resolution)**
 
 🧭 Table of Contents
-- 🎞️ Media
-  - **[TrophyShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-8-trophyshot)**
-  - **[PNGShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-9-pngshot)**
+- 🗝 Input
+  - **[ReVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-1-revita)**
+  - **[DS34](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-2-ds34vita--ds34motion)**
 - 🔆 Enhances
   - **[VitaGrafix](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-3-vitagrafix)**
   - **[NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-7-nopowerlimitsvita)**
 - 🎨 Appearance
   - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-quick-menu-plus)**
-- 🗝 Input
-  - **[ReVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-1-revita)**
-  - **[DS34](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-2-ds34vita--ds34motion)**
+- 🎞️ Media
+  - **[TrophyShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-8-trophyshot)**
+  - **[PNGShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-9-pngshot)**
 - 🍂 Miscellaneous
   - **[BetterTrackPlug](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-4-bettertrackplug)**
   - **[StayBright](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-staybright)**
@@ -119,35 +119,13 @@ ux0:tai/VitaGrafix.suprx
 
 ```
 
-## 🍂 4. BetterTrackPlug
+## 🔆 4. NoPowerLimitsVita
 
-**[BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug)** a plugin that keeps track of how long you played your games. (To display your playtime use **[BetterTrackPlug App]()**)
+**[NoPowerLimits](https://github.com/Electry/NoPowerLimitsVita)** a plugin that removes some restrictions like: 77% Brightness limit, Disabled WLAN (network features), & Disabled camera.
 
-### Installation 
+### Installation
 
-1. Copy **[BetterTrackPlug.skprx]()** to `ur0:tai` folder, add **"BetterTrackPlug.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
-
-### Installed (ur0:)
-
-```
-
-• KERNEL
-
-ur0:tai/BetterTrackPlug.skprx
-
-```
-
-### Notes (App)
-
-I would advise you to set up your bubbles in a way that their title ID's will be the same as the corresponding PSP game's title ID instead of the default PSPEMUXXX, this way, they will use the same file that stores the playtime and you won't see the game twice on the list if you launch it both from bubble or directly from adrenaline.
-
-## 🍂 5. StayBright
-
-**[StayBright](https://www.psx-place.com/resources/staybright.1032)** a plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
-
-### Installation 
-
-1. Copy **[staybright.skprx]()** to `ur0:tai` folder, add **"staybright.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[NoPowerLimits.skprx]()** to `ur0:tai` folder, add **"NoPowerLimits.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
 ### Installed (ur0:)
 
@@ -155,11 +133,47 @@ I would advise you to set up your bubbles in a way that their title ID's will be
 
 • KERNEL
 
-ur0:tai/staybright.skprx
+ur0:tai/NoPowerLimits.skprx
 
 ```
 
-## 🎨 6. Quick Menu Plus
+## 🎞️ 5. TrophyShot
+
+**[TrophyShot](https://github.com/FMudanyali/TrophyShot)** plugin that takes a screenshot when you get a trophy.
+
+### Installation
+
+1. Copy **[TrophyShot.suprx]()** to `ur0:tai` folder, add **"TrophyShot.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+
+### Installed (ur0:)
+
+```
+
+• MAIN
+
+ur0:tai/TrophyShot.suprx
+
+```
+
+## 🎞️ 6. PNGShot
+
+**[PngShot](https://github.com/xyzz/pngshot)**  plugin to make screenshots great again. Press PS button + Start to take a screenshot. You can access screenshots with the Photos app, or from `ux0:picture/SCREENSHOT` folder.
+
+### Installation
+
+1. Copy **[pngshot.suprx]()** to `ur0:tai` folder, add **"pngshot.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+
+### Installed (ur0:)
+
+```
+
+• MAIN
+
+ur0:tai/pngshot.suprx
+
+```
+
+## 🎨 7. Quick Menu Plus
 
 **[Quick Menu Plus](https://forum.devchroma.nl/index.php/topic,78.html)** merges Quick Power, Quick Volume, and Rapidmenu, as well as adding new features and style enhancements for the Quick Menu.
 
@@ -183,13 +197,13 @@ ur0:tai/quickmenuplus.suprx
 - **"standbyisrestart.txt"** sets the standby button to function as a restart button. Put in the file **"1"** to enable, or **"0"** to disable. If the file does not exist, the default is enabled on the Vita, and disabled on the PSTV. When this setting is disabled, hold the **"Power Off ・ Restart"** button to restart, and press to power off.
 - **"bgstyle.txt"** sets the background style. Put in the file **"0"** for original, **"1"** for translucent, and **"2"** for black. If the file does not exist, the default is translucent. Black can reduce power consumption for OLED screens. The gradient effect is removed in all styles.
 
-## 🔆 7. NoPowerLimitsVita
+## 🍂 8. BetterTrackPlug
 
-**[NoPowerLimits](https://github.com/Electry/NoPowerLimitsVita)** a plugin that removes some restrictions like: 77% Brightness limit, Disabled WLAN (network features), & Disabled camera.
+**[BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug)** a plugin that keeps track of how long you played your games. (To display your playtime use **[BetterTrackPlug App]()**)
 
-### Installation
+### Installation 
 
-1. Copy **[NoPowerLimits.skprx]()** to `ur0:tai` folder, add **"NoPowerLimits.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[BetterTrackPlug.skprx]()** to `ur0:tai` folder, add **"BetterTrackPlug.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
 ### Installed (ur0:)
 
@@ -197,43 +211,29 @@ ur0:tai/quickmenuplus.suprx
 
 • KERNEL
 
-ur0:tai/NoPowerLimits.skprx
+ur0:tai/BetterTrackPlug.skprx
 
 ```
 
-## 🎞️ 8. TrophyShot
+### Notes (App)
 
-**[TrophyShot](https://github.com/FMudanyali/TrophyShot)** plugin that takes a screenshot when you get a trophy.
+I would advise you to set up your bubbles in a way that their title ID's will be the same as the corresponding PSP game's title ID instead of the default PSPEMUXXX, this way, they will use the same file that stores the playtime and you won't see the game twice on the list if you launch it both from bubble or directly from adrenaline.
 
-### Installation
+## 🍂 9. StayBright
 
-1. Copy **[TrophyShot.suprx]()** to `ur0:tai` folder, add **"TrophyShot.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+**[StayBright](https://www.psx-place.com/resources/staybright.1032)** a plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
+
+### Installation 
+
+1. Copy **[staybright.skprx]()** to `ur0:tai` folder, add **"staybright.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
 ### Installed (ur0:)
 
 ```
 
-• MAIN
+• KERNEL
 
-ur0:tai/TrophyShot.suprx
-
-```
-
-## 🎞️ 9. PNGShot
-
-**[PngShot](https://github.com/xyzz/pngshot)**  plugin to make screenshots great again. Press PS button + Start to take a screenshot. You can access screenshots with the Photos app, or from `ux0:picture/SCREENSHOT` folder.
-
-### Installation
-
-1. Copy **[pngshot.suprx]()** to `ur0:tai` folder, add **"pngshot.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
-
-### Installed (ur0:)
-
-```
-
-• MAIN
-
-ur0:tai/pngshot.suprx
+ur0:tai/staybright.skprx
 
 ```
 
