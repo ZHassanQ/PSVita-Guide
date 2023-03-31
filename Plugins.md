@@ -291,7 +291,7 @@ And paste it to your `ux0:tai/"config.txt"` file.
 This installation process applies to every PSP plugin. The difference is the plugin name.
 
 1. Copy **[gta_native.prx]()** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/gta_native.prx 1"** into your `ux0:pspemu/seplugins/"game.txt"`
-2. Download and extract this [file]() in the root of your SD Card and copy this code block into your: `ux0:pspemu/seplugins/"game.txt`
+2. Download and extract this **[file]()** in the root of your SD Card and copy this code block into your: `ux0:pspemu/seplugins/"game.txt`
 - **gta_remastered_v2.prx** - **"ms0:/seplugins/gta_remastered_v2.prx"**
 - **resistance_remastered** - **"ms0:/seplugins/resistance_remastered.prx"**
 - **splintercell_remastered** - **"ms0:/seplugins/splintercell_remastered.prx"**
