@@ -3,17 +3,17 @@
 
 ## 1. ReVita
 
-**[ReVita](https://github.com/MERLev/reVita)** a plugin for PS Vita / PS TV, which allows you to remap inputs and trigger different actions.
+**[ReVita](https://github.com/MERLev/reVita)** a plugin for PS Vita / PS TV, which allows you to remap inputs and trigger different actions. To use it press the Select + Square.
 
 
 ### Installation
  
-1. Copy **[ioplus.skprx]()** to `ur0:/tai` folder, add **"ioplus.skprx"** into your `ur0:/config.txt` file under **"• KERNEL"** section.
-2. Copy **[reVita.skprx]()** to `ur0:/tai` folder, add **"reVita.skprx"** into your `ur0:/config.txt` file under **"• KERNEL"** section. 
+1. Copy **[ioplus.skprx]()** to `ur0:tai` folder, add **"ioplus.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+2. Copy **[reVita.skprx]()** to `ur0:tai` folder, add **"reVita.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section. 
 - Should be installed before ds34vita/ds4touch in tai config.
-- Optional, to get Gyro support: Copy **[reVitaMotion.suprx]()** to `ur0:/tai` folder, add **"reVitaMotion.suprx"** into your `ur0:/"config.txt"` file under **"• MAIN"** section.
+- Optional, to get Gyro support: Copy **[reVitaMotion.suprx]()** to `ur0:tai` folder, add **"reVitaMotion.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
 
-### Installed
+### Installed (ur0:)
 
 ```
 
@@ -36,13 +36,13 @@ ur0:tai/reVitaMotion.suprx
 
 ## 2. DS34Vita & DS34Motion
 
-**[DS34Vita](https://github.com/MERLev/ds34vita)** adds DualShock 3, 4, & Dualsense support to your PSVita. And **[DS34Motion](https://github.com/MERLev/DS34Motion) adds motion support to your DualShock 3, 4 controllers to your PSVita.
+**[DS34Vita](https://github.com/MERLev/ds34vita)** adds DualShock 3, 4, & Dualsense support to your PSVita. And **[DS34Motion](https://github.com/MERLev/DS34Motion)** adds motion support to your DualShock 3, 4 controllers to your PSVita.
 
 ### Installation
 
-1. Copy **[ds34vita.skprx]()** to `ur0:/tai` folder, add **"ds34vita.skprx"** into your `ur0:/config.txt` file under **"• KERNEL"** section.
-2. Copy **[ds34motion.skprx]()** to `ux0:/tai` folder, add **"ds34motion.skprx"** into your `ux0:/config.txt` file under **"• KERNEL"** section.
-3. Copy **[ds34motion.suprx]()** to `ux0:/tai` folder, add **"ds34motion.suprx"** into your `ux0:/config.txt` file under **"• TITLEID00"** section.
+1. Copy **[ds34vita.skprx]()** to `ur0:tai` folder, add **"ds34vita.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+2. Copy **[ds34motion.skprx]()** to `ux0:tai` folder, add **"ds34motion.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
+3. Copy **[ds34motion.suprx]()** to `ux0:tai` folder, add **"ds34motion.suprx"** into your `ux0:tai/"config.txt"` file under **"• TITLEID00"** section.
 
 ### Installed (ur0:)
 
@@ -78,7 +78,66 @@ ux0:tai/ds34motion.suprx
 - Currently, gyroscope data is not exploited during orientation compute (due to drift problems I had when I tried), feel free to give help if you have some maths/IMU skills!
 - Some games could be perceived like they have inverted horizontal controls (specially during FPS and TPS viewpoints) but it is a wrong impression (on a real PS Vita, tilting the device on the left also makes the view goes to the right and vice versa).
 
-## 3.
+## 3. VitaGrafix
+
+**[VitaGrafix](https://github.com/Electry/VitaGrafix)** a plugin that allows you to change resolution and FPS cap of PS Vita games. (To get better visuals, higher FPS or longer battery life) Read **["VitaGrafix.md"]()** file to see how to use this plugin.
+
+### Installation
+
+1. Copy **[ioplus.skprx]()** to `ux0:tai` folder, add **"ioplus.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
+2. Copy **[VitaGrafix.suprx]()** to `ux0:tai` folder, add **"VitaGrafix.suprx"** into your `ux0:tai/"config.txt"` file under **"• ALL"** section.
+
+### Installed (ux0:)
+
+```
+
+• KERNEL
+
+ux0:tai/ioplus.skprx
 
 
-## 4.
+• ALL
+
+ux0:tai/VitaGrafix.suprx
+
+```
+
+## 4. StayBright
+
+**[StayBright](https://www.psx-place.com/resources/staybright.1032) plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
+
+### Installation 
+
+1. Copy **[staybright.skprx]()** to `ur0:tai` folder, add **"staybright.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+
+### Installed 
+
+```
+
+• KERNEL
+
+ur:tai/staybright.skprx
+
+```
+
+## 5. BetterTrackPlug
+
+**[BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug)** A plugin that keeps track of how long you played your games. (To display your playtime use **[BetterTrackPlug App]()**)
+
+### Installation 
+
+1. Copy **[BetterTrackPlug.skprx]()** to `ur0:tai` folder, add **"BetterTrackPlug.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+
+### Installed 
+
+```
+
+• KERNEL
+
+ur0:tai/BetterTrackPlug.skprx
+
+```
+
+### Notes (App)
+
+I would advise you to set up your bubbles in a way that their title ID's will be the same as the corresponding PSP game's title ID instead of the default PSPEMUXXX, this way, they will use the same file that stores the playtime and you won't see the game twice on the list if you launch it both from bubble or directly from adrenaline.
