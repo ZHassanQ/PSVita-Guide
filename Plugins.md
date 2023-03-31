@@ -101,7 +101,7 @@ ux0:tai/ds34motion.suprx
 
 ### Installation
 
-0. Download this **[file]()** and put it in: `ux0:/data/VitaGrafix/` (If not found create it)
+0. Download this **[file]()** and extract it in the root of your SD Card.
 1. Copy **[ioplus.skprx]()** to `ux0:tai` folder, add **"ioplus.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
 2. Copy **[VitaGrafix.suprx]()** to `ux0:tai` folder, add **"VitaGrafix.suprx"** into your `ux0:tai/"config.txt"` file under **"• ALL"** section.
 
@@ -278,7 +278,7 @@ ux0:tai/ds34motion.suprx
 
 ```
 
-And paste it to your `ux0:tai/"config.txt"` file. And lastly download this **[file]()** and put it in: `ux0:/data/VitaGrafix/` (If not found create it)
+And paste it to your `ux0:tai/"config.txt"` file. And lastly download this **[file]()** and extract it in the root of your SD Card.
 
 ## XI. PSP Plugins (Second Stick & Enhancements)
 
