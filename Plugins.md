@@ -1,7 +1,20 @@
 # Plugins
 
+This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. If you want them all easily go to this **[section]()** (It doesn't contain the PSP plugins) if you want the PSP plugins go to this **[section.]()**
 
-## 1. ReVita
+🧭 Table of Contents
+- 💡 Customization
+  - **[]()**
+- 🎞️ Media
+  - **[]()**
+- 🔆 Enhances
+  - **[]()**
+- 🎨 Appearance
+  - **[]()**
+- 🗝 Input
+  - **[]()**
+
+## 💡 1. ReVita
 
 **[ReVita](https://github.com/MERLev/reVita)** a plugin for PS Vita / PS TV, which allows you to remap inputs and trigger different actions. To use it press the Select + Square.
 
