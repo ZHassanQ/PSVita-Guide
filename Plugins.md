@@ -4,13 +4,13 @@ This is the **"Plugins.md"** file contains every plugin i suggest and how to ins
 
 🧭 Table of Contents
 - 🎞️ Media
-  - **[TrophyShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-8-trophyshot))**
+  - **[TrophyShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-8-trophyshot)**
   - **[PNGShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-9-pngshot)**
 - 🔆 Enhances
   - **[VitaGrafix](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-3-vitagrafix)**
   - **[NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-7-nopowerlimitsvita)**
 - 🎨 Appearance
-  - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-quick-menu-plus)****
+  - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-quick-menu-plus)**
 - 🗝 Input
   - **[ReVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-1-revita)**
   - **[DS34](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-2-ds34vita--ds34motion)**
