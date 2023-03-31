@@ -110,7 +110,7 @@ ux0:tai/VitaGrafix.suprx
 
 1. Copy **[staybright.skprx]()** to `ur0:tai` folder, add **"staybright.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
-### Installed 
+### Installed (ur0:)
 
 ```
 
