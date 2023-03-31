@@ -104,7 +104,7 @@ ux0:tai/VitaGrafix.suprx
 
 ## 4. StayBright
 
-**[StayBright](https://www.psx-place.com/resources/staybright.1032) plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
+**[StayBright](https://www.psx-place.com/resources/staybright.1032)** plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
 
 ### Installation 
 
@@ -116,7 +116,7 @@ ux0:tai/VitaGrafix.suprx
 
 • KERNEL
 
-ur:tai/staybright.skprx
+ur0:tai/staybright.skprx
 
 ```
 
