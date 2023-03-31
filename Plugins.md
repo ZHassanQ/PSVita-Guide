@@ -279,4 +279,48 @@ ux0:tai/ds34motion.suprx
 
 And paste it to your `ux0:tai/"config.txt"` file.
 
-## XI. PSP Plugins (Second Stick & Native Resolution)
+## XI. PSP Plugins (Second Stick & Enhancements)
+
+- **[GTANativeRes](https://github.com/TheOfficialFloW/GTANativeRes)** Internal resolution patch for PSP GTA series.
+- **[RemasteredControls](https://github.com/TheOfficialFloW/RemasteredControls)** A collection of dual analog patches for PSP games on Adrenaline.
+- **[PSP-Camera_Patch_Lite](https://github.com/Freakler/psp-camera_patch_lite)** More collection of dual analog patches for PSP games on Adrenaline.
+- **[GePatch](https://github.com/TheOfficialFloW/GePatch)** Enables native resolution in a few PSP games. (If a **[game crashed](https://docs.google.com/spreadsheets/d/1aZlmKwELcdpCb9ezI5iRfgcX9hoGxgL4tNC-673aKqk/edit#gid=0)** launch it while holding the R button to skip GePatch)
+- 
+### Installation
+
+This installation process applies to every PSP plugin. The difference is the plugin name.
+
+1. Copy **[gta_native.prx]()** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/gta_native.prx 1"** into your `ux0:pspemu/seplugins/"game.txt"`
+2. Download and extract this [file]() in the root of your SD Card and copy this code block into your: `ux0:pspemu/seplugins/"game.txt`
+- **gta_remastered_v2.prx** - **"ms0:/seplugins/gta_remastered_v2.prx"**
+- **resistance_remastered** - **"ms0:/seplugins/resistance_remastered.prx"**
+- **splintercell_remastered** - **"ms0:/seplugins/splintercell_remastered.prx"**
+- **tombraider_remastered** - **"ms0:/seplugins/tombraider_remastered.prx"**
+- **pop_remastered** - **"ms0:/seplugins/pop_remastered.prx"**
+- **khbbs_remastered** - **"ms0:/seplugins/khbbs_remastered.prx"**
+- **mgs_remastered** - **"ms0:/seplugins/mgs_remastered.prx"**
+- **warriors_remastered** - **"ms0:/seplugins/warriors_remastered.prx"**
+- **tonyhawk_remastered** - **"ms0:/seplugins/tonyhawk_remastered.prx"**
+3. Copy **[camera_patch_lite.ini]()** & [camera_patch_lite.prx]() to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/camera_patch_lite.prx 1"** into your `ux0:pspemu/seplugins/"game.txt"`
+4. Copy **[ge_patch.prx]()** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/ge_patch 1"** into your `ux0:pspemu/seplugins/"game.txt"`
+
+### Installed (ux0:pspemu/)
+
+```
+
+# To disable a plugin set the plugin line to false 0.
+
+ms0:seplugins/gta_native.prx 1
+ms0:seplugins/gta_remastered_v2.prx 1
+ms0:seplugins/resistance_remastered.prx 1
+ms0:seplugins/splintercell_remastered.prx 1
+ms0:seplugins/tombraider_remastered.prx 1
+ms0:seplugins/pop_remastered.prx 1
+ms0:seplugins/khbbs_remastered.prx 1
+ms0:seplugins/mgs_remastered.prx 1
+ms0:seplugins/warriors_remastered.prx 1
+ms0:seplugins/tonyhawk_remastered.prx 1
+ms0:seplugins/camera_patch_lite.prx 1
+ms0:seplugins/ge_patch 1
+
+```
