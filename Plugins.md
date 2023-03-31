@@ -102,25 +102,7 @@ ux0:tai/VitaGrafix.suprx
 
 ```
 
-## 4. StayBright
-
-**[StayBright](https://www.psx-place.com/resources/staybright.1032)** plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
-
-### Installation 
-
-1. Copy **[staybright.skprx]()** to `ur0:tai` folder, add **"staybright.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
-
-### Installed (ur0:)
-
-```
-
-• KERNEL
-
-ur0:tai/staybright.skprx
-
-```
-
-## 5. BetterTrackPlug
+## 4. BetterTrackPlug
 
 **[BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug)** A plugin that keeps track of how long you played your games. (To display your playtime use **[BetterTrackPlug App]()**)
 
@@ -141,3 +123,25 @@ ur0:tai/BetterTrackPlug.skprx
 ### Notes (App)
 
 I would advise you to set up your bubbles in a way that their title ID's will be the same as the corresponding PSP game's title ID instead of the default PSPEMUXXX, this way, they will use the same file that stores the playtime and you won't see the game twice on the list if you launch it both from bubble or directly from adrenaline.
+
+## 4. StayBright
+
+**[StayBright](https://www.psx-place.com/resources/staybright.1032)** plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
+
+### Installation 
+
+1. Copy **[staybright.skprx]()** to `ur0:tai` folder, add **"staybright.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+
+### Installed (ur0:)
+
+```
+
+• KERNEL
+
+ur0:tai/staybright.skprx
+
+```
+
+## 6. Quick Menu Plus
+
+**[Quick Menu Plus]($**
