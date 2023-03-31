@@ -231,10 +231,16 @@ If you want all the suggested plugins you can easily download this **[file.]()**
 ur0:tai/ioplus.skprx
 ur0:tai/reVita.skprx
 ur0:tai/ds34vita.skprx
+ur0:tai/BetterTrackPlug.skprx
+ur0:tai/staybright.skprx
+ur0:tai/quickmenuplus.suprx
+ur0:tai/NoPowerLimits.skprx
 
 • MAIN
 
 ur0:tai/reVitaMotion.suprx
+ur0:tai/TrophyShot.suprx
+ur0:tai/pngshot.suprx
 
 ```
 
@@ -244,17 +250,13 @@ And paste it to your `ur0:tai/"config.txt` file. And copy this code block:
 
 • KERNEL
 
+ux0:tai/ioplus.skprx
 ux0:tai/ds34motion.skprx
 
-
-• TITLEID00
-# Replace it with your game's TITLEID. Or "ALL" to affect all titles.
-
-ux0:tai/ds34motion.suprx
-
-• MAIN
-
 • ALL
+
+ux0:tai/VitaGrafix.suprx
+ux0:tai/ds34motion.suprx
 
 ```
 
