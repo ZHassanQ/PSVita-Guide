@@ -1,6 +1,6 @@
 # Plugins
 
-This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#x-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#xi-psp-plugins-second-stick--native-resolution)**
+This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#x-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#xi-psp-plugins-second-stick--enhancements))**
 
 🧭 Table of Contents
 - 🗝 Input
