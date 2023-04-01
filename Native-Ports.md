@@ -39,5 +39,15 @@ If you want more performance then use these two plugins:
 ## Grand Theft Auto: Chinatown Wars
 
 
+# SonicMastr Ports
+
+**[SonicMastr](https://github.com/SonicMastr/)** as his name ports Sonic games for now he ported: Sonic 1, 2, CD, & Mania. All of his ports requires the assests of the original game which can be obtained from legaly purchased APK or a Steam version.
+
+## Sonic 1, 2
+## Sonic CD
+## Sonic Mania
+
+
 # Others
 ## Super Mario 64
+## Max Payne
