@@ -71,7 +71,7 @@ ur0:tai/ds34vita.skprx
 
 ```
 
-### Installed (ux:)
+### Installed (ux0:)
 
 ```
 
