@@ -9,6 +9,9 @@ This is the **"Plugins.md"** file contains every plugin i suggest and how to ins
 - 🔆 Enhances
   - **[VitaGrafix](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-3-vitagrafix)**
   - **[NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-4-nopowerlimitsvita)**
+- 🚀 Overclocking
+ - **[CapUnlocker](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-CapUnlocker)**
+ - **[PSVshellPlus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-psvshellplus)**
 - 🎞️ Media
   - **[TrophyShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-7-trophyshot)**
   - **[PNGShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-8-pngshot)**
@@ -138,7 +141,47 @@ ur0:tai/NoPowerLimits.skprx
 
 ```
 
-## 🎞️ 6. TrophyShot
+## 🚀 5. CapUnlocker
+
+**[CapUnlocker](https://github.com/GrapheneCt/CapUnlocker)** allows to use system reserved 4th CPU core and other capabilities. (Mainly used for heavy games and/or ports)
+
+### Installation 
+
+
+
+### Installed (ux0:)
+
+```
+
+
+
+```
+ 
+## 🚀 6. PSVshellPlus
+
+**[PSVshellPlus](https://github.com/GrapheneCt/PSVshellPlus)** advanced overclock plugin with FPS counter and CPU usage (Mainly used for heavy games and/or ports)
+
+### Installation 
+
+1. Copy **[PSVshellPlus_Kernel.skprx]()** to `ur0:tai` folder, add **"PSVshellPlus_Kernel.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+2. Copy **[PSVshellPlus_Shell.suprx]()** to `ur0:tai` folder, add **"PSVshellPlus_Shell.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+
+### Installed (ur0:)
+
+```
+
+• KERNEL
+
+ur0:tai/PSVshellPlus_Kernel.skprx
+
+
+• MAIN
+
+ur0:tai/PSVshellPlus_Shell.suprx
+
+```
+
+## 🎞️ 7. TrophyShot
 
 **[TrophyShot](https://github.com/FMudanyali/TrophyShot)** plugin that takes a screenshot when you get a trophy.
 
@@ -156,7 +199,7 @@ ur0:tai/TrophyShot.suprx
 
 ```
 
-## 🎞️ 7. PNGShot
+## 🎞️ 8. PNGShot
 
 **[PngShot](https://github.com/xyzz/pngshot)**  plugin to make screenshots great again. Press PS button + Start to take a screenshot. You can access screenshots with the Photos app, or from `ux0:picture/SCREENSHOT` folder.
 
@@ -174,7 +217,7 @@ ur0:tai/pngshot.suprx
 
 ```
 
-## 🎨 8. Quick Menu Plus
+## 🎨 9. Quick Menu Plus
 
 **[Quick Menu Plus](https://forum.devchroma.nl/index.php/topic,78.html)** merges Quick Power, Quick Volume, and Rapidmenu, as well as adding new features and style enhancements for the Quick Menu.
 
@@ -198,7 +241,7 @@ ur0:tai/quickmenuplus.suprx
 - **"standbyisrestart.txt"** sets the standby button to function as a restart button. Put in the file **"1"** to enable, or **"0"** to disable. If the file does not exist, the default is enabled on the Vita, and disabled on the PSTV. When this setting is disabled, hold the **"Power Off ・ Restart"** button to restart, and press to power off.
 - **"bgstyle.txt"** sets the background style. Put in the file **"0"** for original, **"1"** for translucent, and **"2"** for black. If the file does not exist, the default is translucent. Black can reduce power consumption for OLED screens. The gradient effect is removed in all styles.
 
-## 🍂 9. BetterTrackPlug
+## 🍂 X. BetterTrackPlug
 
 **[BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug)** a plugin that keeps track of how long you played your games. (To display your playtime use **[BetterTrackPlug App]()**)
 
@@ -220,7 +263,7 @@ ur0:tai/BetterTrackPlug.skprx
 
 I would advise you to set up your bubbles in a way that their title ID's will be the same as the corresponding PSP game's title ID instead of the default PSPEMUXXX, this way, they will use the same file that stores the playtime and you won't see the game twice on the list if you launch it both from bubble or directly from adrenaline.
 
-## 🍂 X. StayBright
+## 🍂 XI. StayBright
 
 **[StayBright](https://www.psx-place.com/resources/staybright.1032)** a plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
 
@@ -238,7 +281,7 @@ ur0:tai/staybright.skprx
 
 ```
 
-## XI. All in One
+## XII. All in One
 
 If you want all the suggested plugins you can easily download these two **[ur0: file](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ur0_plugins.zip)**, **[ux0: file.](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ux0_plugins.zip)** And extract it in the root of your SD Card. Also you will need to copy this code block:
 
@@ -280,7 +323,7 @@ ux0:tai/ds34motion.suprx
 
 And paste it to your `ux0:tai/"config.txt"` file. And lastly download this **[file](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/Patchlist+patches.zip)** and extract it in the root of your SD Card.
 
-## XII. PSP Plugins (Second Stick & Enhancements)
+## XIII. PSP Plugins (Second Stick & Enhancements)
 
 - **[GTANativeRes](https://github.com/TheOfficialFloW/GTANativeRes)** Internal resolution patch for PSP GTA series.
 - **[RemasteredControls](https://github.com/TheOfficialFloW/RemasteredControls)** A collection of dual analog patches for PSP games on Adrenaline.
