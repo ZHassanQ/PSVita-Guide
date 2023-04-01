@@ -10,8 +10,8 @@ This is the **"Plugins.md"** file contains every plugin i suggest and how to ins
   - **[VitaGrafix](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-3-vitagrafix)**
   - **[NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-4-nopowerlimitsvita)**
 - 🚀 Overclocking
- - **[CapUnlocker](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-CapUnlocker)**
- - **[PSVshellPlus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-psvshellplus)**
+  - **[CapUnlocker](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-CapUnlocker)**
+  - **[PSVshellPlus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-psvshellplus)**
 - 🎞️ Media
   - **[TrophyShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-7-trophyshot)**
   - **[PNGShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-8-pngshot)**
@@ -147,24 +147,7 @@ ur0:tai/NoPowerLimits.skprx
 
 ### Installation 
 
-
-
-### Installed (ux0:)
-
-```
-
-
-
-```
- 
-## 🚀 6. PSVshellPlus
-
-**[PSVshellPlus](https://github.com/GrapheneCt/PSVshellPlus)** advanced overclock plugin with FPS counter and CPU usage (Mainly used for heavy games and/or ports)
-
-### Installation 
-
-1. Copy **[PSVshellPlus_Kernel.skprx]()** to `ur0:tai` folder, add **"PSVshellPlus_Kernel.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
-2. Copy **[PSVshellPlus_Shell.suprx]()** to `ur0:tai` folder, add **"PSVshellPlus_Shell.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+1. Copy **[CapUnlocker.skprx]()** to `ur0:tai` folder, add **"CapUnlocker.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
 ### Installed (ur0:)
 
@@ -172,15 +155,46 @@ ur0:tai/NoPowerLimits.skprx
 
 • KERNEL
 
-ur0:tai/PSVshellPlus_Kernel.skprx
+ur0:tai/CapUnlocker.skprx
 
+```
+ 
+## 🚀 6. PSVshellPlus
 
-• MAIN
+**[PSVshell](https://github.com/Electry/PSVshell)** overclock plugin with FPS counter and CPU usage (Mainly used for heavy games and/or ports)
 
-ur0:tai/PSVshellPlus_Shell.suprx
+### Installation 
+
+1. Copy **[PSVshell.skprx]()** to `ur0:tai` folder, add **"PSVshell.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+
+### Installed (ur0:)
 
 ```
 
+• KERNEL
+
+ur0:tai/PSVshell.skprx
+
+```
+
+### Notes
+
+- Press SELECT + UP or SELECT + DOWN to toggle between 3 GUI modes
+
+- When in 'FULL' mode:
+
+  - Use UP/DOWN to move in the menu
+  - Press X to toggle frequency mode for currently selected > device <:
+  - Default freq. (WHITE) - the plugin will not interfere, but rather use the default freq. for current game
+  - Manual freq. (BLUE) - the plugin will use your specified freq.
+  - press LEFT/RIGHT to immediately change the frequency
+  - Press X when > save profile < is selected to save/delete profiles
+  - All Manual freq. (BLUE) will be loaded and applied next time you start/resume the game
+  - All Default freq. (WHITE) will be kept to default (set to whatever freq. the game asks for)
+  - Press and hold LEFT TRIGGER and > save profile < will change to > save global <
+  - Press X when > save global < is selected and the options will be saved to global (default) profile
+  - Global profile will be used as default profile when game-specific profile doesn't exist
+ 
 ## 🎞️ 7. TrophyShot
 
 **[TrophyShot](https://github.com/FMudanyali/TrophyShot)** plugin that takes a screenshot when you get a trophy.
