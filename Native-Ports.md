@@ -1,6 +1,6 @@
 # Native Ports
 
-This is the **"Native-Ports.md"** file contains the best ports i suggest and how to install them. If you want them all easily go to this **[section.]()**
+This is the **"Native-Ports.md"** file contains the best ports i suggest and how to install them.
 
 
 ## Prerequisites
@@ -28,3 +28,16 @@ If you want more performance then use these two plugins:
 
 - **[NoCapUnlocker](https://github.com/GrapheneCt/CapUnlocker)** Unlocks some non-game capabilities for PS Vita homebrew apps. (**[Guide](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-capunlocker)**)
 - **[PSVshell](https://github.com/Electry/PSVshell)** Yet another overclocking plugin. Use it to overclock your PSVita to 500Mhz. (**[Guide](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-psvshellplus)**)
+
+
+# TheOfficialFlow Ports
+
+**[TheOfficialFlow](https://github.com/TheOfficialFloW)** ports uses the android version of the game's and recall it syscalls so that the PSVita can provide what the game wants with **[vitaGL.](https://github.com/TheOfficialFloW/vitaGL)** (OpenGL for PSVita)
+
+## Bully: Anniversary Edition
+## Grand Theft Auto: San Andreas
+## Grand Theft Auto: Chinatown Wars
+
+
+# Others
+## Super Mario 64
