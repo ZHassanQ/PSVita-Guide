@@ -32,7 +32,7 @@ If you want more performance then use these two plugins:
 
 # TheOfficialFlow Ports
 
-**[TheOfficialFlow](https://github.com/TheOfficialFloW)** ports uses the android version of the game's and recall it syscalls so that the PSVita can provide what the game wants with **[vitaGL.](https://github.com/TheOfficialFloW/vitaGL)** (OpenGL for PSVita)
+**[TheOfficialFlow](https://github.com/TheOfficialFloW)** ports uses the android version of the game's which uses ARMv7 and recall it syscalls so that the PSVita can provide what the game wants with **[vitaGL.](https://github.com/TheOfficialFloW/vitaGL)** (OpenGL for PSVita)
 
 ## Bully: Anniversary Edition
 ## Grand Theft Auto: San Andreas
