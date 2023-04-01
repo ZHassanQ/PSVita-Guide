@@ -50,4 +50,9 @@ If you want more performance then use these two plugins:
 
 # Others
 ## Super Mario 64
+
+This **[Super Mario 64]()** port has been ported from **[]()** then **[]()** enhanced it.
+
 ## Max Payne
+
+This **[Max Payne]() port has been ported from **[]()** and it requires the APK version.
