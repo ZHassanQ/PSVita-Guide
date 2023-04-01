@@ -185,15 +185,15 @@ ur0:tai/PSVshell.skprx
 
   - Use UP/DOWN to move in the menu
   - Press X to toggle frequency mode for currently selected > device <:
-  - Default freq. (WHITE) - the plugin will not interfere, but rather use the default freq. for current game
-  - Manual freq. (BLUE) - the plugin will use your specified freq.
-  - press LEFT/RIGHT to immediately change the frequency
+    - Default freq. (WHITE) - the plugin will not interfere, but rather use the default freq. for current game
+    - Manual freq. (BLUE) - the plugin will use your specified freq.
+      - press LEFT/RIGHT to immediately change the frequency
   - Press X when > save profile < is selected to save/delete profiles
-  - All Manual freq. (BLUE) will be loaded and applied next time you start/resume the game
-  - All Default freq. (WHITE) will be kept to default (set to whatever freq. the game asks for)
+    - All Manual freq. (BLUE) will be loaded and applied next time you start/resume the game
+    - All Default freq. (WHITE) will be kept to default (set to whatever freq. the game asks for)
   - Press and hold LEFT TRIGGER and > save profile < will change to > save global <
-  - Press X when > save global < is selected and the options will be saved to global (default) profile
-  - Global profile will be used as default profile when game-specific profile doesn't exist
+    - Press X when > save global < is selected and the options will be saved to global (default) profile
+    - Global profile will be used as default profile when game-specific profile doesn't exist
  
 ## 🎞️ 7. TrophyShot
 
