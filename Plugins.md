@@ -1,6 +1,6 @@
 # Plugins
 
-This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#x-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#xi-psp-plugins-second-stick--enhancements)**
+This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#xii-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#xiii-psp-plugins-second-stick--enhancements)**
 
 🧭 Table of Contents
 - 🗝 Input
@@ -8,15 +8,15 @@ This is the **"Plugins.md"** file contains every plugin i suggest and how to ins
   - **[DS34](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-2-ds34vita--ds34motion)**
 - 🔆 Enhances
   - **[VitaGrafix](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-3-vitagrafix)**
-  - **[NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-7-nopowerlimitsvita)**
+  - **[NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-4-nopowerlimitsvita)**
 - 🎞️ Media
-  - **[TrophyShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-8-trophyshot)**
-  - **[PNGShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-9-pngshot)**
+  - **[TrophyShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-7-trophyshot)**
+  - **[PNGShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-8-pngshot)**
 - 🎨 Appearance
-  - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-quick-menu-plus)**
+  - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-9-quick-menu-plus)**
 - 🍂 Miscellaneous
-  - **[BetterTrackPlug](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-4-bettertrackplug)**
-  - **[StayBright](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-staybright)**
+  - **[BetterTrackPlug](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-x-bettertrackplug)**
+  - **[StayBright](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-xi-staybright)**
 
 ## 🗝 1. ReVita
 
@@ -138,7 +138,7 @@ ur0:tai/NoPowerLimits.skprx
 
 ```
 
-## 🎞️ 5. TrophyShot
+## 🎞️ 6. TrophyShot
 
 **[TrophyShot](https://github.com/FMudanyali/TrophyShot)** plugin that takes a screenshot when you get a trophy.
 
@@ -156,7 +156,7 @@ ur0:tai/TrophyShot.suprx
 
 ```
 
-## 🎞️ 6. PNGShot
+## 🎞️ 7. PNGShot
 
 **[PngShot](https://github.com/xyzz/pngshot)**  plugin to make screenshots great again. Press PS button + Start to take a screenshot. You can access screenshots with the Photos app, or from `ux0:picture/SCREENSHOT` folder.
 
@@ -174,7 +174,7 @@ ur0:tai/pngshot.suprx
 
 ```
 
-## 🎨 7. Quick Menu Plus
+## 🎨 8. Quick Menu Plus
 
 **[Quick Menu Plus](https://forum.devchroma.nl/index.php/topic,78.html)** merges Quick Power, Quick Volume, and Rapidmenu, as well as adding new features and style enhancements for the Quick Menu.
 
@@ -198,7 +198,7 @@ ur0:tai/quickmenuplus.suprx
 - **"standbyisrestart.txt"** sets the standby button to function as a restart button. Put in the file **"1"** to enable, or **"0"** to disable. If the file does not exist, the default is enabled on the Vita, and disabled on the PSTV. When this setting is disabled, hold the **"Power Off ・ Restart"** button to restart, and press to power off.
 - **"bgstyle.txt"** sets the background style. Put in the file **"0"** for original, **"1"** for translucent, and **"2"** for black. If the file does not exist, the default is translucent. Black can reduce power consumption for OLED screens. The gradient effect is removed in all styles.
 
-## 🍂 8. BetterTrackPlug
+## 🍂 9. BetterTrackPlug
 
 **[BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug)** a plugin that keeps track of how long you played your games. (To display your playtime use **[BetterTrackPlug App]()**)
 
@@ -220,7 +220,7 @@ ur0:tai/BetterTrackPlug.skprx
 
 I would advise you to set up your bubbles in a way that their title ID's will be the same as the corresponding PSP game's title ID instead of the default PSPEMUXXX, this way, they will use the same file that stores the playtime and you won't see the game twice on the list if you launch it both from bubble or directly from adrenaline.
 
-## 🍂 9. StayBright
+## 🍂 X. StayBright
 
 **[StayBright](https://www.psx-place.com/resources/staybright.1032)** a plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
 
@@ -238,7 +238,7 @@ ur0:tai/staybright.skprx
 
 ```
 
-## X. All in One
+## XI. All in One
 
 If you want all the suggested plugins you can easily download these two **[ur0: file](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ur0_plugins.zip)**, **[ux0: file.](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ux0_plugins.zip)** And extract it in the root of your SD Card. Also you will need to copy this code block:
 
@@ -280,7 +280,7 @@ ux0:tai/ds34motion.suprx
 
 And paste it to your `ux0:tai/"config.txt"` file. And lastly download this **[file](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/Patchlist+patches.zip)** and extract it in the root of your SD Card.
 
-## XI. PSP Plugins (Second Stick & Enhancements)
+## XII. PSP Plugins (Second Stick & Enhancements)
 
 - **[GTANativeRes](https://github.com/TheOfficialFloW/GTANativeRes)** Internal resolution patch for PSP GTA series.
 - **[RemasteredControls](https://github.com/TheOfficialFloW/RemasteredControls)** A collection of dual analog patches for PSP games on Adrenaline.
