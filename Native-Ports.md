@@ -26,5 +26,5 @@ ux0:tai/fd_fix.skprx
 
 If you want more performance then use these two plugins: 
 
-- **[NoCapUnlocker](https://github.com/GrapheneCt/CapUnlocker)** Unlocks some non-game capabilities for PS Vita homebrew apps. (**[Guide]()**)
-- **[PSVshell](https://github.com/Electry/PSVshell)** Yet another overclocking plugin. (**[Guide]()**)
+- **[NoCapUnlocker](https://github.com/GrapheneCt/CapUnlocker)** Unlocks some non-game capabilities for PS Vita homebrew apps. (**[Guide](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-capunlocker)**)
+- **[PSVshell](https://github.com/Electry/PSVshell)** Yet another overclocking plugin. Overclock your PSVita to 500Mhz. (**[Guide](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-psvshellplus)**)
