@@ -349,7 +349,7 @@ And paste it to your `ux0:tai/"config.txt"` file. And lastly download this **[fi
 This installation process applies to every PSP plugin. The difference is the plugin name.
 
 1. Copy **[gta_native.prx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/gta_native.prx)** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/gta_native.prx 1"** into your `ux0:pspemu/seplugins/"game.txt"`
-2. Download and extract this **[remastered file](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/Remastered-PSP-Plugins.zip)** in the root of your SD Card and copy this code block into your: `ux0:pspemu/seplugins/"game.txt`
+2. Download and extract this **[remastered file](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/Remastered-PSP-Plugins.zip)** in the root of your SD Card and copy the **"remastered"** code block into your: `ux0:pspemu/seplugins/"game.txt`
 3. Copy **[camera_patch_lite.ini](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/camera_patch_lite.ini)** & **[camera_patch_lite.prx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/camera_patch_lite.prx)** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/camera_patch_lite.prx 1"** into your `ux0:pspemu/seplugins/"game.txt"`
 4. Copy **[ge_patch.prx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ge_patch.prx)** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/ge_patch 1"** into your `ux0:pspemu/seplugins/"game.txt"`
 
