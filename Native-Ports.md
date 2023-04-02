@@ -49,12 +49,12 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 ### Installation
 
-1. Extract from game's APK: `Assets` folder, and `libarmeabi-v7a/libBully.so` file to `ux0:data/Bully` folder. 
+1. Extract from game's APK: `Assets` folder contents, and `libarmeabi-v7a/libBully.so` file to `ux0:data/Bully` folder. 
 2. Extract from game's APK: `Android/obb/com.rockstargames.bully/main.11.com.rockstargames.bully.obb` file, and `Android/obb/com.rockstargames.bully/patch.11.com.rockstargames.bully.obb` file to `ux0:data/Bully/Android` folder.
 3. Rename **"main.11.com.rockstargames.bully.obb"** to **"main.obb"**
 4. Rename **"patch.11.com.rockstargames.bully.obb"** to **"patch.obb"**
 5. Extract **[data.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Bully-data.zip)** to `ux0:data/Bully` folder.
-6. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Bully_r1.vpk)** (It will create a shortcut in live area) 
+6. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Bully_r1.vpk)** (It will create a shortcut in LiveArea) 
 
 ### Notes
 
@@ -66,15 +66,10 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 ### Installation
 
-1. Extract from game's APK: `Assets` folder, and `libarmeabi-v7a/libBully.so` file to `ux0:data/Bully` folder. 
-2. Extract from game's APK: `Android/obb/com.rockstargames.bully/main.11.com.rockstargames.bully.obb` file, and `Android/obb/com.rockstargames.bully/patch.11.com.rockstargames.bully.obb` file to `ux0:data/Bully/Android` folder.
-3. Rename **"main.11.com.rockstargames.bully.obb"** to **"main.obb"**
-4. Rename **"patch.11.com.rockstargames.bully.obb"** to **"patch.obb"**
-5. Extract **"gamefiles.zip"** to `ux0:data/Bully` folder.
-6. Install this **[VPK file.]()** (It will create a shortcut in live area) 
-
-### Notes
-
+1. Extract from game's APK: `Assets` folder contents, and `libarmeabi-v7a/libgl2jni.so` file to `ux0:data/crazytaxi` folder. 
+2. Extract from game's APK: `Android/obb/com.sega.CrazyTaxi/main.67.com.sega.CrazyTaxi.obb` file to `ux0:data/crazytaxi
+3. Rename **"main.67.com.sega.CrazyTaxi.obb"** to **"main.obb"**
+4. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/CRAZYTAXI_r3.vpk)** (It will create a shortcut in LiveArea)
 
 ## Grand Theft Auto: Chinatown Wars
 
@@ -82,12 +77,10 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 ### Installation
 
-1. Extract from game's APK: `Assets` folder, and `libarmeabi-v7a/libBully.so` file to `ux0:data/Bully` folder. 
-2. Extract from game's APK: `Android/obb/com.rockstargames.bully/main.11.com.rockstargames.bully.obb` file, and `Android/obb/com.rockstargames.bully/patch.11.com.rockstargames.bully.obb` file to `ux0:data/Bully/Android` folder.
-3. Rename **"main.11.com.rockstargames.bully.obb"** to **"main.obb"**
-4. Rename **"patch.11.com.rockstargames.bully.obb"** to **"patch.obb"**
-5. Extract **"gamefiles.zip"** to `ux0:data/Bully` folder.
-6. Install this **[VPK file.]()** (It will create a shortcut in live area) 
+1. Extract from game's APK: `Assets` folder contents, and `libarmeabi-v7a/libCTW.so` file to `ux0:data/gtactw` folder. 
+2. Extract from game's APK: `Android/obb/com.rockstargames.gtactw/main.4.com.rockstargames.gtactw.obb` file on your Computer.
+3. Extract **"main.4.com.rockstargames.gtactw.obb"** file contents to `ux0:data/gtactw` folder
+4. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTACTW_r3.vpk)** (It will create a shortcut in LiveArea) 
 
 ### Notes
 
@@ -98,16 +91,24 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 ### Installation
 
-1. Extract from game's APK: `Assets` folder, and `libarmeabi-v7a/libBully.so` file to `ux0:data/Bully` folder. 
-2. Extract from game's APK: `Android/obb/com.rockstargames.bully/main.11.com.rockstargames.bully.obb` file, and `Android/obb/com.rockstargames.bully/patch.11.com.rockstargames.bully.obb` file to `ux0:data/Bully/Android` folder.
-3. Rename **"main.11.com.rockstargames.bully.obb"** to **"main.obb"**
-4. Rename **"patch.11.com.rockstargames.bully.obb"** to **"patch.obb"**
-5. Extract **"gamefiles.zip"** to `ux0:data/Bully` folder.
-6. Install this **[VPK file.]()** (It will create a shortcut in live area) 
+1. Extract from game's APK: `Assets` folder contents, and `libarmeabi-v7a/libGTASA.so` file to `ux0:data/gtasa` folder. 
+2. Extract from game's APK: `Android/obb/com.rockstargames.gtasa/main.8.com.rockstargames.gtasa.obb` file, and `Android/obb/com.rockstargames.gtasa/patch.8.com.rockstargames.gtasa.obb` file on your Computer.
+3. Extract **"main.8.com.rockstargames.gtasa.obb"** and **"patch.8.com.rockstargames.gtasa.obb"** files contents to `ux0:data/gtasa`
+4. Extract **[data.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTASA-data.zip)** to `ux0:data/gtasa` folder.
+5. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTASA_r12.vpk)** (It will create a shortcut in LiveArea)
 
 ### Notes
 
+1. After fully installing the port, you'll be able to configure it with the Configurator app. The Configurator app will allow users to enable or disable a set of optimizations, patches and renderer alterations to best match users taste. You can launch the Configurator app by clicking on the Configuration button located on the LiveArea section.
 
+2. In order to reduce occasional stutters in-game, delete both `ux0:data/gtasa/scache_small_low.txt` file and `ux0:data/gtasa/scache_small.txt` file, then create a copy of the `ux0:data/gtasa/scache.txt` file to have two version of it. (for example **"scache(1).txt"** so in the end you end up with both **"scache.txt"** and **"scache(1).txt"** inside the `ux0:data/gtasa/` folder), then rename **"scache.txt"** to **"scache_small.txt"** and "**scache(1).txt"** to **"scache_small_low.txt"** . This will however make the loading screen longer since it needs to compile more shaders ahead.
+- If the folder `ux0:data/gtasa/cache` contains much more than 300 files, it's recommended to delete the folder and have it rebuilt.
+3. You can input PC cheats by pressing L + SELECT to open the on-screen keyboard. See CHEATS.md for available and unavailable cheats (you can input cheat codes in lowercase as well as uppercase).
+- The L2/R2 buttons are mapped to the rear touchpad on the top and the L3/R3 buttons are mapped to the front touchpad on the bottom. With v1.2 and higher, you can map L2/R2 to the front touchpad on the top.
+- You can open the map by holding START and then releasing.
+- You can get local freeroam coop and rampages working by replacing the main scripts with those of the PS3 version. See COOP.md.
+- Due to expired licensing, some songs were cut from the game. See **[MUSIC.md](https://github.com/ZHassanQ/Vita-Guide/blob/master/MUSIC.md)** for a list of removed tracks and a guide on how to restore them.
+- To properly take off during Learning to Fly mission, retract your landing gear by pressing RIGHT.
 
 
 # SonicMastr Ports
@@ -116,8 +117,8 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 ## Sonic 1, 2, & CD
 
-**[Sonic-1-2](https://github.com/SonicMastr/Sonic-1-2-Vita/releases)** port forks from Sonic 1, 2 **[Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)** version of it. (Only **APK** version is supported)
-**[Sonic-CD](https://github.com/SonicMastr/Sonic-CD-Vita/releases)** port forks from Sonic CD **[Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation)** version of it. (Only **APK** version is supported)
+- **[Sonic-1-2](https://github.com/SonicMastr/Sonic-1-2-Vita/releases)** port forks from Sonic 1, 2 **[Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)** version of it. (Only **APK** version is supported)
+- **[Sonic-CD](https://github.com/SonicMastr/Sonic-CD-Vita/releases)** port forks from Sonic CD **[Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation)** version of it. (Only **APK** version is supported)
 
 
 ### Installation
@@ -198,7 +199,7 @@ This **[Max Payne](https://github.com/fgsfdsfgs/max_vita)** port has been ported
 3. Extract **"libMaxPayne.so"** file from your APK in `lib/armeabi-v7a` folder to `ux0:data/maxpayne` folder.
 4. Extract **".obb"** file from your APK to `ux0:data/maxpayne` folder.
 5. Extract **[data.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxPayne-data.zip)** to `ux0:data` folder.
-6. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxPayne_r4.vpk)** (It will create a shortcut in live area) 
+6. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxPayne_r4.vpk)** (It will create a shortcut in LiveArea) 
 
 ### Notes
 
