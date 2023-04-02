@@ -15,10 +15,15 @@ This is the **"Native-Ports.md"** file contains the best ports i suggest and how
    - **[Grand Theft Auto: Chinatown Wars](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-chinatown-wars)**
    - **[Grand Theft Auto: San Andreas](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-san-andreas)**
    - **[Sonic 1, 2, & CD](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonic-1-2--CD)**
-   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonic-mania)**
+   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
+   - **[Dead Space](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-dead-space)**
+   - **[Mass Effect Inflitrator](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-mass-effect-infiltrator)**
    - **[Max Payne](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-max-payne)**
  - 🖥️ Computer
-   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonic-mania)**
+   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
+   - **[Fallout](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout)**
+   - **[Fallout 2](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout-2)**
+   - **[Wolfenstein: Return to Castle](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-wolfenstein-return-to-castle)**
  - 🖱 Console Dump
    - **[Super Mario 64](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-64)**
  - ☢️ No Copy Required
