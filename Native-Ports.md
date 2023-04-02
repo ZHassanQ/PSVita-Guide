@@ -2,6 +2,24 @@
 
 This is the **"Native-Ports.md"** file contains the best ports i suggest and how to install them.
 
+🧭 Table of Contents
+ - 🔧 Devolopers
+   - **[TheOfficialFlow](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#theofficialflow-ports)**
+   - **[SonicMastr](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#sonicmastr-ports)**
+   - **[Others](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#others)**
+ - 👾 APK Only
+   - **[Bully: Anniversary Edition](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#bully-anniversary-edition)**
+   - **[Crazy Taxi: Classic](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#crazy-taxi-classic)**
+   - **[Grand Theft Auto: Chinatown Wars](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#grand-theft-auto-chinatown-wars)**
+   - **[Grand Theft Auto: San Andreas](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#grand-theft-auto-san-andreas)**
+   - **[Sonic 1, 2, & CD](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#sonic-1-2--CD)**
+   - **[Max Payne](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#max-payne)**
+ - 🖥️ APK or Computer
+   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#sonic-mania)**
+ - 🖱 Console Dump
+   - **[Super Mario 64](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#super-mario-64)**
+ - ☢️ No Copy Required
+   - **[Super Mario Bros](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#super-mario-bros)**
 
 ## Prerequisites
 
