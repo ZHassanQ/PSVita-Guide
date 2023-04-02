@@ -5,7 +5,16 @@ This is the **"Native-Ports.md"** file contains the best ports i suggest and how
 
 ## Prerequisites
 
-To play these ports you will need these plugins. As said from the official porters.
+### Shader Compiler (libshacccg)
+
+The legal shader compiler **(libshaccg.suprx)** helps to make the developers, porters, or anyone who wants to make anything to PSVita easily to develop, ports a game or app to PSVita. 
+
+1. Download and install this app called **[PIB-Configuration-Tool]()** to your PSVita. (Developed by **[SonicMastr](https://github.com/SonicMastr/)**)
+2. Launch and press the Select button.
+
+### Plugins
+
+And also you to play these ports you will need these **[plugin](https://github.com/TheOfficialFloW/kubridge)-[s.](https://github.com/TheOfficialFloW/FdFix)** As said from the official porters. (These plugins aren't included in AIO pack)
 
 1. Copy **[kubridge.skprx]()** to `ux0:tai` folder, add **"kubridge.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
 2. Copy **[fd_fix.skprx]()** to `ux0:tai` folder, add **"fd_fix.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
@@ -24,7 +33,7 @@ ux0:tai/fd_fix.skprx
 
 ## Optional
 
-If you want more performance then use these two plugins: 
+If you want more performance then use these two plugins: (These plugins are included in AIO pack) 
 
 - **[NoCapUnlocker](https://github.com/GrapheneCt/CapUnlocker)** Unlocks some non-game capabilities for PS Vita homebrew apps. (**[Guide](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-capunlocker)**)
 - **[PSVshell](https://github.com/Electry/PSVshell)** Yet another overclocking plugin. Use it to overclock your PSVita to 500Mhz. (**[Guide](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-psvshellplus)**)
@@ -52,7 +61,7 @@ If you want more performance then use these two plugins:
 # Others
 ## Super Mario Bros
 
-This **[Super Mario Bros]()** port has been ported from **[]()** using this **[]()**
+This **[Super Mario Bros](https://github.com/WeegeeDEVELOPER/uMario-PSVita-Port)** port has been ported from **[WeegeeDEVOLPER](https://github.com/WeegeeDEVELOPER/)** using this **[repository](https://github.com/jakowskidev/uMario_Jakowski)** which is a C++ version of the game developed by **[uMario_Jakowski.](https://github.com/jakowskidev/uMario_Jakowski)**
 
 ## Super Mario 64
 
@@ -60,4 +69,4 @@ This **[Super Mario 64](https://github.com/martepato/sm64-vita)** port has been 
 
 ## Max Payne
 
-This **[Max Payne](https://github.com/fgsfdsfgs/max_vita)** port has been ported from **[fgsfdsfgs](https://github.com/fgsfdsfgs/)** and it uses the APK 1.7 version.
+This **[Max Payne](https://github.com/fgsfdsfgs/max_vita)** port has been ported from **[fgsfdsfgs](https://github.com/fgsfdsfgs/)** and it uses a legally purchased APK 1.7 version of Max Payne. (This port mostly uses TheOfficialFlow ports way)
