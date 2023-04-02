@@ -47,17 +47,66 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 **[Bully: Anniversary Edition](https://github.com/TheOfficialFloW/bully_vita)** port uses **any version** of the game's APK.
 
+### Installation
+
+1. Extract from game's APK: `Assets` folder, and `libarmeabi-v7a/libBully.so` file to `ux0:data/Bully` folder. 
+2. Extract from game's APK: `Android/obb/com.rockstargames.bully/main.11.com.rockstargames.bully.obb` file, and `Android/obb/com.rockstargames.bully/patch.11.com.rockstargames.bully.obb` file to `ux0:data/Bully/Android` folder.
+3. Rename **"main.11.com.rockstargames.bully.obb"** to **"main.obb"**
+4. Rename **"patch.11.com.rockstargames.bully.obb"** to **"patch.obb"**
+5. Extract **[data.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Bully-data.zip)** to `ux0:data/Bully` folder.
+6. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Bully_r1.vpk)** (It will create a shortcut in live area) 
+
+### Notes
+
+- The official game does not free unused textures (as modern smartphones have more RAM than the PS Vita) and as such, the game will crash after a long gameplay.
+
 ## Crazy Taxi: Classic
 
 **[Crazy Taxi: Classic](https://github.com/TheOfficialFloW/crazytaxi_vita)** port uses **any version** of the game's APK.
+
+### Installation
+
+1. Extract from game's APK: `Assets` folder, and `libarmeabi-v7a/libBully.so` file to `ux0:data/Bully` folder. 
+2. Extract from game's APK: `Android/obb/com.rockstargames.bully/main.11.com.rockstargames.bully.obb` file, and `Android/obb/com.rockstargames.bully/patch.11.com.rockstargames.bully.obb` file to `ux0:data/Bully/Android` folder.
+3. Rename **"main.11.com.rockstargames.bully.obb"** to **"main.obb"**
+4. Rename **"patch.11.com.rockstargames.bully.obb"** to **"patch.obb"**
+5. Extract **"gamefiles.zip"** to `ux0:data/Bully` folder.
+6. Install this **[VPK file.]()** (It will create a shortcut in live area) 
+
+### Notes
+
 
 ## Grand Theft Auto: Chinatown Wars
 
 **[Grand Theft Auto: Chinatown Wars](https://github.com/TheOfficialFloW/gtactw_vita)** port uses **1.04 version** of the game's APK.
 
+### Installation
+
+1. Extract from game's APK: `Assets` folder, and `libarmeabi-v7a/libBully.so` file to `ux0:data/Bully` folder. 
+2. Extract from game's APK: `Android/obb/com.rockstargames.bully/main.11.com.rockstargames.bully.obb` file, and `Android/obb/com.rockstargames.bully/patch.11.com.rockstargames.bully.obb` file to `ux0:data/Bully/Android` folder.
+3. Rename **"main.11.com.rockstargames.bully.obb"** to **"main.obb"**
+4. Rename **"patch.11.com.rockstargames.bully.obb"** to **"patch.obb"**
+5. Extract **"gamefiles.zip"** to `ux0:data/Bully` folder.
+6. Install this **[VPK file.]()** (It will create a shortcut in live area) 
+
+### Notes
+
+
 ## Grand Theft Auto: San Andreas
 
 **[Grand Theft Auto: San Andreas](https://github.com/TheOfficialFloW/gtasa_vita)** port uses **2.00 version** of the game's APK.
+
+### Installation
+
+1. Extract from game's APK: `Assets` folder, and `libarmeabi-v7a/libBully.so` file to `ux0:data/Bully` folder. 
+2. Extract from game's APK: `Android/obb/com.rockstargames.bully/main.11.com.rockstargames.bully.obb` file, and `Android/obb/com.rockstargames.bully/patch.11.com.rockstargames.bully.obb` file to `ux0:data/Bully/Android` folder.
+3. Rename **"main.11.com.rockstargames.bully.obb"** to **"main.obb"**
+4. Rename **"patch.11.com.rockstargames.bully.obb"** to **"patch.obb"**
+5. Extract **"gamefiles.zip"** to `ux0:data/Bully` folder.
+6. Install this **[VPK file.]()** (It will create a shortcut in live area) 
+
+### Notes
+
 
 
 
@@ -68,6 +117,8 @@ If you want more performance then use these two plugins: (These plugins **are** 
 ## Sonic 1, 2, & CD
 
 **[Sonic-1-2](https://github.com/SonicMastr/Sonic-1-2-Vita/releases)** port forks from Sonic 1, 2 **[Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)** version of it. (Only **APK** version is supported)
+**[Sonic-CD](https://github.com/SonicMastr/Sonic-CD-Vita/releases)** port forks from Sonic CD **[Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation)** version of it. (Only **APK** version is supported)
+
 
 ### Installation
 
@@ -75,9 +126,9 @@ If you want more performance then use these two plugins: (These plugins **are** 
 2. Place **"Data.rsdk.msf"** in `ux0:data/Sonic2/` for Sonic the Hedgehog 2.
 3. Place **"Data.rsdk.msf"** in `ux0:data/Sonic2/` for Sonic CD.
 4. Rename all files to: **"Data.rsdk"**
-5. Install **[Sonic1 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic1.vpk)** file for Sonic the Hedgehog 1.
-6. Install **[Sonic2 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic2.vpk)** file for Sonic the Hedgehog 2.
-7. Install **[SonicCD VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicCD.vpk)** file for Sonic CD.
+5. Install **[Sonic1 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic1_r4.vpk)** file for Sonic the Hedgehog 1.
+6. Install **[Sonic2 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic2_r4.vpk)** file for Sonic the Hedgehog 2.
+7. Install **[SonicCD VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicCD_r3.vpk)** file for Sonic CD.
 
 ### Notes
 
@@ -99,7 +150,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
 1. Place **"Data.rsdk"** in `ux0:data/Mania`
 2. Download these two **[Game.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Game.suprx)** - **[Settings.ini](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Settings.ini)** files and put them in `ux0:data/Mania` folder.
 3. Download this **[modconfig.ini](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/modconfig.ini)** file and put it in `ux0:data/Mania/mods` folder.
-4. Install **[SonicMania VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicMania.vpk)** file.
+4. Install **[SonicMania VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicMania_r3.vpk)** file.
 
 ### Notes
 
