@@ -65,13 +65,28 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 **[SonicMastr](https://github.com/SonicMastr/)** as his name ports Sonic games for now he ported: Sonic 1, 2, CD, & Mania. All of his ports requires the assets of the original game which can be obtained from legaly purchased APK or a Steam version.
 
-## Sonic 1, 2
+## Sonic 1, 2, & CD
 
 **[Sonic-1-2](https://github.com/SonicMastr/Sonic-1-2-Vita/releases)** port forks from Sonic 1, 2 **[Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)** version of it. (Only **APK** version is supported)
 
-## Sonic CD
+1. Place **"Data.rsdk.msf"** in `x0:data/Sonic1/` for Sonic the Hedgehog 1. 
+2. Place **"Data.rsdk.msf"** in `ux0:data/Sonic2/` for Sonic the Hedgehog 2.
+3. Place **"Data.rsdk.msf"** in `ux0:data/Sonic2/` for Sonic CD.
+4. Rename all files to: **"Data.rsdk"**
+5. Install **[Sonic1 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic1.vpk)** file for Sonic the Hedgehog 1.
+6. Install **[Sonic2 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic2.vpk)** file for Sonic the Hedgehog 2.
+7. Install **[SonicCD VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicCD.vpk)** file for Sonic CD.
 
-**[Sonic-CD](https://github.com/SonicMastr/Sonic-CD-Vita/releases)** port forks from Sonic CD **[Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation)** version of it. (**APK** and **Steam** version are supported)
+### Notes
+
+- Sonic 1, 2
+  - Sounds stops working after suspension on some systems. It will start playing again after an event triggers playback.
+
+- Sonic CD
+  - Rare crash while loading a save or starting new game. Just restart.
+  - Special Stages Run at around 40fps average. This is simply due to the Software renderer and should be fixed when a Hardware renderer is added.
+  - A single frame flashes in-between transitions.
+
 
 ## Sonic Mania
 
@@ -94,13 +109,17 @@ This **[Super Mario 64](https://github.com/martepato/sm64-vita)** port has been 
 
 ### Installation
 
-1. Download the **[master branch]()** of this **[repository.](https://github.com/martepato/sm64-vita)** (**"master branch"** links to a backup in this repository)
+1. Download the **[master branch](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/sm64-vita-master.zip)** of this **[repository.](https://github.com/martepato/sm64-vita)** (**"master branch"** links to a backup in this repository)
 2. Download and install **[VitaSDK](https://vitasdk.org/)**
 3. Enter the **"masteer branch"** by Terminal, CMD. `cd sm64-vita`
 4. Place a Super Mario 64 ROM called **"baserom.<VERSION>.z64"** into the repository's root directory for asset extraction, where **"VERSION"** can be `us`, `jp`, or `eu`
 5. Run these commands: `./build_deps.sh`, `make TARGET_VITA=1 vpk`
 6. The installable VPK file will be found in `sm64-vita-master/build/<VERSION>_vita`
 
+### Notes
+  
+- TAS Input stops working if the app is suspended or the Vita is put to sleep.
+  
 ## Max Payne
 
 This **[Max Payne](https://github.com/fgsfdsfgs/max_vita)** port has been ported from **[fgsfdsfgs](https://github.com/fgsfdsfgs/)** and it uses a legally purchased APK 1.7 version of Max Payne. (This port mostly uses TheOfficialFlow ports way)
