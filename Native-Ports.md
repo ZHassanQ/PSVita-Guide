@@ -35,6 +35,7 @@ If you want more performance then use these two plugins:
 **[TheOfficialFlow](https://github.com/TheOfficialFloW)** ports uses the android version of the game's which uses ARMv7 and recall it syscalls so that the PSVita can provide what the game wants with **[vitaGL.](https://github.com/TheOfficialFloW/vitaGL)** (OpenGL for PSVita)
 
 ## Bully: Anniversary Edition
+## Crazy Taxi: Classic
 ## Grand Theft Auto: San Andreas
 ## Grand Theft Auto: Chinatown Wars
 
@@ -49,10 +50,14 @@ If you want more performance then use these two plugins:
 
 
 # Others
+## Super Mario Bros
+
+This **[Super Mario Bros]()** port has been ported from **[]()** using this **[]()**
+
 ## Super Mario 64
 
-This **[Super Mario 64]()** port has been ported from **[]()** then **[]()** enhanced it.
+This **[Super Mario 64](https://github.com/martepato/sm64-vita)** port has been ported from **[bythos](https://github.com/bythos14/)** using this **[repository](https://github.com/sm64-port/sm64-port)** that contains a full decompilation of Super Mario 64 (J), (U), (E), and (SH). Then **[martepato](https://github.com/martepato/)** enhanced it.
 
 ## Max Payne
 
-This **[Max Payne]() port has been ported from **[]()** and it requires the APK version.
+This **[Max Payne](https://github.com/fgsfdsfgs/max_vita)** port has been ported from **[fgsfdsfgs](https://github.com/fgsfdsfgs/)** and it uses the APK 1.7 version.
