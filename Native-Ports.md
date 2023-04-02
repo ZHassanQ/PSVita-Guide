@@ -86,7 +86,7 @@ This **[Super Mario Bros](https://github.com/WeegeeDEVELOPER/uMario-PSVita-Port)
 
 ### Installation
 
-1. Simply install this **[VPK file]()** as it isn't illegal as it doesn't contain any original assets from the NES game.
+1. Simply install this **[VPK file](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/Assets/uMario_v1.2.7.vpk)** as it isn't illegal as it doesn't contain any original assets from the NES game.
 
 ## Super Mario 64
 
@@ -107,8 +107,8 @@ This **[Max Payne](https://github.com/fgsfdsfgs/max_vita)** port has been ported
 2. Extract **"assets"** folder from your APK to `ux0:data/maxpayne` folder.
 3. Extract **"libMaxPayne.so"** file from your APK in `lib/armeabi-v7a` folder to `ux0:data/maxpayne` folder.
 4. Extract **".obb"** file from your APK to `ux0:data/maxpayne` folder.
-5. Extract **[data.zip]()** to `ux0:data` folder.
-6. Install this **[VPK file.]()** (It will create a shortcut in live area) 
+5. Extract **[data.zip](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/Assets/MaxPayne-data.zip)** to `ux0:data` folder.
+6. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/Assets/MaxPayne_r4.vpk)** (It will create a shortcut in live area) 
 
 ### Notes
 
