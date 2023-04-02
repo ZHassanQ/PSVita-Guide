@@ -23,7 +23,7 @@ ur0:tai/psp2wpp.suprx
 
 ## Waveparams
 
-Anyone can make their own custom waveparams. This is the only **[tutorial]()** is out there right now.
+Anyone can make their own custom waveparams. This is the only **[tutorial](https://www.reddit.com/r/vitahacks/comments/129o06c/psp2wpp_tutorial/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)** is out there right now.
 
 
 ### Installation
@@ -33,5 +33,5 @@ There are custom waveparams that are already have been made and i will link thei
 
 1. Grab your **"waveparam.txt"** packs.
 - For now in this repository there's:
-  - [Pack 1]()**
+  - **[Pack 1]()**
 2. Extract the **"pack"** you chose as each pack limits contains 31 waveparams which is PSVita's limit.
