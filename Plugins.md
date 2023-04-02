@@ -1,6 +1,6 @@
 # Plugins
 
-This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. Note that Vita plugins are always in `ur0:tai/plugins/` folder and PSP plugins are always in `ux0:pspemu/seplugins/` folder. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xii-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xiii-psp-plugins-second-stick--enhancements)**
+This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. Note that Vita plugins are always in `ur0:tai/plugins/` folder and PSP plugins are always in `ux0:pspemu/seplugins/` folder. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xv-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xvi-psp-plugins-second-stick--enhancements)**
 
 🧭 Table of Contents
 - 🗝 Input
@@ -17,9 +17,12 @@ This is the **"Plugins.md"** file contains every plugin i suggest and how to ins
   - **[PNGShot](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-8-pngshot)**
 - 🎨 Appearance
   - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-9-quick-menu-plus)**
+  - **[Vita Shellbat](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-x-vita-shellbat)**
 - 🍂 Miscellaneous
-  - **[BetterTrackPlug](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-x-bettertrackplug)**
-  - **[StayBright](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xi-staybright)**
+  - **[BetterTrackPlug](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xi-bettertrackplug)**
+  - **[Download Enabler](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xii-vita-shellbat)**
+  - **[StayBright](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xiii-staybright)**
+  - **[VitaBright](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xiv-vita-shellbat)**
 
 ## 🗝 1. ReVita
 
@@ -248,9 +251,27 @@ ur0:tai/quickmenuplus.suprx
 - **"standbyisrestart.txt"** sets the standby button to function as a restart button. Put in the file **"1"** to enable, or **"0"** to disable. If the file does not exist, the default is enabled on the Vita, and disabled on the PSTV. When this setting is disabled, hold the **"Power Off ・ Restart"** button to restart, and press to power off.
 - **"bgstyle.txt"** sets the background style. Put in the file **"0"** for original, **"1"** for translucent, and **"2"** for black. If the file does not exist, the default is translucent. Black can reduce power consumption for OLED screens. The gradient effect is removed in all styles.
 
-## 🍂 X. BetterTrackPlug
+## 🎨 X. Vita Shellbat
 
-**[BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug)** a plugin that keeps track of how long you played your games. (To display your playtime use **[BetterTrackPlug App]()**)
+**[Vita Shellbat](https://github.com/nowrep/vita-shellbat)** a plugin that shows battery percent in statusbar.
+
+### Installation
+
+1. Copy **[shellbat.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/shellbat.suprx)** to `ur0:tai` folder, add **"shellbat.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+
+### Installed
+
+```
+
+• MAIN
+
+ur0:tai/shellbat.suprx
+
+```
+
+## 🍂 XI. BetterTrackPlug
+
+**[BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug)** a plugin that keeps track of how long you played your games. (To display your playtime use **[BetterTrackPlug App](https://github.com/ZHassanQ/Vita-Guide/releases/download/VPK/BetterTrackPlug.vpk)**)
 
 ### Installation 
 
@@ -270,7 +291,25 @@ ur0:tai/BetterTrackPlug.skprx
 
 I would advise you to set up your bubbles in a way that their title ID's will be the same as the corresponding PSP game's title ID instead of the default PSPEMUXXX, this way, they will use the same file that stores the playtime and you won't see the game twice on the list if you launch it both from bubble or directly from adrenaline.
 
-## 🍂 XI. StayBright
+## 🍂 XII. Download Enabler
+
+
+
+### Installation
+
+1. Copy **[shellbat.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/shellbat.suprx)** to `ur0:tai` folder, add **"shellbat.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+
+### Installed
+
+```
+
+• MAIN
+
+ur0:tai/shellbat.suprx
+
+```
+
+## 🍂 XIII. StayBright
 
 **[StayBright](https://www.psx-place.com/resources/staybright.1032)** a plugin disables screen auto-dimming but retain auto-suspend. (Useful if you want to watch videos)
 
@@ -288,7 +327,25 @@ ur0:tai/staybright.skprx
 
 ```
 
-## XII. All in One
+## 🍂 XIV. VitaBright
+
+
+
+### Installation
+
+1. Copy **[shellbat.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/shellbat.suprx)** to `ur0:tai` folder, add **"shellbat.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+
+### Installed
+
+```
+
+• MAIN
+
+ur0:tai/shellbat.suprx
+
+```
+
+## XV. All in One
 
 If you want all the suggested plugins you can easily download these two **[AIO-Plugins](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/AIO-Plugins.zip)**, **[Patchlist](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/Patchlist+patches.zip)** files. And extract it in the root of your SD Card. Also you will need to copy this code block:
 
@@ -313,6 +370,7 @@ ur0:tai/PSVshell.skprx
 ur0:tai/reVitaMotion.suprx
 ur0:tai/TrophyShot.suprx
 ur0:tai/pngshot.suprx
+ur0:tai/shellbat.suprx
 
 
 • ALL
@@ -322,7 +380,7 @@ ur0:tai/ds34motion.suprx
 
 ```
 
-## XIII. PSP Plugins (Second Stick & Enhancements)
+## XVI. PSP Plugins (Second Stick & Enhancements)
 
 - **[GTANativeRes](https://github.com/TheOfficialFloW/GTANativeRes)** Internal resolution patch for PSP GTA series.
 - **[RemasteredControls](https://github.com/TheOfficialFloW/RemasteredControls)** A collection of dual analog patches for PSP games on Adrenaline.
