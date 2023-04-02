@@ -69,6 +69,8 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 **[Sonic-1-2](https://github.com/SonicMastr/Sonic-1-2-Vita/releases)** port forks from Sonic 1, 2 **[Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)** version of it. (Only **APK** version is supported)
 
+### Installation
+
 1. Place **"Data.rsdk.msf"** in `x0:data/Sonic1/` for Sonic the Hedgehog 1. 
 2. Place **"Data.rsdk.msf"** in `ux0:data/Sonic2/` for Sonic the Hedgehog 2.
 3. Place **"Data.rsdk.msf"** in `ux0:data/Sonic2/` for Sonic CD.
@@ -92,7 +94,21 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 **[Sonic-Mania](https://github.com/SonicMastr/Sonic-Mania-Vita)** port forks from Sonic CD **[Decompilation](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)** version of it. (**Steam, Epic Games, & Origins** version are supported)
 
+### Installation
 
+1. Place **"Data.rsdk"** in `ux0:data/Mania`
+2. Download these two **[Game.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Game.suprx)** - **[Settings.ini](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Settings.ini)** files and put them in `ux0:data/Mania` folder.
+3. Download this **[modconfig.ini](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/modconfig.ini)** file and put it in `ux0:data/Mania/mods` folder.
+4. Install **[SonicMania VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicMania.vpk)** file.
+
+### Notes
+
+- Special stages are still slow. Still too slow. Very, very, veryyyy slow.
+- This won't be released with Plus support.
+- You can use mods by putting them in `ux0:data/Mania/mods/` folder.
+  - Any mods that use a **".dll"** file will NOT work.
+  - Asset/Palette swap mods will most likely require checking for `TargetVersion` to equal 5. MAKE SURE THIS IS CHECKED
+- These two mods: **[MaxControlVita](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxControlVita.zip)** and **[UltraWideManiaVita](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/UltrawideManiaVita.zip)** are from **[SonicMastr.](https://github.com/SonicMastr/)**
 
 # Others
 ## Super Mario Bros
