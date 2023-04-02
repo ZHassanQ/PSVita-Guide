@@ -14,10 +14,10 @@ The legal shader compiler **(libshaccg.suprx)** helps to make the developers, po
 
 ### Plugins
 
-And also you to play these ports you will need these **[plugin](https://github.com/TheOfficialFloW/kubridge)-[s.](https://github.com/TheOfficialFloW/FdFix)** As said from the official porters. (These plugins aren't included in AIO pack)
+And also you to play these ports you will need these **[plugin](https://github.com/TheOfficialFloW/kubridge)-[s.](https://github.com/TheOfficialFloW/FdFix)** As said from the official porters. (These plugins **aren't** included in AIO pack)
 
-1. Copy **[kubridge.skprx]()** to `ux0:tai` folder, add **"kubridge.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
-2. Copy **[fd_fix.skprx]()** to `ux0:tai` folder, add **"fd_fix.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[kubridge.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/kubridge.skprx)** to `ux0:tai` folder, add **"kubridge.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
+2. Copy **[fd_fix.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/fd_fix.skprx)** to `ux0:tai` folder, add **"fd_fix.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
 - **"fd_fix.skprx"** plugin isn't required if you installed **"repatch"** plugin.
 
 ### Installed (ux0:)
@@ -33,7 +33,7 @@ ux0:tai/fd_fix.skprx
 
 ## Optional
 
-If you want more performance then use these two plugins: (These plugins are included in AIO pack) 
+If you want more performance then use these two plugins: (These plugins **are** included in AIO pack) 
 
 - **[NoCapUnlocker](https://github.com/GrapheneCt/CapUnlocker)** Unlocks some non-game capabilities for PS Vita homebrew apps. (**[Guide](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-capunlocker)**)
 - **[PSVshell](https://github.com/Electry/PSVshell)** Yet another overclocking plugin. Use it to overclock your PSVita to 500Mhz. (**[Guide](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-psvshellplus)**)
@@ -44,9 +44,21 @@ If you want more performance then use these two plugins: (These plugins are incl
 **[TheOfficialFlow](https://github.com/TheOfficialFloW)** ports uses the android version of the game's which uses ARMv7 and recall it syscalls so that the PSVita can provide what the game wants with **[vitaGL.](https://github.com/TheOfficialFloW/vitaGL)** (OpenGL for PSVita)
 
 ## Bully: Anniversary Edition
+
+**[Bully: Anniversary Edition](https://github.com/TheOfficialFloW/bully_vita)** port uses **any version** of the game's APK.
+
 ## Crazy Taxi: Classic
-## Grand Theft Auto: San Andreas
+
+**[Crazy Taxi: Classic](https://github.com/TheOfficialFloW/crazytaxi_vita)** port uses **any version** of the game's APK.
+
 ## Grand Theft Auto: Chinatown Wars
+
+**[Grand Theft Auto: Chinatown Wars](https://github.com/TheOfficialFloW/gtactw_vita)** port uses **1.04 version** of the game's APK.
+
+## Grand Theft Auto: San Andreas
+
+**[Grand Theft Auto: San Andreas](https://github.com/TheOfficialFloW/gtasa_vita)** port uses **2.00 version** of the game's APK.
+
 
 
 # SonicMastr Ports
@@ -54,8 +66,17 @@ If you want more performance then use these two plugins: (These plugins are incl
 **[SonicMastr](https://github.com/SonicMastr/)** as his name ports Sonic games for now he ported: Sonic 1, 2, CD, & Mania. All of his ports requires the assests of the original game which can be obtained from legaly purchased APK or a Steam version.
 
 ## Sonic 1, 2
+
+**[Sonic-1-2](https://github.com/SonicMastr/Sonic-1-2-Vita/releases)** port forks from Sonic 1, 2 **[Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)** version of it. (Only **APK** version is supported)
+
 ## Sonic CD
+
+**[Sonic-CD](https://github.com/SonicMastr/Sonic-CD-Vita/releases)** port forks from Sonic CD **[Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation)** version of it. (**APK** and **Steam** version are supported)
+
 ## Sonic Mania
+
+**[Sonic-Mania](https://github.com/SonicMastr/Sonic-Mania-Vita)** port forks from Sonic CD **[Decompilation](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)** version of it. (**Steam, Epic Games, & Origins** version are supported)
+
 
 
 # Others
