@@ -84,10 +84,34 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 This **[Super Mario Bros](https://github.com/WeegeeDEVELOPER/uMario-PSVita-Port)** port has been ported from **[WeegeeDEVOLPER](https://github.com/WeegeeDEVELOPER/)** using this **[repository](https://github.com/jakowskidev/uMario_Jakowski)** which is a C++ version of the game developed by **[uMario_Jakowski.](https://github.com/jakowskidev/uMario_Jakowski)**
 
+### Installation
+
+1. Simply install this **[VPK file]()** as it isn't illegal as it doesn't contain any original assests from the NES game.
+
 ## Super Mario 64
 
 This **[Super Mario 64](https://github.com/martepato/sm64-vita)** port has been ported from **[bythos](https://github.com/bythos14/)** using this **[repository](https://github.com/sm64-port/sm64-port)** that contains a full decompilation of Super Mario 64 (J), (U), (E), and (SH). Then **[martepato](https://github.com/martepato/)** enhanced it.
 
+### Installation
+
+1. Download the **[main branch]()** of this **[repository.](https://github.com/martepato/sm64-vita)** (**"main branch"** links to a backup in this repository)
+2. 
+
 ## Max Payne
 
 This **[Max Payne](https://github.com/fgsfdsfgs/max_vita)** port has been ported from **[fgsfdsfgs](https://github.com/fgsfdsfgs/)** and it uses a legally purchased APK 1.7 version of Max Payne. (This port mostly uses TheOfficialFlow ports way)
+
+### Installation
+
+1. Create a directory in `ux0:data/` folder, call it **"maxpayne"**
+2. Extract **"assests"** folder from your APK to `ux0:data/maxpayne` folder.
+3. Extract **"libMaxPayne.so"** file from your APK in `lib/armeabi-v7a` folder to `ux0:data/maxpayne` folder.
+4. Extract **".obb"** file from your APK to `ux0:data/maxpayne` folder.
+5. Extract **[data.zip]()** to `ux0:data` folder.
+6. Install this **[VPK file.]()** (It will create a shortcut in live area) 
+
+### Notes
+
+The Vita port has an extra config file, located at `ux0:/data/maxpayne/config.txt` It is created when you first run the game and allows you to tweak some internal settings. For more detailed descriptions of said settings check the**[wiki article.](https://github.com/fgsfdsfgs/max_vita/wiki/Config-variables)**
+
+- If the error says Could not find symbol, that likely means you have the wrong APK version. You need one for v1.7, others will not work.
