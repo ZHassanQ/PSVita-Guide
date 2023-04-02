@@ -1,25 +1,25 @@
 # Plugins
 
-This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#xii-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#xiii-psp-plugins-second-stick--enhancements)**
+This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. Note that Vita plugins are always in `ur0:tai/plugins/` folder and PSP plugins are always in `ux0:pspemu/seplugins/` folder. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xii-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xiii-psp-plugins-second-stick--enhancements)**
 
 🧭 Table of Contents
 - 🗝 Input
-  - **[ReVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-1-revita)**
-  - **[DS34](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-2-ds34vita--ds34motion)**
+  - **[ReVita](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-1-revita)**
+  - **[DS34](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-2-ds34vita--ds34motion)**
 - 🔆 Enhances
-  - **[VitaGrafix](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-3-vitagrafix)**
-  - **[NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-4-nopowerlimitsvita)**
+  - **[VitaGrafix](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-3-vitagrafix)**
+  - **[NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-4-nopowerlimitsvita)**
 - 🚀 Overclocking
-  - **[CapUnlocker](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-CapUnlocker)**
-  - **[PSVshellPlus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-psvshellplus)**
+  - **[CapUnlocker](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-5-CapUnlocker)**
+  - **[PSVshellPlus](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-6-psvshellplus)**
 - 🎞️ Media
-  - **[TrophyShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-7-trophyshot)**
-  - **[PNGShot](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#%EF%B8%8F-8-pngshot)**
+  - **[TrophyShot](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-7-trophyshot)**
+  - **[PNGShot](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-8-pngshot)**
 - 🎨 Appearance
-  - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-9-quick-menu-plus)**
+  - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-9-quick-menu-plus)**
 - 🍂 Miscellaneous
-  - **[BetterTrackPlug](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-x-bettertrackplug)**
-  - **[StayBright](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-xi-staybright)**
+  - **[BetterTrackPlug](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-x-bettertrackplug)**
+  - **[StayBright](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xi-staybright)**
 
 ## 🗝 1. ReVita
 
@@ -28,12 +28,12 @@ This is the **"Plugins.md"** file contains every plugin i suggest and how to ins
 
 ### Installation
  
-1. Copy **[ioplus.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ioplus.skprx)** to `ur0:tai` folder, add **"ioplus.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
-2. Copy **[reVita.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/reVita.skprx)** to `ur0:tai` folder, add **"reVita.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section. 
+1. Copy **[ioplus.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ioplus.skprx)** to `ur0:tai` folder, add **"ioplus.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+2. Copy **[reVita.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/reVita.skprx)** to `ur0:tai` folder, add **"reVita.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section. 
 - Should be installed before ds34vita/ds4touch in tai config.
-- Optional, to get Gyro support: Copy **[reVitaMotion.suprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/reVitaMotion.suprx)** to `ur0:tai` folder, add **"reVitaMotion.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+- Optional, to get Gyro support: Copy **[reVitaMotion.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/reVitaMotion.suprx)** to `ur0:tai` folder, add **"reVitaMotion.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
 
-### Installed (ur0:)
+### Installed
 
 ```
 
@@ -60,33 +60,26 @@ ur0:tai/reVitaMotion.suprx
 
 ### Installation
 
-1. Copy **[ds34vita.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ds34vita.skprx)** to `ur0:tai` folder, add **"ds34vita.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
-2. Copy **[ds34motion.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ds34motion.skprx)** to `ux0:tai` folder, add **"ds34motion.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
-3. Copy **[ds34motion.suprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ds34motion.suprx)** to `ux0:tai` folder, add **"ds34motion.suprx"** into your `ux0:tai/"config.txt"` file under **"• TITLEID00"** section.
+1. Copy **[ds34vita.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ds34vita.skprx)** to `ur0:tai` folder, add **"ds34vita.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+2. Copy **[ds34motion.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ds34motion.skprx)** to `ur0:tai` folder, add **"ds34motion.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+3. Copy **[ds34motion.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ds34motion.suprx)** to `ur0:tai` folder, add **"ds34motion.suprx"** into your `ur0:tai/"config.txt"` file under **"• TITLEID00"** section.
 
-### Installed (ur0:)
+### Installed
 
 ```
 
 • KERNEL
 
 ur0:tai/ds34vita.skprx
-
-```
-
-### Installed (ux0:)
-
-```
-
 • KERNEL
 
-ux0:tai/ds34motion.skprx
+ur0:tai/ds34motion.skprx
 
 
 • TITLEID00
 # Replace it with your game's TITLEID. Or "ALL" to affect all titles.
 
-ux0:tai/ds34motion.suprx
+ur0:tai/ds34motion.suprx
 
 ```
 
@@ -100,26 +93,26 @@ ux0:tai/ds34motion.suprx
 
 ## 🔆 3. VitaGrafix
 
-**[VitaGrafix](https://github.com/Electry/VitaGrafix)** a plugin that allows you to change resolution and FPS cap of PS Vita games. (To get better visuals, higher FPS or longer battery life) Read **["VitaGrafix.md"](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/VitaGrafix.md)** file to see how to use this plugin.
+**[VitaGrafix](https://github.com/Electry/VitaGrafix)** a plugin that allows you to change resolution and FPS cap of PS Vita games. (To get better visuals, higher FPS or longer battery life) Read **["VitaGrafix.md"](https://github.com/ZHassanQ/Vita-Guide/blob/main/VitaGrafix.md)** file to see how to use this plugin.
 
 ### Installation
 
-0. Download this **[file](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/Patchlist+patches.zip)** and extract it in the root of your SD Card.
-1. Copy **[ioplus.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ioplus.skprx)** to `ux0:tai` folder, add **"ioplus.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
-2. Copy **[VitaGrafix.suprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/VitaGrafix.suprx)** to `ux0:tai` folder, add **"VitaGrafix.suprx"** into your `ux0:tai/"config.txt"` file under **"• ALL"** section.
+0. Download this **[file](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/Patchlist+patches.zip)** and extract it in the root of your SD Card.
+1. Copy **[ioplus.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ioplus.skprx)** to `ur0:tai` folder, add **"ioplus.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+2. Copy **[VitaGrafix.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/VitaGrafix.suprx)** to `ur0:tai` folder, add **"VitaGrafix.suprx"** into your `ur0:tai/"config.txt"` file under **"• ALL"** section.
 
-### Installed (ux0:)
+### Installed
 
 ```
 
 • KERNEL
 
-ux0:tai/ioplus.skprx
+ur0:tai/ioplus.skprx
 
 
 • ALL
 
-ux0:tai/VitaGrafix.suprx
+ur0:tai/VitaGrafix.suprx
 
 ```
 
@@ -129,9 +122,9 @@ ux0:tai/VitaGrafix.suprx
 
 ### Installation
 
-1. Copy **[NoPowerLimits.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/NoPowerLimits.skprx)** to `ur0:tai` folder, add **"NoPowerLimits.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[NoPowerLimits.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/NoPowerLimits.skprx)** to `ur0:tai` folder, add **"NoPowerLimits.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
-### Installed (ur0:)
+### Installed
 
 ```
 
@@ -147,9 +140,9 @@ ur0:tai/NoPowerLimits.skprx
 
 ### Installation 
 
-1. Copy **[CapUnlocker.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/CapUnlocker.skprx)** to `ur0:tai` folder, add **"CapUnlocker.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[CapUnlocker.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/CapUnlocker.skprx)** to `ur0:tai` folder, add **"CapUnlocker.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
-### Installed (ur0:)
+### Installed
 
 ```
 
@@ -165,9 +158,9 @@ ur0:tai/CapUnlocker.skprx
 
 ### Installation 
 
-1. Copy **[PSVshell.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/PSVshell.skprx)** to `ur0:tai` folder, add **"PSVshell.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[PSVshell.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/PSVshell.skprx)** to `ur0:tai` folder, add **"PSVshell.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
-### Installed (ur0:)
+### Installed
 
 ```
 
@@ -201,9 +194,9 @@ ur0:tai/PSVshell.skprx
 
 ### Installation
 
-1. Copy **[TrophyShot.suprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/TrophyShot.suprx)** to `ur0:tai` folder, add **"TrophyShot.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+1. Copy **[TrophyShot.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/TrophyShot.suprx)** to `ur0:tai` folder, add **"TrophyShot.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
 
-### Installed (ur0:)
+### Installed
 
 ```
 
@@ -215,13 +208,13 @@ ur0:tai/TrophyShot.suprx
 
 ## 🎞️ 8. PNGShot
 
-**[PngShot](https://github.com/xyzz/pngshot)**  plugin to make screenshots great again. Press PS button + Start to take a screenshot. You can access screenshots with the Photos app, or from `ux0:picture/SCREENSHOT` folder.
+**[PngShot](https://github.com/xyzz/pngshot)**  plugin to make screenshots great again. Press PS button + Start to take a screenshot. You can access screenshots with the Photos app, or from `ur0:picture/SCREENSHOT` folder.
 
 ### Installation
 
-1. Copy **[pngshot.suprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/pngshot.suprx)** to `ur0:tai` folder, add **"pngshot.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+1. Copy **[pngshot.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/pngshot.suprx)** to `ur0:tai` folder, add **"pngshot.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
 
-### Installed (ur0:)
+### Installed
 
 ```
 
@@ -237,9 +230,9 @@ ur0:tai/pngshot.suprx
 
 ### Installation
 
-1. Copy **[quickmenuplus.suprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/quickmenuplus.suprx)** to `ur0:tai` folder, add **"quickmenuplus.suprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[quickmenuplus.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/quickmenuplus.suprx)** to `ur0:tai` folder, add **"quickmenuplus.suprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
-### Installed (ur0:)
+### Installed
 
 ```
 
@@ -261,9 +254,9 @@ ur0:tai/quickmenuplus.suprx
 
 ### Installation 
 
-1. Copy **[BetterTrackPlug.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/BetterTrackPlug.skprx)** to `ur0:tai` folder, add **"BetterTrackPlug.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[BetterTrackPlug.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/BetterTrackPlug.skprx)** to `ur0:tai` folder, add **"BetterTrackPlug.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
-### Installed (ur0:)
+### Installed
 
 ```
 
@@ -283,9 +276,9 @@ I would advise you to set up your bubbles in a way that their title ID's will be
 
 ### Installation 
 
-1. Copy **[staybright.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/staybright.skprx)** to `ur0:tai` folder, add **"staybright.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[staybright.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/staybright.skprx)** to `ur0:tai` folder, add **"staybright.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
-### Installed (ur0:)
+### Installed
 
 ```
 
@@ -297,7 +290,7 @@ ur0:tai/staybright.skprx
 
 ## XII. All in One
 
-If you want all the suggested plugins you can easily download these two **[ur0: file](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ur0_plugins.zip)**, **[ux0: file.](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ux0_plugins.zip)** And extract it in the root of your SD Card. Also you will need to copy this code block:
+If you want all the suggested plugins you can easily download these two **[AIO-Plugins](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/AIO-Plugins.zip)**, **[Patchlist](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/Patchlist+patches.zip)** files. And extract it in the root of your SD Card. Also you will need to copy this code block:
 
 ```
 
@@ -306,6 +299,7 @@ If you want all the suggested plugins you can easily download these two **[ur0: 
 ur0:tai/ioplus.skprx
 ur0:tai/reVita.skprx
 ur0:tai/ds34vita.skprx
+ur0:tai/ds34motion.skprx
 ur0:tai/BetterTrackPlug.skprx
 ur0:tai/staybright.skprx
 ur0:tai/quickmenuplus.suprx
@@ -320,26 +314,13 @@ ur0:tai/reVitaMotion.suprx
 ur0:tai/TrophyShot.suprx
 ur0:tai/pngshot.suprx
 
-```
-
-And paste it to your `ur0:tai/"config.txt` file. And copy this code block:
-
-```
-
-• KERNEL
-
-ux0:tai/ioplus.skprx
-ux0:tai/ds34motion.skprx
-
 
 • ALL
 
-ux0:tai/VitaGrafix.suprx
-ux0:tai/ds34motion.suprx
+ur0:tai/VitaGrafix.suprx
+ur0:tai/ds34motion.suprx
 
 ```
-
-And paste it to your `ux0:tai/"config.txt"` file. And lastly download this **[file](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/Patchlist+patches.zip)** and extract it in the root of your SD Card.
 
 ## XIII. PSP Plugins (Second Stick & Enhancements)
 
@@ -352,10 +333,10 @@ And paste it to your `ux0:tai/"config.txt"` file. And lastly download this **[fi
 
 This installation process applies to every PSP plugin. The difference is the plugin name.
 
-1. Copy **[gta_native.prx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/gta_native.prx)** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/gta_native.prx 1"** into your `ux0:pspemu/seplugins/"game.txt"`
-2. Download and extract this **[remastered file](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/Remastered-PSP-Plugins.zip)** in the root of your SD Card and copy the **"remastered"** code block into your: `ux0:pspemu/seplugins/"game.txt`
-3. Copy **[camera_patch_lite.ini](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/camera_patch_lite.ini)** & **[camera_patch_lite.prx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/camera_patch_lite.prx)** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/camera_patch_lite.prx 1"** into your `ux0:pspemu/seplugins/"game.txt"`
-4. Copy **[ge_patch.prx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/ge_patch.prx)** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/ge_patch 1"** into your `ux0:pspemu/seplugins/"game.txt"`
+1. Copy **[gta_native.prx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/gta_native.prx)** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/gta_native.prx 1"** into your `ux0:pspemu/seplugins/"game.txt"`
+2. Download and extract this **[remastered file](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/Remastered-PSP-Plugins.zip)** in the root of your SD Card and copy the **"remastered"** code block into your: `ux0:pspemu/seplugins/"game.txt`
+3. Copy **[camera_patch_lite.ini](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/camera_patch_lite.ini)** & **[camera_patch_lite.prx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/camera_patch_lite.prx)** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/camera_patch_lite.prx 1"** into your `ux0:pspemu/seplugins/"game.txt"`
+4. Copy **[ge_patch.prx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ge_patch.prx)** to `ux0:pspemu/seplugins/` folder, add **"ms0:seplugins/ge_patch 1"** into your `ux0:pspemu/seplugins/"game.txt"`
 
 ### Installed (ux0:pspemu/)
 
