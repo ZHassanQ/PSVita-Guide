@@ -4,22 +4,22 @@ This is the **"Native-Ports.md"** file contains the best ports i suggest and how
 
 🧭 Table of Contents
  - 🔧 Devolopers
-   - **[TheOfficialFlow](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#theofficialflow-ports)**
-   - **[SonicMastr](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#sonicmastr-ports)**
-   - **[Others](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#others)**
+   - **[TheOfficialFlow](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#-theofficialflow-ports)**
+   - **[SonicMastr](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#-sonicmastr-ports)**
+   - **[Others](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#-others)**
  - 👾 APK Only
-   - **[Bully: Anniversary Edition](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#bully-anniversary-edition)**
-   - **[Crazy Taxi: Classic](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#crazy-taxi-classic)**
-   - **[Grand Theft Auto: Chinatown Wars](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#grand-theft-auto-chinatown-wars)**
-   - **[Grand Theft Auto: San Andreas](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#grand-theft-auto-san-andreas)**
-   - **[Sonic 1, 2, & CD](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#sonic-1-2--CD)**
-   - **[Max Payne](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#max-payne)**
+   - **[Bully: Anniversary Edition](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#-bully-anniversary-edition)**
+   - **[Crazy Taxi: Classic](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#-crazy-taxi-classic)**
+   - **[Grand Theft Auto: Chinatown Wars](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#-grand-theft-auto-chinatown-wars)**
+   - **[Grand Theft Auto: San Andreas](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#-grand-theft-auto-san-andreas)**
+   - **[Sonic 1, 2, & CD](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#-sonic-1-2--CD)**
+   - **[Max Payne](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#-max-payne)**
  - 🖥️ APK or Computer
-   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#sonic-mania)**
+   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#-sonic-mania)**
  - 🖱 Console Dump
-   - **[Super Mario 64](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#super-mario-64)**
+   - **[Super Mario 64](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#-super-mario-64)**
  - ☢️ No Copy Required
-   - **[Super Mario Bros](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#super-mario-bros)**
+   - **[Super Mario Bros](https://github.com/ZHassanQ/Vita-Guide/blob/Assets/Native-Ports.md#-super-mario-bros)**
 
 ## Prerequisites
 
@@ -61,7 +61,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 **[TheOfficialFlow](https://github.com/TheOfficialFloW)** ports uses the android version of the game's which uses ARMv7 and recall it syscalls so that the PSVita can provide what the game wants with **[vitaGL.](https://github.com/TheOfficialFloW/vitaGL)** (OpenGL for PSVita)
 
-## Bully: Anniversary Edition
+## 👾 Bully: Anniversary Edition
 
 **[Bully: Anniversary Edition](https://github.com/TheOfficialFloW/bully_vita)** port uses **any version** of the game's APK.
 
@@ -78,7 +78,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 - The official game does not free unused textures (as modern smartphones have more RAM than the PS Vita) and as such, the game will crash after a long gameplay.
 
-## Crazy Taxi: Classic
+## 👾 Crazy Taxi: Classic
 
 **[Crazy Taxi: Classic](https://github.com/TheOfficialFloW/crazytaxi_vita)** port uses **any version** of the game's APK.
 
@@ -89,7 +89,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
 3. Rename **"main.67.com.sega.CrazyTaxi.obb"** to **"main.obb"**
 4. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/CRAZYTAXI_r3.vpk)** (It will create a shortcut in LiveArea)
 
-## Grand Theft Auto: Chinatown Wars
+## 👾 Grand Theft Auto: Chinatown Wars
 
 **[Grand Theft Auto: Chinatown Wars](https://github.com/TheOfficialFloW/gtactw_vita)** port uses **1.04 version** of the game's APK.
 
@@ -103,7 +103,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
 ### Notes
 
 
-## Grand Theft Auto: San Andreas
+## 👾 Grand Theft Auto: San Andreas
 
 **[Grand Theft Auto: San Andreas](https://github.com/TheOfficialFloW/gtasa_vita)** port uses **2.00 version** of the game's APK.
 
@@ -129,11 +129,11 @@ If you want more performance then use these two plugins: (These plugins **are** 
 - To properly take off during Learning to Fly mission, retract your landing gear by pressing RIGHT.
 
 
-# SonicMastr Ports
+# 🔧 SonicMastr Ports
 
 **[SonicMastr](https://github.com/SonicMastr/)** as his name ports Sonic games for now he ported: Sonic 1, 2, CD, & Mania. All of his ports requires the assets of the original game which can be obtained from legaly purchased APK or a Steam version.
 
-## Sonic 1, 2, & CD
+## 👾 Sonic 1, 2, & CD
 
 - **[Sonic-1-2](https://github.com/SonicMastr/Sonic-1-2-Vita/releases)** port forks from Sonic 1, 2 **[Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)** version of it. (Only **APK** version is supported)
 - **[Sonic-CD](https://github.com/SonicMastr/Sonic-CD-Vita/releases)** port forks from Sonic CD **[Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation)** version of it. (Only **APK** version is supported)
@@ -160,7 +160,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
   - A single frame flashes in-between transitions.
 
 
-## Sonic Mania
+## 🖥️ Sonic Mania
 
 **[Sonic-Mania](https://github.com/SonicMastr/Sonic-Mania-Vita)** port forks from Sonic CD **[Decompilation](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)** version of it. (**Steam, Epic Games, & Origins** version are supported)
 
@@ -180,8 +180,8 @@ If you want more performance then use these two plugins: (These plugins **are** 
   - Asset/Palette swap mods will most likely require checking for `TargetVersion` to equal 5. MAKE SURE THIS IS CHECKED
 - These two mods: **[MaxControlVita](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxControlVita.zip)** and **[UltraWideManiaVita](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/UltrawideManiaVita.zip)** are from **[SonicMastr.](https://github.com/SonicMastr/)**
 
-# Others
-## Super Mario Bros
+# 🔧 Others
+## ☢️ Super Mario Bros
 
 This **[Super Mario Bros](https://github.com/WeegeeDEVELOPER/uMario-PSVita-Port)** port has been ported from **[WeegeeDEVOLPER](https://github.com/WeegeeDEVELOPER/)** using this **[repository](https://github.com/jakowskidev/uMario_Jakowski)** which is a C++ version of the game developed by **[uMario_Jakowski.](https://github.com/jakowskidev/uMario_Jakowski)**
 
@@ -189,7 +189,7 @@ This **[Super Mario Bros](https://github.com/WeegeeDEVELOPER/uMario-PSVita-Port)
 
 1. Simply install this **[VPK file](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/Assets/uMario_v1.2.7.vpk)** as it isn't illegal as it doesn't contain any original assets from the NES game.
 
-## Super Mario 64
+## 🖱 Super Mario 64
 
 This **[Super Mario 64](https://github.com/martepato/sm64-vita)** port has been ported from **[bythos](https://github.com/bythos14/)** using this **[repository](https://github.com/sm64-port/sm64-port)** that contains a full decompilation of Super Mario 64 (J), (U), (E), and (SH). Then **[martepato](https://github.com/martepato/)** enhanced it.
 
@@ -206,7 +206,7 @@ This **[Super Mario 64](https://github.com/martepato/sm64-vita)** port has been 
   
 - TAS Input stops working if the app is suspended or the Vita is put to sleep.
   
-## Max Payne
+## 👾 Max Payne
 
 This **[Max Payne](https://github.com/fgsfdsfgs/max_vita)** port has been ported from **[fgsfdsfgs](https://github.com/fgsfdsfgs/)** and it uses a legally purchased APK 1.7 version of Max Payne. (This port mostly uses TheOfficialFlow ports way)
 
