@@ -5,11 +5,11 @@ This MD file is fully copied from **[VitaGrafix Confiurator Repository](https://
 # ![VitaGrafix Configurator](https://i.imgur.com/hIdE4yQ.png)
 A GUI Configurator for the VitaGrafix plugin
 
-[Download Here](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/VitaGrafix.suprx)
+[Download Here](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/VitaGrafix.suprx)
 
 ## Requirements
 
-This app requires the [instalation](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-3-vitagrafix) of [VitaGrafix by Electry](https://github.com/Electry/VitaGrafix)
+This app requires the [instalation](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-3-vitagrafix) of [VitaGrafix by Electry](https://github.com/Electry/VitaGrafix)
 
 The configurator is compatible with **VitaGrafix v5.0**+
 
@@ -46,4 +46,4 @@ You'll be greeted by a VitaGrafix Settings screen, which contains the override s
  
  ## Cautions
  
- Not every option available might be compatible with each game, please refer to the [compatibility table on the VitaGrafix patchlist github page](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/VitaGrafix-Patches.md) - [Original](https://github.com/Electry/VitaGrafixPatchlist#supported-games)
+ Not every option available might be compatible with each game, please refer to the [compatibility table on the VitaGrafix patchlist github page](https://github.com/ZHassanQ/Vita-Guide/blob/main/VitaGrafix-Patches.md) - [Original](https://github.com/Electry/VitaGrafixPatchlist#supported-games)
