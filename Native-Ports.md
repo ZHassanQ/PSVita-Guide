@@ -9,7 +9,7 @@ This is the **"Native-Ports.md"** file contains the best ports i suggest and how
 
 The legal shader compiler **(libshaccg.suprx)** helps to make the developers, porters, or anyone who wants to make anything to PSVita easily to develop, ports a game or app to PSVita. 
 
-1. Download and install this app called **[PIB-Configuration-Tool]()** to your PSVita. (Developed by **[SonicMastr](https://github.com/SonicMastr/)**)
+1. Download and install this app called **[PIB-Configuration-Tool](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/VPK/PIBConfig.vpk)** to your PSVita. (Developed by **[SonicMastr](https://github.com/SonicMastr/)**)
 2. Launch and press the Select button.
 
 ### Plugins
@@ -63,7 +63,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 # SonicMastr Ports
 
-**[SonicMastr](https://github.com/SonicMastr/)** as his name ports Sonic games for now he ported: Sonic 1, 2, CD, & Mania. All of his ports requires the assests of the original game which can be obtained from legaly purchased APK or a Steam version.
+**[SonicMastr](https://github.com/SonicMastr/)** as his name ports Sonic games for now he ported: Sonic 1, 2, CD, & Mania. All of his ports requires the assets of the original game which can be obtained from legaly purchased APK or a Steam version.
 
 ## Sonic 1, 2
 
@@ -86,7 +86,7 @@ This **[Super Mario Bros](https://github.com/WeegeeDEVELOPER/uMario-PSVita-Port)
 
 ### Installation
 
-1. Simply install this **[VPK file]()** as it isn't illegal as it doesn't contain any original assests from the NES game.
+1. Simply install this **[VPK file]()** as it isn't illegal as it doesn't contain any original assets from the NES game.
 
 ## Super Mario 64
 
@@ -104,7 +104,7 @@ This **[Max Payne](https://github.com/fgsfdsfgs/max_vita)** port has been ported
 ### Installation
 
 1. Create a directory in `ux0:data/` folder, call it **"maxpayne"**
-2. Extract **"assests"** folder from your APK to `ux0:data/maxpayne` folder.
+2. Extract **"assets"** folder from your APK to `ux0:data/maxpayne` folder.
 3. Extract **"libMaxPayne.so"** file from your APK in `lib/armeabi-v7a` folder to `ux0:data/maxpayne` folder.
 4. Extract **".obb"** file from your APK to `ux0:data/maxpayne` folder.
 5. Extract **[data.zip]()** to `ux0:data` folder.
