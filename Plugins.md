@@ -147,7 +147,7 @@ ur0:tai/NoPowerLimits.skprx
 
 ### Installation 
 
-1. Copy **[CapUnlocker.skprx]()** to `ur0:tai` folder, add **"CapUnlocker.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[CapUnlocker.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/CapUnlocker.skprx)** to `ur0:tai` folder, add **"CapUnlocker.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
 ### Installed (ur0:)
 
@@ -165,7 +165,7 @@ ur0:tai/CapUnlocker.skprx
 
 ### Installation 
 
-1. Copy **[PSVshell.skprx]()** to `ur0:tai` folder, add **"PSVshell.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[PSVshell.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/PSVshell.skprx)** to `ur0:tai` folder, add **"PSVshell.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 
 ### Installed (ur0:)
 
@@ -310,6 +310,9 @@ ur0:tai/BetterTrackPlug.skprx
 ur0:tai/staybright.skprx
 ur0:tai/quickmenuplus.suprx
 ur0:tai/NoPowerLimits.skprx
+ur0:tai/CapUnlocker.skprx
+ur0:tai/PSVshell.skprx
+
 
 • MAIN
 
@@ -327,6 +330,7 @@ And paste it to your `ur0:tai/"config.txt` file. And copy this code block:
 
 ux0:tai/ioplus.skprx
 ux0:tai/ds34motion.skprx
+
 
 • ALL
 
