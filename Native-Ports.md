@@ -9,15 +9,15 @@ This is the **"Native-Ports.md"** file contains the best ports i suggest and how
 
 The legal shader compiler **(libshaccg.suprx)** helps to make the developers, porters, or anyone who wants to make anything to PSVita easily to develop, ports a game or app to PSVita. 
 
-1. Download and install this app called **[PIB-Configuration-Tool](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/VPK/PIBConfig.vpk)** to your PSVita. (Developed by **[SonicMastr](https://github.com/SonicMastr/)**)
+1. Download and install this app called **[PIB-Configuration-Tool](https://github.com/ZHassanQ/Vita-Guide/releases/download/VPK/PIBConfig.vpk)** to your PSVita. (Developed by **[SonicMastr](https://github.com/SonicMastr/)**)
 2. Launch and press the Select button.
 
 ### Plugins
 
 And also you to play these ports you will need these **[plugin](https://github.com/TheOfficialFloW/kubridge)-[s.](https://github.com/TheOfficialFloW/FdFix)** As said from the official porters. (These plugins **aren't** included in AIO pack)
 
-1. Copy **[kubridge.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/kubridge.skprx)** to `ux0:tai` folder, add **"kubridge.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
-2. Copy **[fd_fix.skprx](https://github.com/ZHassanQ/Vita-CFW-Guide/releases/download/PRX/fd_fix.skprx)** to `ux0:tai` folder, add **"fd_fix.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[kubridge.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/kubridge.skprx)** to `ux0:tai` folder, add **"kubridge.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
+2. Copy **[fd_fix.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/fd_fix.skprx)** to `ux0:tai` folder, add **"fd_fix.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
 - **"fd_fix.skprx"** plugin isn't required if you installed **"repatch"** plugin.
 
 ### Installed (ux0:)
@@ -35,8 +35,8 @@ ux0:tai/fd_fix.skprx
 
 If you want more performance then use these two plugins: (These plugins **are** included in AIO pack) 
 
-- **[NoCapUnlocker](https://github.com/GrapheneCt/CapUnlocker)** Unlocks some non-game capabilities for PS Vita homebrew apps. (**[Guide](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-5-capunlocker)**)
-- **[PSVshell](https://github.com/Electry/PSVshell)** Yet another overclocking plugin. Use it to overclock your PSVita to 500Mhz. (**[Guide](https://github.com/ZHassanQ/Vita-CFW-Guide/blob/main/Plugins.md#-6-psvshellplus)**)
+- **[NoCapUnlocker](https://github.com/GrapheneCt/CapUnlocker)** Unlocks some non-game capabilities for PS Vita homebrew apps. (**[Guide](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-5-capunlocker)**)
+- **[PSVshell](https://github.com/Electry/PSVshell)** Yet another overclocking plugin. Use it to overclock your PSVita to 500Mhz. (**[Guide](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-6-psvshellplus)**)
 
 
 # TheOfficialFlow Ports
