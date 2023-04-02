@@ -16,18 +16,18 @@ The legal shader compiler **(libshaccg.suprx)** helps to make the developers, po
 
 And also you to play these ports you will need these **[plugin](https://github.com/TheOfficialFloW/kubridge)-[s.](https://github.com/TheOfficialFloW/FdFix)** As said from the official porters. (These plugins **aren't** included in AIO pack)
 
-1. Copy **[kubridge.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/kubridge.skprx)** to `ux0:tai` folder, add **"kubridge.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
-2. Copy **[fd_fix.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/fd_fix.skprx)** to `ux0:tai` folder, add **"fd_fix.skprx"** into your `ux0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[kubridge.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/kubridge.skprx)** to `ur0:tai` folder, add **"kubridge.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+2. Copy **[fd_fix.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/fd_fix.skprx)** to `ur0:tai` folder, add **"fd_fix.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
 - **"fd_fix.skprx"** plugin isn't required if you installed **"repatch"** plugin.
 
-### Installed (ux0:)
+### Installed
 
 ```
 
 • KERNEL
 
-ux0:tai/kubridge.skprx
-ux0:tai/fd_fix.skprx
+ur0:tai/kubridge.skprx
+ur0:tai/fd_fix.skprx
 
 ```
 
