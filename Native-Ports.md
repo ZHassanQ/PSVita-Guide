@@ -6,6 +6,8 @@ This is the **"Native-Ports.md"** file contains the best ports i suggest and how
  - 🔧 Devolopers
    - **[TheOfficialFlow](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-theofficialflow-ports)**
    - **[SonicMastr](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonicmastr-ports)**
+   - **[Northfear](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-northfear-ports)**
+   - **[v-atamanenko](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-v-atamanenko-ports)**
    - **[Others](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-others)**
  - 👾 APK Only
    - **[Bully: Anniversary Edition](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-bully-anniversary-edition)**
@@ -13,8 +15,9 @@ This is the **"Native-Ports.md"** file contains the best ports i suggest and how
    - **[Grand Theft Auto: Chinatown Wars](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-chinatown-wars)**
    - **[Grand Theft Auto: San Andreas](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-san-andreas)**
    - **[Sonic 1, 2, & CD](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonic-1-2--CD)**
+   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonic-mania)**
    - **[Max Payne](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-max-payne)**
- - 🖥️ APK or Computer
+ - 🖥️ Computer
    - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonic-mania)**
  - 🖱 Console Dump
    - **[Super Mario 64](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-64)**
@@ -160,7 +163,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
   - A single frame flashes in-between transitions.
 
 
-## 🖥️ Sonic Mania
+## 🖥️ 👾 Sonic Mania
 
 **[Sonic-Mania](https://github.com/SonicMastr/Sonic-Mania-Vita)** port forks from Sonic CD **[Decompilation](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)** version of it. (**Steam, Epic Games, & Origins** version are supported)
 
@@ -179,6 +182,17 @@ If you want more performance then use these two plugins: (These plugins **are** 
   - Any mods that use a **".dll"** file will NOT work.
   - Asset/Palette swap mods will most likely require checking for `TargetVersion` to equal 5. MAKE SURE THIS IS CHECKED
 - These two mods: **[MaxControlVita](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxControlVita.zip)** and **[UltraWideManiaVita](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/UltrawideManiaVita.zip)** are from **[SonicMastr.](https://github.com/SonicMastr/)**
+
+
+# Northfear Ports
+## 🖥️ Fallout
+## 🖥️ Fallout 2
+
+
+# 🔧 v-atamanenko Ports
+## 👾 Dead Space
+## 👾 Mass Effect Infiltrator
+
 
 # 🔧 Others
 ## ☢️ Super Mario Bros
@@ -224,3 +238,5 @@ This **[Max Payne](https://github.com/fgsfdsfgs/max_vita)** port has been ported
 The Vita port has an extra config file, located at `ux0:/data/maxpayne/config.txt` It is created when you first run the game and allows you to tweak some internal settings. For more detailed descriptions of said settings check the **[wiki article.](https://github.com/fgsfdsfgs/max_vita/wiki/Config-variables)**
 
 - If the error says Could not find symbol, that likely means you have the wrong APK version. You need one for v1.7, others will not work.
+
+## 🖥️ Wolfenstein: Return to Castle
