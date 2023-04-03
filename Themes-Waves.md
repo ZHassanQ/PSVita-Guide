@@ -14,8 +14,8 @@ Thanks to this **[website](https://psvt.ovh/index.php)** which is like an online
 3. Launch **"Custom Themes Manager"** on your PSVita.
 4. Select **"Install a Custom Theme from a folder"**
 - If you want to install Custom Themes using Internet Connection then:
-  1. Extract this **[file]()** in: `ux0:ctm`
-  2. Select **"Download a Custom Theme
+  I. Extract this **[file](https://github.com/ZHassanQ/Vita-Guide/releases/download/THEM/Previews.zip)** in: `ux0:ctm`
+  II. Select **"Download a Custom Theme"**
 5. Select and install your Theme.
 
 # Waves
