@@ -186,13 +186,16 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 
 # Northfear Ports
+
+**[Northfear]()** ports uses some assets from the game's CE (Community Edition) and the original game. (Can be obtained by purchasing the game)
+
 ## 🖥️ Fallout
+
+**[Fallout]()** port uses this **[Community Edition]()** and the original game to be played.
+
+### Installation
+
 ## 🖥️ Fallout 2
-
-
-# 🔧 v-atamanenko Ports
-## 👾 Dead Space
-## 👾 Mass Effect Infiltrator
 
 
 # 🔧 Others
