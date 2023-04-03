@@ -170,7 +170,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 ### Installation
 
-1. Place **"Data.rsdk"** in `ux0:data/Mania`
+1. Place **"Data.rsdk"** file (Can be obtained by buying the game) in `ux0:data/Mania`
 2. Download these two **[Game.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Game.suprx)** - **[Settings.ini](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Settings.ini)** files and put them in `ux0:data/Mania` folder.
 3. Download this **[modconfig.ini](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/modconfig.ini)** file and put it in `ux0:data/Mania/mods` folder.
 4. Install **[SonicMania VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicMania_r3.vpk)** file.
@@ -178,7 +178,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
 ### Notes
 
 - Special stages are still slow. Still too slow. Very, very, veryyyy slow.
-- This won't be released with Plus support.
+  - This **[mod](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicMania-NoSSDecorations.zip)** (**[Original Source](https://gamebanana.com/mods/408483)**) remove some assets from special stages to load. it will help improving the performance.
 - You can use mods by putting them in `ux0:data/Mania/mods/` folder.
   - Any mods that use a **".dll"** file will NOT work.
   - Asset/Palette swap mods will most likely require checking for `TargetVersion` to equal 5. MAKE SURE THIS IS CHECKED
@@ -187,16 +187,27 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 # Northfear Ports
 
-**[Northfear]()** ports uses some assets from the game's CE (Community Edition) and the original game. (Can be obtained by purchasing the game)
+**[Northfear](https://github.com/Northfear)** ports uses some assets from the game's CE (Community Edition) and the original game. (Can be obtained by purchasing the game)
 
 ## 🖥️ Fallout
 
-**[Fallout]()** port uses this **[Community Edition]()** and the original game to be played.
+**[Fallout](https://github.com/Northfear/fallout1-ce-vita)** port uses this **[Community Edition](https://github.com/alexbatalov/fallout1-ce)** and the original game to be played.
 
 ### Installation
 
+1. Place **"MASTER.DAT"**, **"CRITTER.DAT"** files and **"DATA"** folder (Can be obtained by buying the game) in `ux0:data/fallout`
+- Copy **"fallout.cfg"** too, if you're using non-english Fallout version.
+  - Or make sure that language setting is properly set in it like: `language=german`
+2. Install **[Fallout VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/fallout-ce_r2.vpk)** file.
+
 ## 🖥️ Fallout 2
 
+**[Fallout 2](https://github.com/Northfear/fallout2-ce-vita)** port uses this **[Community Edition](https://github.com/alexbatalov/fallout2-ce)** and the original game to be played. 
+
+1. Place **"master.dat"**, **"critter.dat"**, **"patch000.dat"** files, **"data"**, and **"sound"** folders (Can be obtained by buying the game) in `ux0:data/fallout2`
+- Copy **"fallout2.cfg"** too, if you're using non-english Fallout version.
+  - Or make sure that language setting is properly set in it like: `language=german`
+2. Install **[Fallout 2 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/fallout2-ce_r10.vpk)** file.
 
 # 🔧 Others
 ## ☢️ Super Mario Bros
