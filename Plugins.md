@@ -1,6 +1,6 @@
 # Plugins
 
-This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. Note that Vita plugins are always in `ur0:tai` folder and PSP plugins are always in `ux0:pspemu/seplugins/` folder. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xv-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xvi-psp-plugins-second-stick--enhancements)**
+This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. Note that Vita plugins are always in `ur0:tai` folder and PSP plugins are always in `ux0:pspemu/seplugins/` folder. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xv-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xvi-psp-plugins-second-stick--enhancements)** And if you want all Adrenaline (PSP) plugins and more go this **[section.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xvii-all-in-one-psp)**
 
 🧭 Table of Contents
 - 🗝 Input
@@ -373,7 +373,7 @@ ur0:tai/ds34vita.skprx
 ur0:tai/ds34motion.skprx
 ur0:tai/BetterTrackPlug.skprx
 ur0:tai/staybright.skprx
-ur0:tai/quickmenuplus.suprx
+ur0:tai/vitabright.skprx
 ur0:tai/NoPowerLimits.skprx
 ur0:tai/CapUnlocker.skprx
 ur0:tai/PSVshell.skprx
@@ -385,7 +385,7 @@ ur0:tai/reVitaMotion.suprx
 ur0:tai/TrophyShot.suprx
 ur0:tai/pngshot.suprx
 ur0:tai/shellbat.suprx
-ur0:tai/vitabright.skprx
+ur0:tai/quickmenuplus.suprx
 ur0:tai/download_enabler.suprx
 
 
@@ -432,3 +432,8 @@ ms0:seplugins/camera_patch_lite.prx 1
 ms0:seplugins/ge_patch 1
 
 ```
+
+
+## XVII. All in One PSP
+
+If you want all the plugins and more for Adrenaline (PSP) then easily download this **[file](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/PSP_AIO-Plugins.zip)** and extract it in `ux0:pspemu/seplugins` folder.
