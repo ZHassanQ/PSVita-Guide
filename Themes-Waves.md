@@ -4,7 +4,7 @@ This md file contains a tutorial on how to use both custom **[themes](https://gi
 
 # Themes
 
-Thanks to this **[website](https://psvt.ovh/index.php)** which is like an online theme database. And it also made an app called **"Custom Themes Manager"** which is required if you want to install Custom Themes.
+Thanks to this **[website](https://psvt.ovh/index.php)** which is like an online theme database made it easily to access Custom Themes. And it also made an app called **"Custom Themes Manager"** which is required if you want to install Custom Themes.
 
 ## Installation
 
@@ -13,6 +13,9 @@ Thanks to this **[website](https://psvt.ovh/index.php)** which is like an online
 - In this **[release](https://github.com/ZHassanQ/Vita-Guide/releases/tag/THEM)** there are already downloaded custom themes from this **[website](https://psvt.ovh/index.php)**
 3. Launch **"Custom Themes Manager"** on your PSVita.
 4. Select **"Install a Custom Theme from a folder"**
+- If you want to install Custom Themes using Internet Connection then:
+  1. Extract this **[file]()** in: `ux0:ctm`
+  2. Select **"Download a Custom Theme
 5. Select and install your Theme.
 
 # Waves
