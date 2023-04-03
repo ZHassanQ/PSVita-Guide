@@ -1,4 +1,21 @@
-# psp2wpp
+# Themes, Waves
+
+This md file contains a tutorial on how to use both custom **[themes](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#themes)** and/or **[waves.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#waves)**
+
+# Themes
+
+Thanks to this **[website](https://psvt.ovh/index.php)** which is like an online theme database. And it also made an app called **"Custom Themes Manager"** which is required if you want to install Custom Themes.
+
+## Installation
+
+1. Download and install **[Custom Themes Manager](https://github.com/ZHassanQ/Vita-Guide/releases/download/VPK/CTManager.vpk)** VPK file.
+2. Download your Custom themes and put them in: `ux0:customtheme` folder.
+- In this **[release](https://github.com/ZHassanQ/Vita-Guide/releases/tag/THEM)** there are already downloaded custom themes from this **[website](https://psvt.ovh/index.php)**
+3. Launch **"Custom Themes Manager"** on your PSVita.
+4. Select **"Install a Custom Theme from a folder"**
+5. Select and install your Theme.
+
+# Waves
 
 Thanks to **[Princess of Sleeping](https://github.com/Princess-of-Sleeping/)** for making **[psp2wpp](https://github.com/Princess-of-Sleeping/psp2wpp)** plugin which loads txt files to replace waveparams from your original Vita's waveparams.
 
@@ -7,7 +24,7 @@ Thanks to **[Princess of Sleeping](https://github.com/Princess-of-Sleeping/)** f
 
 This plugin can be easily installed like all the plugins. (Not included in **"AIO-Plugins"** pack)
 
-0. Download this **[file](https://github.com/ZHassanQ/Vita-Guide/releases/download/Wave/waveparam.zip)** and extract it in `ux0:data` folder.
+0. Download this **[file](https://github.com/ZHassanQ/Vita-Guide/releases/download/THEM/waveparam.zip)** and extract it in `ux0:data` folder.
 1. Copy **[psp2wpp.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/psp2wpp.suprx)** to `ur0:tai` folder, add **"psp2wpp.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
 
 ### Installed 
@@ -23,7 +40,7 @@ ur0:tai/psp2wpp.suprx
 
 ## Waveparams
 
-Anyone can make their own custom waveparams. This is the only **[tutorial](https://www.reddit.com/r/vitahacks/comments/129o06c/psp2wpp_tutorial/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)** is out there right now.
+Anyone can make their own custom waveparams. Here's a **[tutorial.](https://www.reddit.com/r/vitahacks/comments/129o06c/psp2wpp_tutorial/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
 
 
 ### Installation
