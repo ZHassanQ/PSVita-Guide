@@ -216,8 +216,8 @@ This **[Super Mario 64](https://github.com/martepato/sm64-vita)** port has been 
 
 1. Download the **[master branch](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/sm64-vita-master.zip)** of this **[repository.](https://github.com/martepato/sm64-vita)** (**"master branch"** links to a backup in this repository)
 2. Download and install **[VitaSDK](https://vitasdk.org/)**
-3. Enter the **"masteer branch"** by Terminal, CMD. `cd sm64-vita`
-4. Place a Super Mario 64 ROM called **"baserom.<VERSION>.z64"** into the repository's root directory for asset extraction, where **"VERSION"** can be `us`, `jp`, or `eu`
+3. Enter the **"master branch"** by Terminal, CMD. `cd sm64-vita`
+4. Place a Super Mario 64 ROM called **"baserom.VERSION.z64"** into the repository's root directory for asset extraction, where **"VERSION"** can be `us`, `jp`, or `eu`
 5. Run these commands: `./build_deps.sh`, `make TARGET_VITA=1 vpk`
 6. The installable VPK file will be found in `sm64-vita-master/build/<VERSION>_vita`
 
