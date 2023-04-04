@@ -112,8 +112,8 @@ This **[md](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md)** 
 ### Themes Navigation
 
 1. **[Themes](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#themes)**
-  - **[Installation](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#installation)**
+    - **[Installation](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#installation)**
 
 2. **[Waves](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#waves)**
-  - **[Set Up](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#set-up)**
-  - **[Installation](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#installation-1)**
+    - **[Set Up](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#set-up)**
+    - **[Installation](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#installation-1)**
