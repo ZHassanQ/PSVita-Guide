@@ -23,7 +23,7 @@ Thanks to this **[website](https://psvt.ovh/index.php)** which is like an online
 Thanks to **[Princess of Sleeping](https://github.com/Princess-of-Sleeping/)** for making **[psp2wpp](https://github.com/Princess-of-Sleeping/psp2wpp)** plugin which loads txt files to replace waveparams from your original Vita's waveparams.
 
 
-## Installation
+## Set Up
 
 This plugin can be easily installed like all the plugins. (Not included in **"AIO-Plugins"** pack)
 
