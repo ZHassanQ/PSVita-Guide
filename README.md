@@ -7,10 +7,10 @@ This repository contains a complete guide to how to install CFW (Custom Frimware
 
 As this repositorty almost covers everything you can do with your PlayStation Vita, it has a lot of pages, but easy to follow.
 
-- **[CFW Wiki]()**
-- **[Native Ports]()**
-- **[Plugins]()**
-- **[Themes]()**
+- **[CFW Wiki](https://github.com/ZHassanQ/Vita-Guide#cfw-wiki)**
+- **[Native Ports](https://github.com/ZHassanQ/Vita-Guide#native-ports)**
+- **[Plugins](https://github.com/ZHassanQ/Vita-Guide#plugins)**
+- **[Themes](https://github.com/ZHassanQ/Vita-Guide#themes)**
 
 ## CFW Wiki
 
