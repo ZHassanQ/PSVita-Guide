@@ -1,4 +1,4 @@
-# Themes, Waves
+# Custom Themes and Waves
 
 This md file contains a tutorial on how to use both custom **[themes](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#themes)** and/or **[waves.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#waves)**
 
