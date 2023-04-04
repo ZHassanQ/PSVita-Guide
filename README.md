@@ -37,11 +37,10 @@ This section contains a guide on how to install CFW (Custom Frimware) on your Pl
     - **[Internal Memory Card](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#internal-memory-card)**
     - **[Permanent HENkaku](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#permanent-henkaku)**
     - **[HENkaku Settings](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#henkaku-settings)**
-4. **[Homebrew Apps & Plugins](https://github.com/ZHassanQ/Vita-Guide/wiki/4.-Homebrew-Apps-&-Plugins)**
+4. **[Homebrew Apps](https://github.com/ZHassanQ/Vita-Guide/wiki/4.-Homebrew-Apps)**
     - **[VitaDeploy Apps](https://github.com/ZHassanQ/Vita-Guide/wiki/4.-Homebrew-Apps-&-Plugins#vitadeploy-apps)**
     - **[Other Apps](https://github.com/ZHassanQ/Vita-Guide/wiki/4.-Homebrew-Apps-&-Plugins#other-apps)**
-    - **[Plugins](https://github.com/ZHassanQ/Vita-Guide/wiki/4.-Homebrew-Apps-&-Plugins#plugins)**
-5. **[SD2Vita, PSP, PSVita & Others](https://github.com/ZHassanQ/Vita-Guide/wiki/5.-SD2Vita,-PSP,-PSVita-&-Others)**
+5. **[SD2Vita, Games & Others](https://github.com/ZHassanQ/Vita-Guide/wiki/5.-SD2Vita,-PSP,-PSVita-&-Others)**
     - **[SD2Vita](https://github.com/ZHassanQ/Vita-Guide/wiki/5.-SD2Vita,-PSP,-PSVita-&-Others#sd2vita)**
     - **[Adrenaline PSP](https://github.com/ZHassanQ/Vita-Guide/wiki/5.-SD2Vita,-PSP,-PSVita-&-Others#adrenaline-psp)**
     - **[PSVita Backup](https://github.com/ZHassanQ/Vita-Guide/wiki/5.-SD2Vita,-PSP,-PSVita-&-Others#psvita-backup)**
