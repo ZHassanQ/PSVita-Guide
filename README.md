@@ -52,8 +52,8 @@ This section contains a guide on how to install CFW (Custom Frimware) on your Pl
   
   ### Plugins Navigation
   
-  - **[Plugins.md](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md)**
-  1. **PlayStation Vita
+- **[Plugins.md](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md)**
+1. **PlayStation Vita**
     - **[🗝 ReVita](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-1-revita)**
     - **[🗝 DS34](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-2-ds34vita--ds34motion)**
     - **[🔆 VitaGrafix](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-3-vitagrafix)**
