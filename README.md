@@ -15,7 +15,7 @@ Every single file of this guide links to the repository release's. And every sin
 
 # Repository Navigation
 
-As this repositorty almost covers everything you can do with your PlayStation Vita, it has a lot of pages, but easy to follow. And I suggest that you follow the guide as numbered:
+As this repository almost covers everything you can do with your PlayStation Vita, it has a lot of pages, but easy to follow. And I suggest that you follow the guide as numbered:
 
 1. **[CFW Wiki](https://github.com/ZHassanQ/Vita-Guide#cfw-wiki)**
 2. **[Plugins](https://github.com/ZHassanQ/Vita-Guide#plugins)**
