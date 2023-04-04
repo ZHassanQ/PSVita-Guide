@@ -4,7 +4,7 @@ This repository contains a complete guide on how to install CFW (Custom Frimware
 
 ## Up-to-Date?
 
-This guide every single file of it releases has been published from 31 March to 5 April. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word.
+This guide every single file of it links to this repository releases. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word. (If you found out an outdated app, create an issue for others)
 
 - Last Check:
     - CFW Guide: 5/April/2023
