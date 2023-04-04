@@ -106,7 +106,7 @@ There are many plugins i will list the best plugins i see for myself in this **[
 
 ## Themes
 
-This **[md](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md)** file contains a tutorial on how to use both custom themes and/or waves.
+This **[MD](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes.md)** file contains a tutorial on how to use both custom themes and/or waves.
 
 
 ### Themes Navigation
