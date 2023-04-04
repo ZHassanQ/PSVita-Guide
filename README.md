@@ -59,7 +59,7 @@ This section contains a guide on how to install CFW (Custom Frimware) on your Pl
 
 ## Native Ports
 
-There are many ports out there and mostly they either use the APK version of it. Or a decomplation of it. And i chose the best natively ports i see for myself in this **[MD](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md)** file.
+There are many ports out there and mostly they either use the APK version of it. Or a decomplation of it. And i chose the best natively ports i see for myself in this **[MD file.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md)**
 
 
 ### Native Ports Navigation
@@ -89,7 +89,7 @@ There are many ports out there and mostly they either use the APK version of it.
 
 ## Plugins
 
-There are many plugins i will list the best plugins i see for myself in this **[release.](https://github.com/ZHassanQ/Vita-Guide/releases/tag/PRX)** Because each plugin has his own name and directory i created an **[MD file](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md)** you can read it to see for each plugin and in each one i will write what you need to write in `ur0:tai/"config.txt"` file. And in the end there will be a list if you want to download all the plugins i recommend at one time. And after that there will be Adrenaline plugins.
+There are many plugins, and i will list the best plugins i see for myself in this **[release.](https://github.com/ZHassanQ/Vita-Guide/releases/tag/PRX)** Because each plugin has his own name and directory i created an **[MD file](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md)** you can read it to see for each plugin and in each one i will write what you need to write in `ur0:tai/"config.txt"` file. And in the end there will be a list if you want to download all the plugins i recommend at one time. And after that there will be Adrenaline plugins.
   
 ### Plugins Navigation
   
@@ -116,7 +116,7 @@ There are many plugins i will list the best plugins i see for myself in this **[
 
 ## Themes
 
-This **[MD](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes.md)** file contains a tutorial on how to use both custom themes and/or waves.
+This **[MD file](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes.md)** contains a tutorial on how to use both custom themes and/or waves.
 
 
 ### Themes Navigation
