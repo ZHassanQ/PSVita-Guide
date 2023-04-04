@@ -36,7 +36,7 @@ This section contains a guide on how to install CFW (Custom Frimware) on your Pl
     - **[Settings](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#settings)**
     - **[Internal Memory Card](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#internal-memory-card)**
     - **[Permanent HENkaku](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#permanent-henkaku)**
-  - **[HENkaku Settings](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#henkaku-settings)**
+    - **[HENkaku Settings](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#henkaku-settings)**
 4. **[Homebrew Apps & Plugins](https://github.com/ZHassanQ/Vita-Guide/wiki/4.-Homebrew-Apps-&-Plugins)**
     - **[VitaDeploy Apps](https://github.com/ZHassanQ/Vita-Guide/wiki/4.-Homebrew-Apps-&-Plugins#vitadeploy-apps)**
     - **[Other Apps](https://github.com/ZHassanQ/Vita-Guide/wiki/4.-Homebrew-Apps-&-Plugins#other-apps)**
