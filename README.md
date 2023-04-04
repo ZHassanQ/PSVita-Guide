@@ -2,14 +2,24 @@
 
 This repository contains a complete guide on how to install CFW (Custom Frimware) on your PlayStation Vita and everything to do with it. You don't need any external components or anything just a WiFi to connect from your PSVita to a website that can be either self hosted or visited if hosted. Also you don't need to buy an official SD Card from Sony as you can use an SD Card Adpater after you install CFW (Custom Firmware).
 
+## Up-to-Date?
+
+This guide every single file of it releases has been published from 31 March to 5 April. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word.
+
+- Last Check:
+    - CFW Guide: 5/April/2023
+    - Native Ports: 5/April/2023
+    - Plugins: 5/April/2023
+    - Themes: 5/April/2023
+    - Releases: 5/April/2023
 
 # Repository Navigation
 
-As this repositorty almost covers everything you can do with your PlayStation Vita, it has a lot of pages, but easy to follow.
+As this repositorty almost covers everything you can do with your PlayStation Vita, it has a lot of pages, but easy to follow. And I suggest that you follow the guide as numbered:
 
-- **[CFW Wiki](https://github.com/ZHassanQ/Vita-Guide#cfw-wiki)**
+1. **[CFW Wiki](https://github.com/ZHassanQ/Vita-Guide#cfw-wiki)**
+2. **[Plugins](https://github.com/ZHassanQ/Vita-Guide#plugins)**
 - **[Native Ports](https://github.com/ZHassanQ/Vita-Guide#native-ports)**
-- **[Plugins](https://github.com/ZHassanQ/Vita-Guide#plugins)**
 - **[Themes](https://github.com/ZHassanQ/Vita-Guide#themes)**
 
 ## CFW Wiki
