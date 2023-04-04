@@ -353,7 +353,7 @@ ur0:tai/vitabright.skprx
 - Note that while there is also a file named vitabright_lut_orig.txt, it's not used by vitabright and it's only here for informational purposes.
 - If you want to edit the OLED gamma table then use this **[app.]((https://github.com/ZHassanQ/Vita-Guide/releases/download/VPK/vitabright-lut-editior-1.1.vpk)** ([OLED Gamma Table Explanation](https://github.com/devnoname120/vitabright/wiki/What-is-the-format-of-the-OLED-gamma-table%3F)**)
 
-## XV. All in One
+## ⚡️ XV. All in One
 
 If you want all the suggested plugins you can easily download these **[AIO-Plugins](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/AIO-Plugins.zip)**, **[VitaBright-Lut](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/VitaBright_Lut.zip)**, **[VitaGrafix-Patches-list](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/VitaGrafix-Patches-List.zip)** files. And extract them in:
 
@@ -396,7 +396,7 @@ ur0:tai/ds34motion.suprx
 
 ```
 
-## XVI. PSP Plugins (Second Stick & Enhancements)
+## 💎 XVI. PSP Plugins (Second Stick & Enhancements)
 
 - **[GTANativeRes](https://github.com/TheOfficialFloW/GTANativeRes)** Internal resolution patch for PSP GTA series.
 - **[RemasteredControls](https://github.com/TheOfficialFloW/RemasteredControls)** A collection of dual analog patches for PSP games on Adrenaline.
@@ -434,6 +434,6 @@ ms0:seplugins/ge_patch 1
 ```
 
 
-## XVII. All in One PSP
+## ⚡️ XVII. All in One PSP
 
 If you want all the plugins and more for Adrenaline (PSP) then easily download this **[file](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/PSP_AIO-Plugins.zip)** and extract it in `ux0:pspemu/seplugins` folder.
