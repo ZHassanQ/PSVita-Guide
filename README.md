@@ -1,6 +1,6 @@
 # Vita Complete Guide!
 
-This repository contains a complete guide to how to install CFW (Custom Frimware) on your PlayStation Vita and everything to do with it. You don't need any external components or anything just a WiFi to connect from your PSVita to a website that can be either self hosted or visited if hosted. Also you don't need to buy an official SD Card from Sony as you can use an SD Card Adpater after you install CFW (Custom Firmware).
+This repository contains a complete guide on how to install CFW (Custom Frimware) on your PlayStation Vita and everything to do with it. You don't need any external components or anything just a WiFi to connect from your PSVita to a website that can be either self hosted or visited if hosted. Also you don't need to buy an official SD Card from Sony as you can use an SD Card Adpater after you install CFW (Custom Firmware).
 
 
 # Repository Navigation
