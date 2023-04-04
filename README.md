@@ -10,7 +10,7 @@ As this repositorty almost covers everything you can do with your PlayStation Vi
 - **[CFW Wiki]()**
 - **[Native Ports]()**
 - **[Plugins]()**
-- **[Themes, Waves]()**
+- **[Themes]()**
 
 ## CFW Wiki
 
@@ -102,3 +102,18 @@ There are many plugins i will list the best plugins i see for myself in this **[
 2. **PlayStation Portable**
     - **[💎 Second Stick & Enhancements](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xvi-psp-plugins-second-stick--enhancements)**
     - **[⚡️ All in One](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-xvii-all-in-one-psp)**
+
+
+## Themes
+
+This **[md](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md)** file contains a tutorial on how to use both custom themes and/or waves.
+
+
+### Themes Navigation
+
+1. **[Themes](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#themes)**
+  - **[Installation](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#installation)**
+
+2. **[Waves](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#waves)**
+  - **[Set Up](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#set-up)**
+  - **[Installation](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#installation-1)**
