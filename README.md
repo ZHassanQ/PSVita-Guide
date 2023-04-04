@@ -49,12 +49,10 @@ This section contains a guide on how to install CFW (Custom Frimware) on your Pl
 
 ## Native Ports
 
-There are many ports out there and mostly they either use the APK version of it. Or a decomplation of it. And i chose the best natively ports i see for myself.
+There are many ports out there and mostly they either use the APK version of it. Or a decomplation of it. And i chose the best natively ports i see for myself in this **[MD](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md)** file.
 
 
 ### Native Ports Navigation
-
-- **[Native Ports.md]()**
 
 0. 🔧 Devolopers
    - **[TheOfficialFlow](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-theofficialflow-ports)**
@@ -85,7 +83,6 @@ There are many plugins i will list the best plugins i see for myself in this **[
   
 ### Plugins Navigation
   
-- **[Plugins.md](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md)**
 1. **PlayStation Vita**
     - **[🗝 ReVita](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-1-revita)**
     - **[🗝 DS34](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-2-ds34vita--ds34motion)**
