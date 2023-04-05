@@ -1,6 +1,7 @@
 # Native Ports
 
-This is the **"Native-Ports.md"** file contains the best ports i suggest and how to install them.
+This is the **"Native-Ports.md"** file contains the best ports i suggest and how to install them. 
+
 
 🧭 Table of Contents
  - 🔧 Devolopers
@@ -64,6 +65,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
 # 🔧 TheOfficialFlow Ports
 
 **[TheOfficialFlow](https://github.com/TheOfficialFloW)** ports uses the android version of the game's which uses ARMv7 and recall it syscalls so that the PSVita can provide what the game wants with **[vitaGL.](https://github.com/TheOfficialFloW/vitaGL)** (OpenGL for PSVita)
+
 
 ## 👾 Bully: Anniversary Edition
 
@@ -137,6 +139,17 @@ If you want more performance then use these two plugins: (These plugins **are** 
 - Due to expired licensing, some songs were cut from the game. See **[MUSIC.md](https://github.com/TheOfficialFloW/gtasa_vita/blob/master/MUSIC..md)** for a list of removed tracks and a guide on how to restore them.
 - To properly take off during Learning to Fly mission, retract your landing gear by pressing RIGHT.
 
+
+## Grand Theft Auto: Vice City, III
+
+I can't provide any instructions on how to install either Vice City or III as their ports were decomplation of the PlayStation 2 version that was considered illegal by Take-Two Interactive company. And the original source was taken down due to DMCA. I can only provide mods that enhances the graphics and the look of the game to experience the game as if it was the Definitive Edition. The mods were made by **[PGTeam.](https://pgtmp.gitbook.io/pgbook_eng/)** This **[reddit post](https://www.reddit.com/r/VitaPiracy/comments/10j2erj/latest_backups_of_re3vita_14_revcvita_11_and/)** might help.
+
+1. Grand Theft Auto: III
+    - **[Mod](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII-Mod.zip)**
+    - **[VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII_v1.4_PCAE.vpk)**
+2. Grand Theft Auto: Vice City
+    - **[Mod](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC-Mod.zip)**
+    - **[VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC_v1.1_PCAE.vpk)**
 
 # 🔧 SonicMastr Ports
 
