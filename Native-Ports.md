@@ -143,19 +143,19 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 ## Grand Theft Auto: Vice City, III
 
-I can't provide any instructions on how to install either Vice City or III as their ports were decomplation of the PlayStation 2 version that was considered illegal by Take-Two Interactive company. And the original source was taken down due to DMCA. I can only provide mods that enhances the graphics and the look of the game to experience the game as if it was the Definitive Edition. The mods were made by **[PGTeam.](https://pgtmp.gitbook.io/pgbook_eng/)** This **[reddit post](https://www.reddit.com/r/VitaPiracy/comments/10j2erj/latest_backups_of_re3vita_14_revcvita_11_and/)** might help.
+I can't provide any instructions on how to install either Vice City or III as their ports were decomplation of the PlayStation 2 version that was considered illegal by Take-Two Interactive company. And the original source was taken down due to DMCA. I can only provide mods that enhances the graphics and the look of the game to experience the game as if it was the Definitive Edition. This **[reddit post](https://www.reddit.com/r/VitaPiracy/comments/10j2erj/latest_backups_of_re3vita_14_revcvita_11_and/)** might help. The mods were made by **[PGTeam](https://pgtmp.gitbook.io/pgbook_eng/)** and to install them:
 
 ### Grand Theft Auto: III
 
-- **[Mod](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII-Mod.zip)**
-- **[VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII_v1.4_PCAE.vpk)**
-1. After installing the mod, delete **"txd.img"** and **"txd.dir"** files from `ux0:data/gta3/models` folder.
+1. Extract **[Mod.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII-Mod.zip)** to `ux0:data/gta3` folder. (Overwrite any file if requested)
+2. After installing the mod, delete **"txd.img"** and **"txd.dir"** files from `ux0:data/gta3/models` folder.
+3. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII_v1.4_PCAE.vpk)** (It will create a shortcut in LiveArea)
 
 ### Grand Theft Auto: Vice City
 
-- **[Mod](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC-Mod.zip)**
-- **[VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC_v1.1_PCAE.vpk)**
-1. After installing the mod, delete **"txd.img"** and **"txd.dir"** files from `ux0:data/gtavc/models` folder.
+1. Extract **[Mod.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC-Mod.zip)** to `ux0:data/gtavc` folder. (Overwrite any file if requested)
+2. After installing the mod, delete **"txd.img"** and **"txd.dir"** files from `ux0:data/gtavc/models` folder.
+3. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC_v1.1_PCAE.vpk)** (It will create a shortcut in LiveArea)
 
 
 # 🔧 SonicMastr Ports
