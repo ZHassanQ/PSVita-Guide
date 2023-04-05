@@ -149,13 +149,13 @@ I can't provide any instructions on how to install either Vice City or III as th
 
 - **[Mod](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII-Mod.zip)**
 - **[VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII_v1.4_PCAE.vpk)**
-After installing the mod, delete **"txd.img"** and **"txd.dir"** files from `ux0:data/gta3/models` folder.
+1. After installing the mod, delete **"txd.img"** and **"txd.dir"** files from `ux0:data/gta3/models` folder.
 
 ### Grand Theft Auto: Vice City
 
 - **[Mod](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC-Mod.zip)**
 - **[VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC_v1.1_PCAE.vpk)**
-After installing the mod, delete **"txd.img"** and **"txd.dir"** files from `ux0:data/gtavc/models` folder.
+1. After installing the mod, delete **"txd.img"** and **"txd.dir"** files from `ux0:data/gtavc/models` folder.
 
 
 # 🔧 SonicMastr Ports
