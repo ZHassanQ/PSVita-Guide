@@ -109,7 +109,7 @@ There are many ports out there and mostly they either use the APK version of it.
    - **[Fallout](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout)**
    - **[Fallout 2](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout-2)**
 3. 🖱 Console Dump
-    - **[Super Mario 64](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-64)**
+   - **[Super Mario 64](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-64)**
 4. ☢️ No Copy Required
    - **[Super Mario Bros](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-bros)**
 
@@ -122,8 +122,8 @@ This **[MD file](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes.md)** c
 ### Themes Navigation
 
 1. **[Themes](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#themes)**
-     - **[Installation](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#installation)**
+   - **[Installation](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#installation)**
 
 2. **[Waves](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#waves)**
-     - **[Set Up](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#set-up)**
-     - **[Installation](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#installation-1)**
+   - **[Set Up](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#set-up)**
+   - **[Installation](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#installation-1)**
