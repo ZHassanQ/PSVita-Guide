@@ -121,8 +121,8 @@ If you want more performance then use these two plugins: (These plugins **are** 
 **[PGTeam](https://pgtmp.gitbook.io/pgbook_eng/)** have made mods to experience **Grand Theft Auto: San Andreas** as if it was the Defenitive Edition.
 
 1. Delete **"cache"** folder from `ux0:data/gtasa` folder. (If found)
-2. Extract **[]()** to `ux0:data/gtasa` folder. (Overwrite any file if requested)
-3. Install this **[VPK file.]()** over the one you installed.
+2. Extract **[GTASA-Mod.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTASA-Mod.zip)** to `ux0:data/gtasa` folder. (Overwrite any file if requested)
+3. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTASA_v2.1_PCAE.vpk)** over the one you installed.
 
 ### Notes
 
