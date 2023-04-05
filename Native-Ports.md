@@ -145,12 +145,18 @@ If you want more performance then use these two plugins: (These plugins **are** 
 
 I can't provide any instructions on how to install either Vice City or III as their ports were decomplation of the PlayStation 2 version that was considered illegal by Take-Two Interactive company. And the original source was taken down due to DMCA. I can only provide mods that enhances the graphics and the look of the game to experience the game as if it was the Definitive Edition. The mods were made by **[PGTeam.](https://pgtmp.gitbook.io/pgbook_eng/)** This **[reddit post](https://www.reddit.com/r/VitaPiracy/comments/10j2erj/latest_backups_of_re3vita_14_revcvita_11_and/)** might help.
 
-1. Grand Theft Auto: III
-    - **[Mod](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII-Mod.zip)**
-    - **[VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII_v1.4_PCAE.vpk)**
-2. Grand Theft Auto: Vice City
-    - **[Mod](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC-Mod.zip)**
-    - **[VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC_v1.1_PCAE.vpk)**
+### Grand Theft Auto: III
+
+- **[Mod](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII-Mod.zip)**
+- **[VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII_v1.4_PCAE.vpk)**
+After installing the mod, delete **"txd.img"** and **"txd.dir"** files from `ux0:data/gta3/models` folder.
+
+### Grand Theft Auto: Vice City
+
+- **[Mod](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC-Mod.zip)**
+- **[VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC_v1.1_PCAE.vpk)**
+After installing the mod, delete **"txd.img"** and **"txd.dir"** files from `ux0:data/gtavc/models` folder.
+
 
 # 🔧 SonicMastr Ports
 
