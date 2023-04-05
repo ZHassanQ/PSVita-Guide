@@ -170,9 +170,9 @@ I can't provide any instructions on how to install either Vice City or III as th
 
 ### Installation
 
-1. For Sonic the Hedgehog 1: Extract from the game's APK: `assets/"Data.rsdk.msf"` file to `ux0:data/Sonic1/` folder.
-1. For Sonic the Hedgehog 2: Extract from the game's APK: `assets/"Data.rsdk.msf"` file to `ux0:data/Sonic2/` folder.
-1. For Sonic CD: Extract from the game's APK: `assets/"Data.rsdk.msf"` file to `ux0:data/SonicCD/` folder.
+1. **Sonic the Hedgehog 1:** Extract from the game's APK: `assets/"Data.rsdk.msf"` file to `ux0:data/Sonic1/` folder.
+1. **Sonic the Hedgehog 2:** Extract from the game's APK: `assets/"Data.rsdk.msf"` file to `ux0:data/Sonic2/` folder.
+1. **Sonic CD:** Extract from the game's APK: `assets/"Data.rsdk.msf"` file to `ux0:data/SonicCD/` folder.
 - **Sonic CD** only: Extract the Videos from your APK file in `Android/obb/com.sega.soniccd/"main.8.com.sega.soniccd.obb` file to `ux0:data/SonicCD` folder.
 5. Rename all files to: **"Data.rsdk"**
 6. Install **[Sonic1 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic1_r4.vpk)** file for Sonic the Hedgehog 1.
