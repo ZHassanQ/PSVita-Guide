@@ -1,6 +1,6 @@
 # Plugins
 
-This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. Note that Vita plugins are always in `ur0:tai` folder and PSP plugins are always in `ux0:pspemu/seplugins/` folder. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xv-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xvi-psp-plugins-second-stick--enhancements)** And if you want all Adrenaline (PSP) plugins and more go this **[section.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xvii-all-in-one-psp)**
+This is the **"Plugins.md"** file contains every plugin i suggest and how to install them and use them. Note that Vita plugins are always in `ur0:tai` folder and PSP plugins are always in `ux0:pspemu/seplugins/` folder. If you want them all easily go to this **[section](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-xv-all-in-one)** (It doesn't contain the PSP plugins) if you want the PSP (Adrenaline) plugins go to this **[section.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xvi-psp-plugins-second-stick--enhancements)** And if you want all Adrenaline (PSP) plugins and more go this **[section.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-xvii-all-in-one-psp)**
 
 🧭 Table of Contents
 - 🗝 Input
