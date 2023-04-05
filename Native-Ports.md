@@ -170,9 +170,9 @@ I can't provide any instructions on how to install either Vice City or III as th
 
 ### Installation
 
-1. Place **"Data.rsdk.msf"** in `x0:data/Sonic1/` for Sonic the Hedgehog 1. 
-2. Place **"Data.rsdk.msf"** in `ux0:data/Sonic2/` for Sonic the Hedgehog 2.
-3. Place **"Data.rsdk.msf"** in `ux0:data/SonicCD/` for Sonic CD.
+1. For Sonic the Hedgehog 1: Extract from the game's APK: `assets/"Data.rsdk.msf"` file to `ux0:data/Sonic1/` folder.
+1. For Sonic the Hedgehog 2: Extract from the game's APK: `assets/"Data.rsdk.msf"` file to `ux0:data/Sonic2/` folder.
+1. For Sonic CD: Extract from the game's APK: `assets/"Data.rsdk.msf"` file to `ux0:data/SonicCD/` folder.
 - **Sonic CD** only: Extract the Videos from your APK file in `Android/obb/com.sega.soniccd/"main.8.com.sega.soniccd.obb` file to `ux0:data/SonicCD` folder.
 5. Rename all files to: **"Data.rsdk"**
 6. Install **[Sonic1 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic1_r4.vpk)** file for Sonic the Hedgehog 1.
@@ -196,7 +196,7 @@ I can't provide any instructions on how to install either Vice City or III as th
 
 ### Installation
 
-1. Place **"Data.rsdk"** file (Can be obtained by buying the game) in `ux0:data/Mania`
+1. Extract from the game's APK or copy **"Data.rsdk"** file (Can be obtained by buying the game) to`ux0:data/Mania` folder.
 2. Download these two **[Game.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Game.suprx)** - **[Settings.ini](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Settings.ini)** files and put them in `ux0:data/Mania` folder.
 3. Download this **[modconfig.ini](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/modconfig.ini)** file and put it in `ux0:data/Mania/mods` folder.
 4. Install **[SonicMania VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicMania_r3.vpk)** file.
@@ -221,7 +221,7 @@ I can't provide any instructions on how to install either Vice City or III as th
 
 ### Installation
 
-1. Place **"MASTER.DAT"**, **"CRITTER.DAT"** files and **"DATA"** folder (Can be obtained by buying the game) in `ux0:data/fallout`
+1. Copy **"MASTER.DAT"**, **"CRITTER.DAT"** files and **"DATA"** folder (Can be obtained by buying the game) to `ux0:data/fallout` folder.
 - Copy **"fallout.cfg"** too, if you're using non-english Fallout version.
   - Or make sure that language setting is properly set in it like: `language=german`
 2. Install **[Fallout VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/fallout-ce_r2.vpk)** file.
@@ -230,7 +230,7 @@ I can't provide any instructions on how to install either Vice City or III as th
 
 **[Fallout 2](https://github.com/Northfear/fallout2-ce-vita)** port uses this **[Community Edition](https://github.com/alexbatalov/fallout2-ce)** and the original game to be played. 
 
-1. Place **"master.dat"**, **"critter.dat"**, **"patch000.dat"** files, **"data"**, and **"sound"** folders (Can be obtained by buying the game) in `ux0:data/fallout2`
+1. Copy **"master.dat"**, **"critter.dat"**, **"patch000.dat"** files, **"data"**, and **"sound"** folders (Can be obtained by buying the game) to `ux0:data/fallout2` folder.
 - Copy **"fallout2.cfg"** too, if you're using non-english Fallout version.
   - Or make sure that language setting is properly set in it like: `language=german`
 2. Install **[Fallout 2 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/fallout2-ce_r10.vpk)** file.
