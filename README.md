@@ -6,12 +6,13 @@ This repository contains a complete guide on how to install CFW (Custom Frimware
 
 Every single file of this guide links to the repository release's. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word. (If you found out an outdated app, create an issue for others)
 
-- Last Check:
-    - CFW Guide: 5/April/2023
-    - Native Ports: 5/April/2023
-    - Plugins: 5/April/2023
-    - Themes: 5/April/2023
-    - Releases: 5/April/2023
+### Last Check
+
+- CFW Guide: 5/April/2023
+- Plugins: 5/April/2023
+- Native Ports: 5/April/2023
+- Themes: 5/April/2023
+- Releases: 5/April/2023
 
 # Repository Navigation
 
