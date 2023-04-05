@@ -62,31 +62,6 @@ This section contains a guide on how to install CFW (Custom Frimware) on your Pl
 There are many ports out there and mostly they either use the APK version of it. Or a decomplation of it. And i chose the best natively ports i see for myself in this **[MD file.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md)**
 
 
-### Native Ports Navigation
-
-0. 🔧 Devolopers
-   - **[TheOfficialFlow](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-theofficialflow-ports)**
-   - **[SonicMastr](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonicmastr-ports)**
-   - **[Northfear](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-northfear-ports)**
-   - **[Others](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-others)**
-1. 👾 APK
-   - **[Bully: Anniversary Edition](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-bully-anniversary-edition)**
-   - **[Crazy Taxi: Classic](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-crazy-taxi-classic)**
-   - **[Grand Theft Auto: Chinatown Wars](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-chinatown-wars)**
-   - **[Grand Theft Auto: San Andreas](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-san-andreas)**
-   - **[Sonic 1, 2, & CD](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonic-1-2--CD)**
-   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
-   - **[Max Payne](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-max-payne)**
-2. 🖥️ Computer
-   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
-   - **[Fallout](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout)**
-   - **[Fallout 2](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout-2)**
-3. 🖱 Console Dump
-    - **[Super Mario 64](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-64)**
-4. ☢️ No Copy Required
-   - **[Super Mario Bros](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-bros)**
-
-
 ## Plugins
 
 There are many plugins, and i will list the best plugins i see for myself in this **[release.](https://github.com/ZHassanQ/Vita-Guide/releases/tag/PRX)** Because each plugin has his own name and directory i created an **[MD file](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md)** you can read it to see for each plugin and in each one i will write what you need to write in `ur0:tai/"config.txt"` file. And in the end there will be a list if you want to download all the plugins i recommend at one time. And after that there will be Adrenaline plugins.
@@ -112,6 +87,31 @@ There are many plugins, and i will list the best plugins i see for myself in thi
 2. **PlayStation Portable**
     - **[💎 Second Stick & Enhancements](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xvi-psp-plugins-second-stick--enhancements)**
     - **[⚡️ All in One](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-xvii-all-in-one-psp)**
+
+
+### Native Ports Navigation
+
+0. 🔧 Devolopers
+   - **[TheOfficialFlow](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-theofficialflow-ports)**
+   - **[SonicMastr](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonicmastr-ports)**
+   - **[Northfear](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-northfear-ports)**
+   - **[Others](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-others)**
+1. 👾 APK
+   - **[Bully: Anniversary Edition](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-bully-anniversary-edition)**
+   - **[Crazy Taxi: Classic](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-crazy-taxi-classic)**
+   - **[Grand Theft Auto: Chinatown Wars](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-chinatown-wars)**
+   - **[Grand Theft Auto: San Andreas](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-san-andreas)**
+   - **[Sonic 1, 2, & CD](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonic-1-2--CD)**
+   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
+   - **[Max Payne](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-max-payne)**
+2. 🖥️ Computer
+   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
+   - **[Fallout](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout)**
+   - **[Fallout 2](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout-2)**
+3. 🖱 Console Dump
+    - **[Super Mario 64](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-64)**
+4. ☢️ No Copy Required
+   - **[Super Mario Bros](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-bros)**
 
 
 ## Themes
