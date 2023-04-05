@@ -173,10 +173,11 @@ I can't provide any instructions on how to install either Vice City or III as th
 1. Place **"Data.rsdk.msf"** in `x0:data/Sonic1/` for Sonic the Hedgehog 1. 
 2. Place **"Data.rsdk.msf"** in `ux0:data/Sonic2/` for Sonic the Hedgehog 2.
 3. Place **"Data.rsdk.msf"** in `ux0:data/SonicCD/` for Sonic CD.
-4. Rename all files to: **"Data.rsdk"**
-5. Install **[Sonic1 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic1_r4.vpk)** file for Sonic the Hedgehog 1.
-6. Install **[Sonic2 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic2_r4.vpk)** file for Sonic the Hedgehog 2.
-7. Install **[SonicCD VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicCD_r3.vpk)** file for Sonic CD.
+- **Sonic CD** only: Extract the Videos from your APK file in `Android/obb/com.sega.soniccd/"main.8.com.sega.soniccd.obb` file to `ux0:data/SonicCD` folder.
+5. Rename all files to: **"Data.rsdk"**
+6. Install **[Sonic1 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic1_r4.vpk)** file for Sonic the Hedgehog 1.
+7. Install **[Sonic2 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic2_r4.vpk)** file for Sonic the Hedgehog 2.
+8. Install **[SonicCD VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicCD_r3.vpk)** file for Sonic CD.
 
 ### Notes
 
