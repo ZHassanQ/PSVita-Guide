@@ -119,6 +119,14 @@ If you want more performance then use these two plugins: (These plugins **are** 
 4. Extract **[data.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTASA-data.zip)** to `ux0:data/gtasa` folder.
 5. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTASA_r12.vpk)** (It will create a shortcut in LiveArea)
 
+### PGTeam Mod
+
+**[PGTeam](https://pgtmp.gitbook.io/pgbook_eng/)** have made mods to experience **Grand Theft Auto: San Andreas** as if it was the Defenitive Edition.
+
+1. Delete **"cache"** folder from `ux0:data/gtasa` folder. (If found)
+2. Extract **[]()** to `ux0:data/gtasa` folder. (Overwrite any file if requested)
+3. Install this **[VPK file.]()** over the one you installed.
+
 ### Notes
 
 1. After fully installing the port, you'll be able to configure it with the Configurator app. The Configurator app will allow users to enable or disable a set of optimizations, patches and renderer alterations to best match users taste. You can launch the Configurator app by clicking on the Configuration button located on the LiveArea section.
