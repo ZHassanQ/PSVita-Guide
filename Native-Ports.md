@@ -104,9 +104,6 @@ If you want more performance then use these two plugins: (These plugins **are** 
 3. Extract **"main.4.com.rockstargames.gtactw.obb"** file contents to `ux0:data/gtactw` folder
 4. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTACTW_r3.vpk)** (It will create a shortcut in LiveArea) 
 
-### Notes
-
-
 ## 👾 Grand Theft Auto: San Andreas
 
 **[Grand Theft Auto: San Andreas](https://github.com/TheOfficialFloW/gtasa_vita)** port uses **2.00 version** of the game's APK.
