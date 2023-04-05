@@ -165,7 +165,7 @@ I can't provide any instructions on how to install either Vice City or III as th
 
 1. Place **"Data.rsdk.msf"** in `x0:data/Sonic1/` for Sonic the Hedgehog 1. 
 2. Place **"Data.rsdk.msf"** in `ux0:data/Sonic2/` for Sonic the Hedgehog 2.
-3. Place **"Data.rsdk.msf"** in `ux0:data/Sonic2/` for Sonic CD.
+3. Place **"Data.rsdk.msf"** in `ux0:data/SonicCD/` for Sonic CD.
 4. Rename all files to: **"Data.rsdk"**
 5. Install **[Sonic1 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic1_r4.vpk)** file for Sonic the Hedgehog 1.
 6. Install **[Sonic2 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic2_r4.vpk)** file for Sonic the Hedgehog 2.
