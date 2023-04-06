@@ -274,6 +274,13 @@ This **[Max Payne](https://github.com/fgsfdsfgs/max_vita)** port has been ported
 5. Extract **[data.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxPayne-data.zip)** to `ux0:data` folder.
 6. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxPayne_r4.vpk)** (It will create a shortcut in LiveArea) 
 
+### PGTeam Mod
+
+**[PGTeam](https://pgtmp.gitbook.io/pgbook_eng/)** have made mods to experience **Max Payne** as if it was the Computer version.
+
+1. Extract **[MaxPayne-Mod.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxPayne-Mod.zip)** to `ux0:data/maxpayne` folder. (Overwrite any file if requested)
+2. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxPayne_vr4_PCAE.vpk)** over the one you installed.
+
 ### Notes
 
 The Vita port has an extra config file, located at `ux0:/data/maxpayne/config.txt` It is created when you first run the game and allows you to tweak some internal settings. For more detailed descriptions of said settings check the **[wiki article.](https://github.com/fgsfdsfgs/max_vita/wiki/Config-variables)**
