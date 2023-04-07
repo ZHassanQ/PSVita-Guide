@@ -8,11 +8,11 @@ Every single file of this guide links to the repository release's. And every sin
 
 ### Last Check
 
-- CFW Guide: 5/April/2023
+- CFW Guide: 7/April/2023
 - Plugins: 5/April/2023
 - Native Ports: 5/April/2023
-- Themes: 5/April/2023
-- Releases: 5/April/2023
+- Themes: 7/April/2023
+- Releases: 7/April/2023
 
 # Repository Navigation
 
