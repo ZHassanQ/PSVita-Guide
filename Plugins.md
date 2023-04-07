@@ -293,7 +293,7 @@ I would advise you to set up your bubbles in a way that their title ID's will be
 
 ## 🍂 XII. Download Enabler
 
-**[Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks#2-download-enabler) allows you to download any content from the webbrowser to `ux0:download` folder.
+**[Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks#2-download-enabler)** allows you to download any content from the webbrowser to `ux0:download` folder.
 
 ### Installation
 
