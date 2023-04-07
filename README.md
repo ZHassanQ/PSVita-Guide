@@ -117,7 +117,7 @@ There are many ports out there and mostly they either use the APK version of it.
 
 ## Themes
 
-This **[MD file](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes.md)** contains a tutorial on how to use both custom themes and/or waves.
+This **[MD file](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md)** contains a tutorial on how to use both custom themes and/or waves.
 
 
 ### Themes Navigation
