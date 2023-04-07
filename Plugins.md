@@ -233,13 +233,13 @@ ur0:tai/pngshot.suprx
 
 ### Installation
 
-1. Copy **[quickmenuplus.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/quickmenuplus.suprx)** to `ur0:tai` folder, add **"quickmenuplus.suprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[quickmenuplus.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/quickmenuplus.suprx)** to `ur0:tai` folder, add **"quickmenuplus.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
 
 ### Installed
 
 ```
 
-• KERNEL
+• MAIN
 
 ur0:tai/quickmenuplus.suprx
 
@@ -247,7 +247,7 @@ ur0:tai/quickmenuplus.suprx
 
 ### Notes
 
-- Download and extract this file in the directory `ur0:/data/quickmenuplus` to configure Quick Menu Plus.
+- Download and extract this **[file](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/QuickMenuPlus-Data.zip)** in the directory `ur0:/data/quickmenuplus` to configure Quick Menu Plus.
 - **"standbyisrestart.txt"** sets the standby button to function as a restart button. Put in the file **"1"** to enable, or **"0"** to disable. If the file does not exist, the default is enabled on the Vita, and disabled on the PSTV. When this setting is disabled, hold the **"Power Off ・ Restart"** button to restart, and press to power off.
 - **"bgstyle.txt"** sets the background style. Put in the file **"0"** for original, **"1"** for translucent, and **"2"** for black. If the file does not exist, the default is translucent. Black can reduce power consumption for OLED screens. The gradient effect is removed in all styles.
 
@@ -355,9 +355,10 @@ ur0:tai/vitabright.skprx
 
 ## ⚡️ XV. All in One
 
-If you want all the suggested plugins you can easily download these **[AIO-Plugins](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/AIO-Plugins.zip)**, **[VitaBright-Lut](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/VitaBright_Lut.zip)**, **[VitaGrafix-Patches-list](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/VitaGrafix-Patches-List.zip)** files. And extract them in:
+If you want all the suggested plugins you can easily download these **[AIO-Plugins](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/AIO-Plugins.zip)**, **[QuickMenuPlus](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/QuickMenuPlus-Data.zip)**, **[VitaBright-Lut](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/VitaBright_Lut.zip)**, **[VitaGrafix-Patches-list](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/VitaGrafix-Patches-List.zip)** files. And extract them in:
 
 - AIO-Plugins in `ur0:tai` folder.
+- QuickMenuPlus-Data in `ur0:data/quickmenuplus` folder.
 - VitaBright-Lut in `ur0:tai` folder.
 - VitaGrafix-Patches-List in `ux0:data/VitaGrafix` folder.
 
