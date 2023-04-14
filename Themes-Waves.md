@@ -28,13 +28,13 @@ Thanks to **[Princess of Sleeping](https://github.com/Princess-of-Sleeping/)** f
 This plugin can be easily installed like all the plugins. (Not included in **"AIO-Plugins"** pack)
 
 0. Download this **[file](https://github.com/ZHassanQ/Vita-Guide/releases/download/THEM/waveparam.zip)** and extract it in `ux0:data` folder.
-1. Copy **[psp2wpp.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/psp2wpp.suprx)** to `ur0:tai` folder, add **"psp2wpp.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+1. Copy **[psp2wpp.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/psp2wpp.suprx)** to `ur0:tai` folder, add **"psp2wpp.suprx"** into your `ur0:tai/"config.txt"` file under `*main` section.
 
 ### Installed 
 
 ```
 
-• MAIN
+*main
 
 ur0:tai/psp2wpp.suprx
 
