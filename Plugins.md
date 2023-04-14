@@ -31,22 +31,22 @@ This is the **"Plugins.md"** file contains every plugin i suggest and how to ins
 
 ### Installation
  
-1. Copy **[ioplus.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ioplus.skprx)** to `ur0:tai` folder, add **"ioplus.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
-2. Copy **[reVita.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/reVita.skprx)** to `ur0:tai` folder, add **"reVita.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section. 
+1. Copy **[ioplus.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ioplus.skprx)** to `ur0:tai` folder, add **"ioplus.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
+2. Copy **[reVita.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/reVita.skprx)** to `ur0:tai` folder, add **"reVita.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section. 
 - Should be installed before ds34vita/ds4touch in tai config.
-- Optional, to get Gyro support: Copy **[reVitaMotion.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/reVitaMotion.suprx)** to `ur0:tai` folder, add **"reVitaMotion.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+- Optional, to get Gyro support: Copy **[reVitaMotion.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/reVitaMotion.suprx)** to `ur0:tai` folder, add **"reVitaMotion.suprx"** into your `ur0:tai/"config.txt"` file under `*main` section.
 
 ### Installed
 
 ```
 
-• KERNEL
+*kernel
 
 ur0:tai/ioplus.skprx
 ur0:tai/reVita.skprx
 
 
-• MAIN
+*main
 
 ur0:tai/reVitaMotion.suprx
 
@@ -63,23 +63,21 @@ ur0:tai/reVitaMotion.suprx
 
 ### Installation
 
-1. Copy **[ds34vita.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ds34vita.skprx)** to `ur0:tai` folder, add **"ds34vita.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
-2. Copy **[ds34motion.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ds34motion.skprx)** to `ur0:tai` folder, add **"ds34motion.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
-3. Copy **[ds34motion.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ds34motion.suprx)** to `ur0:tai` folder, add **"ds34motion.suprx"** into your `ur0:tai/"config.txt"` file under **"• TITLEID00"** section.
+1. Copy **[ds34vita.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ds34vita.skprx)** to `ur0:tai` folder, add **"ds34vita.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
+2. Copy **[ds34motion.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ds34motion.skprx)** to `ur0:tai` folder, add **"ds34motion.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
+3. Copy **[ds34motion.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ds34motion.suprx)** to `ur0:tai` folder, add **"ds34motion.suprx"** into your `ur0:tai/"config.txt"` file under `*TITLEID` section.
 
 ### Installed
 
 ```
 
-• KERNEL
+*kernel
 
 ur0:tai/ds34vita.skprx
-• KERNEL
-
 ur0:tai/ds34motion.skprx
 
 
-• TITLEID00
+*TITLEID
 # Replace it with your game's TITLEID. Or "ALL" to affect all titles.
 
 ur0:tai/ds34motion.suprx
@@ -101,19 +99,19 @@ ur0:tai/ds34motion.suprx
 ### Installation
 
 0. Download this **[file](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/VitaGrafix-Patches-List.zip)** and extract it in `ux0:data/VitaGrafix` folder.
-1. Copy **[ioplus.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ioplus.skprx)** to `ur0:tai` folder, add **"ioplus.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
-2. Copy **[VitaGrafix.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/VitaGrafix.suprx)** to `ur0:tai` folder, add **"VitaGrafix.suprx"** into your `ur0:tai/"config.txt"` file under **"• ALL"** section.
+1. Copy **[ioplus.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/ioplus.skprx)** to `ur0:tai` folder, add **"ioplus.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
+2. Copy **[VitaGrafix.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/VitaGrafix.suprx)** to `ur0:tai` folder, add **"VitaGrafix.suprx"** into your `ur0:tai/"config.txt"` file under `*all` section.
 
 ### Installed
 
 ```
 
-• KERNEL
+*kernel
 
 ur0:tai/ioplus.skprx
 
 
-• ALL
+*all
 
 ur0:tai/VitaGrafix.suprx
 
@@ -125,13 +123,13 @@ ur0:tai/VitaGrafix.suprx
 
 ### Installation
 
-1. Copy **[NoPowerLimits.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/NoPowerLimits.skprx)** to `ur0:tai` folder, add **"NoPowerLimits.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[NoPowerLimits.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/NoPowerLimits.skprx)** to `ur0:tai` folder, add **"NoPowerLimits.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
 
 ### Installed
 
 ```
 
-• KERNEL
+*kernel
 
 ur0:tai/NoPowerLimits.skprx
 
@@ -143,13 +141,13 @@ ur0:tai/NoPowerLimits.skprx
 
 ### Installation 
 
-1. Copy **[CapUnlocker.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/CapUnlocker.skprx)** to `ur0:tai` folder, add **"CapUnlocker.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[CapUnlocker.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/CapUnlocker.skprx)** to `ur0:tai` folder, add **"CapUnlocker.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
 
 ### Installed
 
 ```
 
-• KERNEL
+*kernel
 
 ur0:tai/CapUnlocker.skprx
 
@@ -161,13 +159,13 @@ ur0:tai/CapUnlocker.skprx
 
 ### Installation 
 
-1. Copy **[PSVshell.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/PSVshell.skprx)** to `ur0:tai` folder, add **"PSVshell.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[PSVshell.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/PSVshell.skprx)** to `ur0:tai` folder, add **"PSVshell.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
 
 ### Installed
 
 ```
 
-• KERNEL
+*kernel
 
 ur0:tai/PSVshell.skprx
 
@@ -197,13 +195,13 @@ ur0:tai/PSVshell.skprx
 
 ### Installation
 
-1. Copy **[TrophyShot.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/TrophyShot.suprx)** to `ur0:tai` folder, add **"TrophyShot.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+1. Copy **[TrophyShot.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/TrophyShot.suprx)** to `ur0:tai` folder, add **"TrophyShot.suprx"** into your `ur0:tai/"config.txt"` file under `*main` section.
 
 ### Installed
 
 ```
 
-• MAIN
+*main
 
 ur0:tai/TrophyShot.suprx
 
@@ -215,13 +213,13 @@ ur0:tai/TrophyShot.suprx
 
 ### Installation
 
-1. Copy **[pngshot.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/pngshot.suprx)** to `ur0:tai` folder, add **"pngshot.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+1. Copy **[pngshot.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/pngshot.suprx)** to `ur0:tai` folder, add **"pngshot.suprx"** into your `ur0:tai/"config.txt"` file under `*main` section.
 
 ### Installed
 
 ```
 
-• MAIN
+*main
 
 ur0:tai/pngshot.suprx
 
@@ -233,13 +231,13 @@ ur0:tai/pngshot.suprx
 
 ### Installation
 
-1. Copy **[quickmenuplus.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/quickmenuplus.suprx)** to `ur0:tai` folder, add **"quickmenuplus.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+1. Copy **[quickmenuplus.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/quickmenuplus.suprx)** to `ur0:tai` folder, add **"quickmenuplus.suprx"** into your `ur0:tai/"config.txt"` file under `*main` section.
 
 ### Installed
 
 ```
 
-• MAIN
+*main
 
 ur0:tai/quickmenuplus.suprx
 
@@ -257,13 +255,13 @@ ur0:tai/quickmenuplus.suprx
 
 ### Installation
 
-1. Copy **[shellbat.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/shellbat.suprx)** to `ur0:tai` folder, add **"shellbat.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+1. Copy **[shellbat.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/shellbat.suprx)** to `ur0:tai` folder, add **"shellbat.suprx"** into your `ur0:tai/"config.txt"` file under `*main` section.
 
 ### Installed
 
 ```
 
-• MAIN
+*main
 
 ur0:tai/shellbat.suprx
 
@@ -275,13 +273,13 @@ ur0:tai/shellbat.suprx
 
 ### Installation 
 
-1. Copy **[BetterTrackPlug.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/BetterTrackPlug.skprx)** to `ur0:tai` folder, add **"BetterTrackPlug.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[BetterTrackPlug.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/BetterTrackPlug.skprx)** to `ur0:tai` folder, add **"BetterTrackPlug.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
 
 ### Installed
 
 ```
 
-• KERNEL
+*kernel
 
 ur0:tai/BetterTrackPlug.skprx
 
@@ -297,13 +295,13 @@ I would advise you to set up your bubbles in a way that their title ID's will be
 
 ### Installation
 
-1. Copy **[download_enabler.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/download_enabler.suprx)** to `ur0:tai` folder, add **"download_enabler.suprx"** into your `ur0:tai/"config.txt"` file under **"• MAIN"** section.
+1. Copy **[download_enabler.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/download_enabler.suprx)** to `ur0:tai` folder, add **"download_enabler.suprx"** into your `ur0:tai/"config.txt"` file under `*main` section.
 
 ### Installed
 
 ```
 
-• MAIN
+*main
 
 ur0:tai/download_enabler.suprx
 
@@ -315,13 +313,13 @@ ur0:tai/download_enabler.suprx
 
 ### Installation 
 
-1. Copy **[staybright.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/staybright.skprx)** to `ur0:tai` folder, add **"staybright.skprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[staybright.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/staybright.skprx)** to `ur0:tai` folder, add **"staybright.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
 
 ### Installed
 
 ```
 
-• KERNEL
+*kernel
 
 ur0:tai/staybright.skprx
 
@@ -334,13 +332,13 @@ ur0:tai/staybright.skprx
 ### Installation
 
 0. Download this **[file](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/VitaBright_Lut.zip)** and extract it in `ur0:tai` folder.
-1. Copy **[vitabright.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/vitabright.skprx)** to `ur0:tai` folder, add **"vitabright.suprx"** into your `ur0:tai/"config.txt"` file under **"• KERNEL"** section.
+1. Copy **[vitabright.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/vitabright.skprx)** to `ur0:tai` folder, add **"vitabright.suprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
 
 ### Installed
 
 ```
 
-• MAIN
+*kernel
 
 ur0:tai/vitabright.skprx
 
@@ -366,7 +364,7 @@ After that copy the code block down and paste it in `ur0:tai/"config.txt"` file.
 
 ```
 
-• KERNEL
+*kernel
 
 ur0:tai/ioplus.skprx
 ur0:tai/reVita.skprx
@@ -380,7 +378,7 @@ ur0:tai/CapUnlocker.skprx
 ur0:tai/PSVshell.skprx
 
 
-• MAIN
+*main
 
 ur0:tai/reVitaMotion.suprx
 ur0:tai/TrophyShot.suprx
@@ -390,10 +388,9 @@ ur0:tai/quickmenuplus.suprx
 ur0:tai/download_enabler.suprx
 
 
-• ALL
+*all
 
 ur0:tai/VitaGrafix.suprx
-ur0:tai/ds34motion.suprx
 
 ```
 
