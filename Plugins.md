@@ -393,6 +393,9 @@ ur0:tai/download_enabler.suprx
 ur0:tai/VitaGrafix.suprx
 
 ```
+### Bugs, Plugins not Working
+
+- Replace `*kernel` with `*KERNEL` that may work.
 
 ## 💎 XVI. PSP Plugins (Second Stick & Enhancements)
 
