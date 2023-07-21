@@ -4,12 +4,16 @@ This is the **"Native-Ports.md"** file contains the best ports i suggest and how
 
 
 🧭 Table of Contents
- - 🔧 Devolopers
+ 1. 🔧 Devolopers
+   
    - **[TheOfficialFlow](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-theofficialflow-ports)**
    - **[SonicMastr](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonicmastr-ports)**
    - **[Northfear](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-northfear-ports)**
    - **[Others](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-others)**
- - 👾 APK
+  
+     
+2. 👾 APK
+   
    - **[Bully: Anniversary Edition](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-bully-anniversary-edition)**
    - **[Crazy Taxi: Classic](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-crazy-taxi-classic)**
    - **[Grand Theft Auto: Chinatown Wars](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-chinatown-wars)**
@@ -18,13 +22,22 @@ This is the **"Native-Ports.md"** file contains the best ports i suggest and how
    - **[Sonic 1, 2, & CD](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonic-1-2--CD)**
    - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
    - **[Max Payne](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-max-payne)**
- - 🖥️ Computer
+  
+     
+3. 🖥️ Computer
+   
    - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
    - **[Fallout](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout)**
    - **[Fallout 2](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout-2)**
- - 🖱 Console Dump
+  
+     
+4. 🖱 Console Dump
+   
    - **[Super Mario 64](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-64)**
- - ☢️ No Copy Required
+  
+     
+5. ☢️ No Copy Required
+   
    - **[Super Mario Bros](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-bros)**
 
 ## Prerequisites
