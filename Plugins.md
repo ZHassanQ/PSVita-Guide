@@ -4,25 +4,42 @@ This is the **"Plugins.md"** file contains every plugin i suggest and how to ins
 
 🧭 Table of Contents
 - 🗝 Input
+  
   - **[ReVita](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-1-revita)**
   - **[DS34](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-2-ds34vita--ds34motion)**
+ 
+    
 - 🔆 Enhances
+  
   - **[VitaGrafix](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-3-vitagrafix)**
   - **[NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-4-nopowerlimitsvita)**
+ 
+    
 - 🚀 Overclocking
+  
   - **[CapUnlocker](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-5-CapUnlocker)**
   - **[PSVshellPlus](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-6-psvshellplus)**
+ 
+    
 - 🎞️ Media
+  
   - **[TrophyShot](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-7-trophyshot)**
   - **[PNGShot](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-8-pngshot)**
+ 
+    
 - 🎨 Appearance
+  
   - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-9-quick-menu-plus)**
   - **[Vita Shellbat](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-x-vita-shellbat)**
+ 
+    
 - 🍂 Miscellaneous
+  
   - **[BetterTrackPlug](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xi-bettertrackplug)**
   - **[Download Enabler](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xii-vita-shellbat)**
   - **[StayBright](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xiii-staybright)**
   - **[VitaBright](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xiv-vita-shellbat)**
+ 
 
 ## 🗝 1. ReVita
 
