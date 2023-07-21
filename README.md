@@ -36,22 +36,35 @@ This section contains a guide on how to install CFW (Custom Frimware) on your Pl
 ### CFW Wiki Navigation
 
 1. **[Preparing](https://github.com/ZHassanQ/Vita-Guide/wiki/1.-Preparing)**
+   
     - **[System Information](https://github.com/ZHassanQ/Vita-Guide/wiki/1.-Preparing#system-information)**
     - **[Settings](https://github.com/ZHassanQ/Vita-Guide/wiki/1.-Preparing#settings)**
     - **[Internet Browser](https://github.com/ZHassanQ/Vita-Guide/wiki/1.-Preparing#internet-browser)**
+  
+      
 2. **[Self Host](https://github.com/ZHassanQ/Vita-Guide/wiki/2.-Self-Host)**
+   
     - **[Online](https://github.com/ZHassanQ/Vita-Guide/wiki/2.-Self-Host#online)**
     - **[Self Host](https://github.com/ZHassanQ/Vita-Guide/wiki/2.-Self-Host#self-host)**
+  
+      
 3. **[HENkaku](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku)**
+   
     - **[Temporary HENkaku](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#temporary-henkaku)**
     - **[Settings](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#settings)**
     - **[Internal Memory Card](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#internal-memory-card)**
     - **[Permanent HENkaku](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#permanent-henkaku)**
     - **[HENkaku Settings](https://github.com/ZHassanQ/Vita-Guide/wiki/3.-HENkaku#henkaku-settings)**
+  
+      
 4. **[Homebrew Apps](https://github.com/ZHassanQ/Vita-Guide/wiki/4.-Homebrew-Apps)**
+   
     - **[VitaDeploy Apps](https://github.com/ZHassanQ/Vita-Guide/wiki/4.-Homebrew-Apps-&-Plugins#vitadeploy-apps)**
     - **[Other Apps](https://github.com/ZHassanQ/Vita-Guide/wiki/4.-Homebrew-Apps-&-Plugins#other-apps)**
+  
+      
 5. **[SD2Vita, Games & Others](https://github.com/ZHassanQ/Vita-Guide/wiki/5.-SD2Vita,-PSP,-PSVita-&-Others)**
+   
     - **[SD2Vita](https://github.com/ZHassanQ/Vita-Guide/wiki/5.-SD2Vita,-PSP,-PSVita-&-Others#sd2vita)**
     - **[Adrenaline PSP](https://github.com/ZHassanQ/Vita-Guide/wiki/5.-SD2Vita,-PSP,-PSVita-&-Others#adrenaline-psp)**
     - **[PSVita Backup](https://github.com/ZHassanQ/Vita-Guide/wiki/5.-SD2Vita,-PSP,-PSVita-&-Others#psvita-backup)**
@@ -65,22 +78,46 @@ There are many plugins, and i will list the best plugins i see for myself in thi
 ### Plugins Navigation
   
 1. **PlayStation Vita**
-    - **[🗝 ReVita](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-1-revita)**
-    - **[🗝 DS34](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-2-ds34vita--ds34motion)**
-    - **[🔆 VitaGrafix](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-3-vitagrafix)**
-    - **[🔆 NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-4-nopowerlimitsvita)**
-    - **[🚀 CapUnlocker](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-5-CapUnlocker)**
-    - **[🚀 PSVshellPlus](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-6-psvshellplus)**
-    - **[🎞️ TrophyShot](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-7-trophyshot)**
-    - **[🎞️ PNGShot](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-8-pngshot)**
-    - **[🎨 Quick Menu Plus](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-9-quick-menu-plus)**
-    - **[🎨 Vita Shellbat](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-x-vita-shellbat)**
-    - **[🍂 BetterTrackPlug](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xi-bettertrackplug)**
-    - **[🍂 Download Enabler](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xii-vita-shellbat)**
-    - **[🍂 StayBright](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xiii-staybright)**
-    - **[🍂 VitaBright](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xiv-vita-shellbat)**
-    - **[⚡ All in One](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-xv-all-in-one)**
+- 🗝 Input
+  
+  - **[ReVita](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-1-revita)**
+  - **[DS34](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-2-ds34vita--ds34motion)**
+ 
+    
+- 🔆 Enhances
+  
+  - **[VitaGrafix](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-3-vitagrafix)**
+  - **[NoPowerLimitsVita](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-4-nopowerlimitsvita)**
+ 
+    
+- 🚀 Overclocking
+  
+  - **[CapUnlocker](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-5-CapUnlocker)**
+  - **[PSVshellPlus](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-6-psvshellplus)**
+ 
+    
+- 🎞️ Media
+  
+  - **[TrophyShot](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-7-trophyshot)**
+  - **[PNGShot](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-8-pngshot)**
+ 
+    
+- 🎨 Appearance
+  
+  - **[Quick Menu Plus](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-9-quick-menu-plus)**
+  - **[Vita Shellbat](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-x-vita-shellbat)**
+ 
+    
+- 🍂 Miscellaneous
+  
+  - **[BetterTrackPlug](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xi-bettertrackplug)**
+  - **[Download Enabler](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xii-vita-shellbat)**
+  - **[StayBright](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xiii-staybright)**
+  - **[VitaBright](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-xiv-vita-shellbat)**
+
+    
 2. **PlayStation Portable**
+   
     - **[💎 Second Stick & Enhancements](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#xvi-psp-plugins-second-stick--enhancements)**
     - **[⚡️ All in One](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#%EF%B8%8F-xvii-all-in-one-psp)**
 
@@ -91,12 +128,16 @@ There are many ports out there and mostly they either use the APK version of it.
  
 ### Native Ports Navigation
 
-0. 🔧 Devolopers
+1. 🔧 Devolopers
+   
    - **[TheOfficialFlow](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-theofficialflow-ports)**
    - **[SonicMastr](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonicmastr-ports)**
    - **[Northfear](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-northfear-ports)**
    - **[Others](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-others)**
-1. 👾 APK
+  
+     
+2. 👾 APK
+   
    - **[Bully: Anniversary Edition](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-bully-anniversary-edition)**
    - **[Crazy Taxi: Classic](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-crazy-taxi-classic)**
    - **[Grand Theft Auto: Chinatown Wars](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-chinatown-wars)**
@@ -105,13 +146,22 @@ There are many ports out there and mostly they either use the APK version of it.
    - **[Sonic 1, 2, & CD](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonic-1-2--CD)**
    - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
    - **[Max Payne](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-max-payne)**
-2. 🖥️ Computer
+  
+     
+3. 🖥️ Computer
+   
    - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
    - **[Fallout](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout)**
    - **[Fallout 2](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout-2)**
-3. 🖱 Console Dump
+  
+     
+4. 🖱 Console Dump
+   
    - **[Super Mario 64](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-64)**
-4. ☢️ No Copy Required
+  
+     
+5. ☢️ No Copy Required
+   
    - **[Super Mario Bros](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-bros)**
 
 
