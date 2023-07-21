@@ -8,9 +8,9 @@ Every single file of this guide links to the repository release's. And every sin
 
 ### Last Check
 
-- CFW Guide: 18/April/2023
-- Plugins: 5/April/2023
-- Native Ports: 18/April/2023
+- CFW Guide: 22/June/2023 (This guide is compatible with PSVs that are on 3.74 and/or older)
+- Plugins: Can't be Outdated (If glitches found they may be fixed)
+- Native Ports: Can't be Outdated (If glitches found they may be fixed)
 - Themes: Can't be Outdated
 - Releases: 7/April/2023
 
