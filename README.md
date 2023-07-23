@@ -12,7 +12,7 @@ Every single file of this guide links to the repository release's. And every sin
 - Plugins: Can't be Outdated (If glitches found they may be fixed)
 - Native Ports: Can't be Outdated (If glitches found they may be fixed)
 - Themes: Can't be Outdated
-- Releases: 7/April/2023
+- Releases: 7/April/2023 (If glitches found they may be fixed)
 
 # Repository Navigation
 
