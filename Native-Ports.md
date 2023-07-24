@@ -6,39 +6,39 @@ This is the **"Native-Ports.md"** file contains the best ports i suggest and how
 🧭 Table of Contents
  1. 🔧 Devolopers
    
-   - **[TheOfficialFlow](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-theofficialflow-ports)**
-   - **[SonicMastr](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonicmastr-ports)**
-   - **[Northfear](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-northfear-ports)**
-   - **[Others](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-others)**
+   - **[TheOfficialFlow](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#-theofficialflow-ports)**
+   - **[SonicMastr](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#-sonicmastr-ports)**
+   - **[Northfear](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#-northfear-ports)**
+   - **[Others](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#-others)**
   
      
 2. 👾 APK
    
-   - **[Bully: Anniversary Edition](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-bully-anniversary-edition)**
-   - **[Crazy Taxi: Classic](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-crazy-taxi-classic)**
-   - **[Grand Theft Auto: Chinatown Wars](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-chinatown-wars)**
-   - **[Grand Theft Auto: San Andreas](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-san-andreas)**
-   - **[Grand Theft Auto: Vice City, III](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#grand-theft-auto-vice-city-iii)**
-   - **[Sonic 1, 2, & CD](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-sonic-1-2--CD)**
-   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
-   - **[Max Payne](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-max-payne)**
+   - **[Bully: Anniversary Edition](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#-bully-anniversary-edition)**
+   - **[Crazy Taxi: Classic](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#-crazy-taxi-classic)**
+   - **[Grand Theft Auto: Chinatown Wars](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-chinatown-wars)**
+   - **[Grand Theft Auto: San Andreas](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#-grand-theft-auto-san-andreas)**
+   - **[Grand Theft Auto: Vice City, III](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#grand-theft-auto-vice-city-iii)**
+   - **[Sonic 1, 2, & CD](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#-sonic-1-2--CD)**
+   - **[Sonic Mania](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
+   - **[Max Payne](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#-max-payne)**
   
      
 3. 🖥️ Computer
    
-   - **[Sonic Mania](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
-   - **[Fallout](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout)**
-   - **[Fallout 2](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout-2)**
+   - **[Sonic Mania](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#%EF%B8%8F--sonic-mania)**
+   - **[Fallout](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout)**
+   - **[Fallout 2](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#%EF%B8%8F-fallout-2)**
   
      
 4. 🖱 Console Dump
    
-   - **[Super Mario 64](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-64)**
+   - **[Super Mario 64](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#-super-mario-64)**
   
      
 5. ☢️ No Copy Required
    
-   - **[Super Mario Bros](https://github.com/ZHassanQ/Vita-Guide/blob/main/Native-Ports.md#-super-mario-bros)**
+   - **[Super Mario Bros](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Native-Ports.md#-super-mario-bros)**
 
 ## Prerequisites
 
@@ -46,15 +46,15 @@ This is the **"Native-Ports.md"** file contains the best ports i suggest and how
 
 The legal shader compiler **(libshaccg.suprx)** helps to make the developers, porters, or anyone who wants to make anything to PSVita easily to develop, ports a game or app to PSVita. 
 
-1. Download and install this app called **[PIB-Configuration-Tool](https://github.com/ZHassanQ/Vita-Guide/releases/download/VPK/PIBConfig.vpk)** to your PSVita. (Developed by **[SonicMastr](https://github.com/SonicMastr/)**)
+1. Download and install this app called **[PIB-Configuration-Tool](https://github.com/ZHassanQ/PSVita-Guide/releases/download/VPK/PIBConfig.vpk)** to your PSVita. (Developed by **[SonicMastr](https://github.com/SonicMastr/)**)
 2. Launch and press the Select button.
 
 ### Plugins
 
 And also you to play these ports you will need these **[plugin](https://github.com/TheOfficialFloW/kubridge)-[s.](https://github.com/TheOfficialFloW/FdFix)** As said from the official porters. (These plugins **aren't** included in AIO pack)
 
-1. Copy **[kubridge.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/kubridge.skprx)** to `ur0:tai` folder, add **"kubridge.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
-2. Copy **[fd_fix.skprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/fd_fix.skprx)** to `ur0:tai` folder, add **"fd_fix.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
+1. Copy **[kubridge.skprx](https://github.com/ZHassanQ/PSVita-Guide/releases/download/PRX/kubridge.skprx)** to `ur0:tai` folder, add **"kubridge.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
+2. Copy **[fd_fix.skprx](https://github.com/ZHassanQ/PSVita-Guide/releases/download/PRX/fd_fix.skprx)** to `ur0:tai` folder, add **"fd_fix.skprx"** into your `ur0:tai/"config.txt"` file under `*kernel` section.
 - **"fd_fix.skprx"** plugin isn't required if you installed **"repatch"** plugin.
 
 ### Installed
@@ -72,8 +72,8 @@ ur0:tai/fd_fix.skprx
 
 If you want more performance then use these two plugins: (These plugins **are** included in AIO pack) 
 
-- **[NoCapUnlocker](https://github.com/GrapheneCt/CapUnlocker)** Unlocks some non-game capabilities for PS Vita homebrew apps. (**[Guide](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-5-capunlocker)**)
-- **[PSVshell](https://github.com/Electry/PSVshell)** Yet another overclocking plugin. Use it to overclock your PSVita to 500Mhz. (**[Guide](https://github.com/ZHassanQ/Vita-Guide/blob/main/Plugins.md#-6-psvshellplus)**)
+- **[NoCapUnlocker](https://github.com/GrapheneCt/CapUnlocker)** Unlocks some non-game capabilities for PS Vita homebrew apps. (**[Guide](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Plugins.md#-5-capunlocker)**)
+- **[PSVshell](https://github.com/Electry/PSVshell)** Yet another overclocking plugin. Use it to overclock your PSVita to 500Mhz. (**[Guide](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Plugins.md#-6-psvshellplus)**)
 
 
 # 🔧 TheOfficialFlow Ports
@@ -91,8 +91,8 @@ If you want more performance then use these two plugins: (These plugins **are** 
 2. Extract from game's APK: `Android/obb/com.rockstargames.bully/main.11.com.rockstargames.bully.obb` file, and `Android/obb/com.rockstargames.bully/patch.11.com.rockstargames.bully.obb` file to `ux0:data/Bully/Android` folder.
 3. Rename **"main.11.com.rockstargames.bully.obb"** to **"main.obb"**
 4. Rename **"patch.11.com.rockstargames.bully.obb"** to **"patch.obb"**
-5. Extract **[data.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Bully-data.zip)** to `ux0:data/Bully` folder.
-6. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Bully_r1.vpk)** (It will create a shortcut in LiveArea) 
+5. Extract **[data.zip](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/Bully-data.zip)** to `ux0:data/Bully` folder.
+6. Install this **[VPK file.](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/Bully_r1.vpk)** (It will create a shortcut in LiveArea) 
 
 ### Notes
 
@@ -107,7 +107,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
 1. Extract from game's APK: `Assets` folder contents, and `libarmeabi-v7a/libgl2jni.so` file to `ux0:data/crazytaxi` folder. 
 2. Extract from game's APK: `Android/obb/com.sega.CrazyTaxi/main.67.com.sega.CrazyTaxi.obb` file to `ux0:data/crazytaxi
 3. Rename **"main.67.com.sega.CrazyTaxi.obb"** to **"main.obb"**
-4. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/CRAZYTAXI_r3.vpk)** (It will create a shortcut in LiveArea)
+4. Install this **[VPK file.](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/CRAZYTAXI_r3.vpk)** (It will create a shortcut in LiveArea)
 
 ## 👾 Grand Theft Auto: Chinatown Wars
 
@@ -118,7 +118,7 @@ If you want more performance then use these two plugins: (These plugins **are** 
 1. Extract from game's APK: `Assets` folder contents, and `libarmeabi-v7a/libCTW.so` file to `ux0:data/gtactw` folder. 
 2. Extract from game's APK: `Android/obb/com.rockstargames.gtactw/main.4.com.rockstargames.gtactw.obb` file on your Computer.
 3. Extract **"main.4.com.rockstargames.gtactw.obb"** file contents to `ux0:data/gtactw` folder
-4. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTACTW_r3.vpk)** (It will create a shortcut in LiveArea) 
+4. Install this **[VPK file.](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/GTACTW_r3.vpk)** (It will create a shortcut in LiveArea) 
 
 ## 👾 Grand Theft Auto: San Andreas
 
@@ -129,16 +129,16 @@ If you want more performance then use these two plugins: (These plugins **are** 
 1. Extract from game's APK: `Assets` folder contents, and `libarmeabi-v7a/libGTASA.so` file to `ux0:data/gtasa` folder. 
 2. Extract from game's APK: `Android/obb/com.rockstargames.gtasa/main.8.com.rockstargames.gtasa.obb` file, and `Android/obb/com.rockstargames.gtasa/patch.8.com.rockstargames.gtasa.obb` file on your Computer.
 3. Extract **"main.8.com.rockstargames.gtasa.obb"** and **"patch.8.com.rockstargames.gtasa.obb"** files contents to `ux0:data/gtasa`
-4. Extract **[data.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTASA-data.zip)** to `ux0:data/gtasa` folder.
-5. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTASA_r12.vpk)** (It will create a shortcut in LiveArea)
+4. Extract **[data.zip](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/GTASA-data.zip)** to `ux0:data/gtasa` folder.
+5. Install this **[VPK file.](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/GTASA_r12.vpk)** (It will create a shortcut in LiveArea)
 
 ### PGTeam Mod
 
 **[PGTeam](https://pgtmp.gitbook.io/pgbook_eng/)** have made mods to experience **Grand Theft Auto: San Andreas** as if it was the Defenitive Edition.
 
 1. Delete **"cache"** folder from `ux0:data/gtasa` folder. (If found)
-2. Extract **[GTASA-Mod.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTASA-Mod.zip)** to `ux0:data/gtasa` folder. (Overwrite any file if requested)
-3. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTASA_v2.1_PCAE.vpk)** over the one you installed.
+2. Extract **[GTASA-Mod.zip](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/GTASA-Mod.zip)** to `ux0:data/gtasa` folder. (Overwrite any file if requested)
+3. Install this **[VPK file.](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/GTASA_v2.1_PCAE.vpk)** over the one you installed.
 
 ### Notes
 
@@ -160,15 +160,15 @@ I can't provide any instructions on how to install either Vice City or III as th
 
 ### Grand Theft Auto: III
 
-1. Extract **[Mod.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII-Mod.zip)** to `ux0:data/gta3` folder. (Overwrite any file if requested)
+1. Extract **[Mod.zip](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/GTAIII-Mod.zip)** to `ux0:data/gta3` folder. (Overwrite any file if requested)
 2. After installing the mod, delete **"txd.img"** and **"txd.dir"** files from `ux0:data/gta3/models` folder.
-3. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAIII_v1.4_PCAE.vpk)** (It will create a shortcut in LiveArea)
+3. Install this **[VPK file.](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/GTAIII_v1.4_PCAE.vpk)** (It will create a shortcut in LiveArea)
 
 ### Grand Theft Auto: Vice City
 
-1. Extract **[Mod.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC-Mod.zip)** to `ux0:data/gtavc` folder. (Overwrite any file if requested)
+1. Extract **[Mod.zip](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/GTAVC-Mod.zip)** to `ux0:data/gtavc` folder. (Overwrite any file if requested)
 2. After installing the mod, delete **"txd.img"** and **"txd.dir"** files from `ux0:data/gtavc/models` folder.
-3. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/GTAVC_v1.1_PCAE.vpk)** (It will create a shortcut in LiveArea)
+3. Install this **[VPK file.](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/GTAVC_v1.1_PCAE.vpk)** (It will create a shortcut in LiveArea)
 
 
 # 🔧 SonicMastr Ports
@@ -188,9 +188,9 @@ I can't provide any instructions on how to install either Vice City or III as th
 1. **Sonic CD:** Extract from the game's APK: `assets/"Data.rsdk.msf"` file to `ux0:data/SonicCD/` folder.
 - **Sonic CD** only: Extract the Videos from your APK file in `Android/obb/com.sega.soniccd/"main.8.com.sega.soniccd.obb` file to `ux0:data/SonicCD` folder.
 5. Rename all files to: **"Data.rsdk"**
-6. Install **[Sonic1 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic1_r4.vpk)** file for Sonic the Hedgehog 1.
-7. Install **[Sonic2 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Sonic2_r4.vpk)** file for Sonic the Hedgehog 2.
-8. Install **[SonicCD VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicCD_r3.vpk)** file for Sonic CD.
+6. Install **[Sonic1 VPK](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/Sonic1_r4.vpk)** file for Sonic the Hedgehog 1.
+7. Install **[Sonic2 VPK](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/Sonic2_r4.vpk)** file for Sonic the Hedgehog 2.
+8. Install **[SonicCD VPK](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/SonicCD_r3.vpk)** file for Sonic CD.
 
 ### Notes
 
@@ -210,18 +210,18 @@ I can't provide any instructions on how to install either Vice City or III as th
 ### Installation
 
 1. Extract from the game's APK or copy **"Data.rsdk"** file (Can be obtained by buying the game) to`ux0:data/Mania` folder.
-2. Download these two **[Game.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Game.suprx)** - **[Settings.ini](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/Settings.ini)** files and put them in `ux0:data/Mania` folder.
-3. Download this **[modconfig.ini](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/modconfig.ini)** file and put it in `ux0:data/Mania/mods` folder.
-4. Install **[SonicMania VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicMania_r3.vpk)** file.
+2. Download these two **[Game.suprx](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/Game.suprx)** - **[Settings.ini](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/Settings.ini)** files and put them in `ux0:data/Mania` folder.
+3. Download this **[modconfig.ini](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/modconfig.ini)** file and put it in `ux0:data/Mania/mods` folder.
+4. Install **[SonicMania VPK](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/SonicMania_r3.vpk)** file.
 
 ### Notes
 
 - Special stages are still slow. Still too slow. Very, very, veryyyy slow.
-  - This **[mod](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/SonicMania-NoSSDecorations.zip)** (**[Original Source](https://gamebanana.com/mods/408483)**) remove some assets from special stages to load. it will help improving the performance.
+  - This **[mod](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/SonicMania-NoSSDecorations.zip)** (**[Original Source](https://gamebanana.com/mods/408483)**) remove some assets from special stages to load. it will help improving the performance.
 - You can use mods by putting them in `ux0:data/Mania/mods/` folder.
   - Any mods that use a **".dll"** file will NOT work.
   - Asset/Palette swap mods will most likely require checking for `TargetVersion` to equal 5. MAKE SURE THIS IS CHECKED
-- These two mods: **[MaxControlVita](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxControlVita.zip)** and **[UltraWideManiaVita](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/UltrawideManiaVita.zip)** are from **[SonicMastr.](https://github.com/SonicMastr/)**
+- These two mods: **[MaxControlVita](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/MaxControlVita.zip)** and **[UltraWideManiaVita](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/UltrawideManiaVita.zip)** are from **[SonicMastr.](https://github.com/SonicMastr/)**
 
 
 # Northfear Ports
@@ -237,7 +237,7 @@ I can't provide any instructions on how to install either Vice City or III as th
 1. Copy **"MASTER.DAT"**, **"CRITTER.DAT"** files and **"DATA"** folder (Can be obtained by buying the game) to `ux0:data/fallout` folder.
 - Copy **"fallout.cfg"** too, if you're using non-english Fallout version.
   - Or make sure that language setting is properly set in it like: `language=german`
-2. Install **[Fallout VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/fallout-ce_r2.vpk)** file.
+2. Install **[Fallout VPK](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/fallout-ce_r2.vpk)** file.
 
 ## 🖥️ Fallout 2
 
@@ -246,7 +246,7 @@ I can't provide any instructions on how to install either Vice City or III as th
 1. Copy **"master.dat"**, **"critter.dat"**, **"patch000.dat"** files, **"data"**, and **"sound"** folders (Can be obtained by buying the game) to `ux0:data/fallout2` folder.
 - Copy **"fallout2.cfg"** too, if you're using non-english Fallout version.
   - Or make sure that language setting is properly set in it like: `language=german`
-2. Install **[Fallout 2 VPK](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/fallout2-ce_r10.vpk)** file.
+2. Install **[Fallout 2 VPK](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/fallout2-ce_r10.vpk)** file.
 
 # 🔧 Others
 ## ☢️ Super Mario Bros
@@ -263,7 +263,7 @@ This **[Super Mario 64](https://github.com/martepato/sm64-vita)** port has been 
 
 ### Installation
 
-1. Download the **[master branch](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/sm64-vita-master.zip)** of this **[repository.](https://github.com/martepato/sm64-vita)** (**"master branch"** links to a backup in this repository)
+1. Download the **[master branch](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/sm64-vita-master.zip)** of this **[repository.](https://github.com/martepato/sm64-vita)** (**"master branch"** links to a backup in this repository)
 2. Download and install **[VitaSDK](https://vitasdk.org/)**
 3. Enter the **"master branch"** by Terminal, CMD. `cd sm64-vita`
 4. Place a Super Mario 64 ROM called **"baserom.VERSION.z64"** into the repository's root directory for asset extraction, where **"VERSION"** can be `us`, `jp`, or `eu`
@@ -284,15 +284,15 @@ This **[Max Payne](https://github.com/fgsfdsfgs/max_vita)** port has been ported
 2. Extract **"assets"** folder from your APK to `ux0:data/maxpayne` folder.
 3. Extract **"libMaxPayne.so"** file from your APK in `lib/armeabi-v7a` folder to `ux0:data/maxpayne` folder.
 4. Extract **".obb"** file from your APK to `ux0:data/maxpayne` folder.
-5. Extract **[data.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxPayne-data.zip)** to `ux0:data` folder.
-6. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxPayne_r4.vpk)** (It will create a shortcut in LiveArea) 
+5. Extract **[data.zip](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/MaxPayne-data.zip)** to `ux0:data` folder.
+6. Install this **[VPK file.](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/MaxPayne_r4.vpk)** (It will create a shortcut in LiveArea) 
 
 ### PGTeam Mod
 
 **[PGTeam](https://pgtmp.gitbook.io/pgbook_eng/)** have made mods to experience **Max Payne** as if it was the Computer version.
 
-1. Extract **[MaxPayne-Mod.zip](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxPayne-Mod.zip)** to `ux0:data/maxpayne` folder. (Overwrite any file if requested)
-2. Install this **[VPK file.](https://github.com/ZHassanQ/Vita-Guide/releases/download/Assets/MaxPayne_vr4_PCAE.vpk)** over the one you installed.
+1. Extract **[MaxPayne-Mod.zip](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/MaxPayne-Mod.zip)** to `ux0:data/maxpayne` folder. (Overwrite any file if requested)
+2. Install this **[VPK file.](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Assets/MaxPayne_vr4_PCAE.vpk)** over the one you installed.
 
 ### Notes
 
