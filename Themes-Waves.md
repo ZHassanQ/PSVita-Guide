@@ -1,6 +1,6 @@
 # Custom Themes and Waves
 
-This md file contains a tutorial on how to use both custom **[themes](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#themes)** and/or **[waves.](https://github.com/ZHassanQ/Vita-Guide/blob/main/Themes-Waves.md#waves)**
+This md file contains a tutorial on how to use both custom **[themes](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Themes-Waves.md#themes)** and/or **[waves.](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Themes-Waves.md#waves)**
 
 # Themes
 
@@ -8,13 +8,13 @@ Thanks to this **[website](https://psvt.ovh/index.php)** which is like an online
 
 ## Installation
 
-1. Download and install **[Custom Themes Manager](https://github.com/ZHassanQ/Vita-Guide/releases/download/VPK/CTManager.vpk)** VPK file.
+1. Download and install **[Custom Themes Manager](https://github.com/ZHassanQ/PSVita-Guide/releases/download/VPK/CTManager.vpk)** VPK file.
 2. Download your Custom themes and put them in: `ux0:customtheme` folder.
-- In this **[release](https://github.com/ZHassanQ/Vita-Guide/releases/tag/THEM)** there are already downloaded custom themes from this **[website](https://psvt.ovh/index.php)**
+- In this **[release](https://github.com/ZHassanQ/PSVita-Guide/releases/tag/THEM)** there are already downloaded custom themes from this **[website](https://psvt.ovh/index.php)**
 3. Launch **"Custom Themes Manager"** on your PSVita.
 4. Select **"Install a Custom Theme from a folder"**
 - If you want to install Custom Themes using Internet Connection then:
-    - Extract this **[file](https://github.com/ZHassanQ/Vita-Guide/releases/download/THEM/Previews.zip)** in: `ux0:`
+    - Extract this **[file](https://github.com/ZHassanQ/PSVita-Guide/releases/download/THEM/Previews.zip)** in: `ux0:`
     - Select **"Download a Custom Theme"**
 5. Select and install your Theme.
 
@@ -27,8 +27,8 @@ Thanks to **[Princess of Sleeping](https://github.com/Princess-of-Sleeping/)** f
 
 This plugin can be easily installed like all the plugins. (Not included in **"AIO-Plugins"** pack)
 
-0. Download this **[file](https://github.com/ZHassanQ/Vita-Guide/releases/download/THEM/waveparam.zip)** and extract it in `ux0:data` folder.
-1. Copy **[psp2wpp.suprx](https://github.com/ZHassanQ/Vita-Guide/releases/download/PRX/psp2wpp.suprx)** to `ur0:tai` folder, add **"psp2wpp.suprx"** into your `ur0:tai/"config.txt"` file under `*main` section.
+0. Download this **[file](https://github.com/ZHassanQ/PSVita-Guide/releases/download/THEM/waveparam.zip)** and extract it in `ux0:data` folder.
+1. Copy **[psp2wpp.suprx](https://github.com/ZHassanQ/PSVita-Guide/releases/download/PRX/psp2wpp.suprx)** to `ur0:tai` folder, add **"psp2wpp.suprx"** into your `ur0:tai/"config.txt"` file under `*main` section.
 
 ### Installed 
 
@@ -54,6 +54,6 @@ There are custom waveparams that are already have been made and i will link thei
 1. Grab your waveparam pack.
 - Each pack contains 31 waveparams as limit which is PSVita's limit.
 - For now in this repository there's:
-  - **[Pack 1](https://github.com/ZHassanQ/Vita-Guide/releases/download/Wave/Pack-1.zip)**
+  - **[Pack 1](https://github.com/ZHassanQ/PSVita-Guide/releases/download/Wave/Pack-1.zip)**
 2. Extract the **"pack"** you chose to `ux0:data/waveparams` folder.
 3. Restart your PSVita.
