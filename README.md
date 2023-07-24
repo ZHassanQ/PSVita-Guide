@@ -178,3 +178,11 @@ This **[MD file](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Themes-Waves
 2. **[Waves](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Themes-Waves.md#waves)**
    - **[Set Up](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Themes-Waves.md#set-up)**
    - **[Installation](https://github.com/ZHassanQ/PSVita-Guide/blob/main/Themes-Waves.md#installation-1)**
+
+
+# Other Guides
+
+If you have PS3, or PS4 then go check out these repositories! They have a full guide on how to do nearly everything on them covered about the PlayStation 3 and PlayStation 4 homebrew. And how to jailbreak them or, to exploit them.
+
+- **[PS3 Guide](https://github.com/ZHassanQ/PS3-Guide)** contains how to install either HEN or, CFW on your PlayStation 3 and more.
+- **[PS4 Guide](https://github.com/ZHassanQ/PS4-Guide)** contains how to install GoldHEN on your PlayStation 4 using an exploit, and more.
