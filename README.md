@@ -8,7 +8,7 @@ Every single file of this guide links to the repository release's. And every sin
 
 ### Last Check
 
-- CFW Guide: Up-to-Date for 3.74 and/older.
+- CFW Guide: Up-to-Date for 3.74 and/or older.
 - Plugins: Can't be Outdated (If glitches found they may be fixed)
 - Native Ports: Can't be Outdated (If glitches found they may be fixed)
 - Themes: Can't be Outdated
