@@ -4,15 +4,14 @@ This repository contains a complete guide on how to install CFW (Custom Frimware
 
 ## Up-to-Date?
 
-Every single file of this guide links to the repository release's. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word. (If you found out an outdated app, pull a request for others)
+Every single file of this guide links to the repository release's. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word.
 
 ### Last Check
 
-- CFW Guide: 22/June/2023 (This guide is compatible with PSVs that are on 3.74 and/or older)
+- CFW Guide: Up-to-Date for 3.74 and/older.
 - Plugins: Can't be Outdated (If glitches found they may be fixed)
 - Native Ports: Can't be Outdated (If glitches found they may be fixed)
 - Themes: Can't be Outdated
-- Releases: 7/April/2023 (If glitches found they may be fixed)
 
 # Repository Navigation
 
